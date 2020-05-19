@@ -26,8 +26,9 @@
 * 建構活動的產物 ---原始碼--- 往往是對軟體唯一精確的描述
 	* 文件跟規格書可能過時，但原始碼一定是最新的
 * 建構活動是唯一一項確保會完成的工作
-	* 
+	* 需求分析、架構設計甚至測試都有可能因為時間因素而縮減或略過
+	* 而只有建構活動是一定會完成的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTQ1MDQxMCwtMTU3NTg2Mzc2MywtMz
+eyJoaXN0b3J5IjpbLTQ2NTIyNDg1MywtMTU3NTg2Mzc2MywtMz
 k1MTAwODFdfQ==
 -->
