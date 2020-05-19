@@ -24,8 +24,8 @@
 * 建構活動是軟體開發的核心活動
 * 把主要精力集中於建構活動可提高程式設計師的生產率
 * 建構活動的產物 ---原始碼--- 往往是對軟體唯一精確的描述
-	* 文件跟
+	* 文件跟規格書可能過時，但原始碼一定是最新的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzc1MzEyMywtMTU3NTg2Mzc2MywtMz
-k1MTAwODFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTIxNDkyOTEsLTE1NzU4NjM3NjMsLT
+M5NTEwMDgxXX0=
 -->
