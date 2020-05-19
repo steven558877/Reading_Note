@@ -20,8 +20,10 @@
 
 ## 軟體建構為何如此重要
 * 建構活動佔了軟體開發的主要組成部分
-	* 通常佔用
+	* 通常佔用30%~80%的時間
+* 建構活動是軟體開發的核心活動
+* 把主要精力集中於建構活動可提高程式設計師的生產率
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjM3MDExNywtMTU3NTg2Mzc2MywtMz
+eyJoaXN0b3J5IjpbLTIxNzE2MzQxOCwtMTU3NTg2Mzc2MywtMz
 k1MTAwODFdfQ==
 -->
