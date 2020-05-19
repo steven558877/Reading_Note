@@ -1,5 +1,5 @@
 # 歡迎進入軟體建構的世界
-
+## 什麼是軟體建構
  建構是由軟體開發中的下列主要步驟所組成
 * 規劃建構
 * 軟體架構
@@ -11,10 +11,15 @@
 
 其中以邊碼與除錯最為重要，這些只是部分較為重要的項目，完整的建構列表請參閱書中的目錄。
 
-非建構活動:
+而非建構活動則是
 * 管理
-* 軟ㄊ
+* 軟體架構設計
+* 使用者介面設計
+* 系統測試
+* 維護
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0NjY1NDgwLC0xNTc1ODYzNzYzLC0zOT
-UxMDA4MV19
+eyJoaXN0b3J5IjpbLTE0Nzg2MTQ0MSwtMTU3NTg2Mzc2MywtMz
+k1MTAwODFdfQ==
 -->
