@@ -23,7 +23,9 @@
 	* 通常佔用30%~80%的時間
 * 建構活動是軟體開發的核心活動
 * 把主要精力集中於建構活動可提高程式設計師的生產率
+* 建構活動的產物 ---原始碼--- 往往是對軟體唯一精確的描述
+	* 文件跟
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzE2MzQxOCwtMTU3NTg2Mzc2MywtMz
+eyJoaXN0b3J5IjpbLTYyMzc1MzEyMywtMTU3NTg2Mzc2MywtMz
 k1MTAwODFdfQ==
 -->
