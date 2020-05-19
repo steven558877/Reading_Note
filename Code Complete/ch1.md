@@ -18,8 +18,10 @@
 * 系統測試
 * 維護
 
-
+## 軟體建構為何如此重要
+* 建構活動佔了軟體開發的主要組成部分
+	* 通常佔用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg2MTQ0MSwtMTU3NTg2Mzc2MywtMz
+eyJoaXN0b3J5IjpbLTgxNjM3MDExNywtMTU3NTg2Mzc2MywtMz
 k1MTAwODFdfQ==
 -->
