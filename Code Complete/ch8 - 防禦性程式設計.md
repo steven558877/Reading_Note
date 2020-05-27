@@ -6,9 +6,12 @@
 3. 決定如何處裡錯誤的輸入資料
 
 ## 斷言(assertion)
-做程式自我測試時用，例如某個函數帶入某參數應該要回傳某個值，否則就是錯誤，就要用斷言，斷言程式有錯。通常只有在開發中會ㄐㄧㄤ
+做程式自我測試時用，例如某個函數帶入某參數應該要回傳某個值，否則就是錯誤，就要用斷言，斷言程式有錯。通常只有在開發中會將斷言的程式碼寫入產品程式碼中，發布後就會清除。
+
+### 使用斷言的指引
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA2MTkyODEsMTAyMjIzNjY1MCwyMD
+eyJoaXN0b3J5IjpbLTE4NTY0NTk3MjcsMTAyMjIzNjY1MCwyMD
 Y1NDUxMDhdfQ==
 -->
