@@ -5,8 +5,8 @@
 2. 檢查其他子程式輸入的資料
 3. 決定如何處裡錯誤的輸入資料
 
-## 斷言
-做程式自我測試時用，通常ㄏㄨㄟ
+## 斷言(assertion)
+做程式自我測試時用，例如某個函數帶入某參數應該要回傳某個值，否則就是錯誤，就要用斷言，斷言程式有錯。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODYyNDM2OCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbMTA4MDUxMDY1MiwyMDY1NDUxMDhdfQ==
 -->
