@@ -10,8 +10,9 @@
 
 ### 使用斷言的指引
 1. 錯誤處理程式是用來接可能會發生的錯誤，而斷言是用來處理絕不該發生的事。錯誤處理通常是來防止有害的輸入，而斷言是用來檢查程式的BUG。
-2. 避免把需要執行的程式放入斷言中，因為如果後來關閉斷言功能後
+2. 避免把需要執行的程式放入斷言中，因為如果後來關閉斷言功能後可能會被編譯器最佳化掉，因此最好將程式拉出來執行再將結果丟給斷言判斷。
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTI5NjMyOCwxMDIyMjM2NjUwLDIwNj
+eyJoaXN0b3J5IjpbMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNj
 U0NTEwOF19
 -->
