@@ -15,8 +15,10 @@
 	```C++
 	int fun(int K)
 	```
-	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則為fun 回傳的值有沒ㄧ
+	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則
+		為fun 回傳的值有沒有達到條件。
+4. 對於高健全的程式法
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg1Nzc0ODEsLTU5MzQ2NjQ3LDExOD
-I3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbLTg0NjIxODU3NywtNTkzNDY2NDcsMTE4Mj
+cwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
 -->
