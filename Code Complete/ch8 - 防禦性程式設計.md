@@ -1,9 +1,9 @@
 # 防禦性程式設計
-思維: 子程式不應因傳入非法參數而被破壞
+子程式不應因傳入非法參數而被破壞，在開發時也不要引入錯誤，例如開始之前先寫虛擬碼、TDD等等技術避免引入錯誤
 ## 保護程式免遭非法輸入資料破壞
 1. 檢查所有外來的資料
 2. 檢查其他子程式輸入的資料
 3. 決定如何處裡錯誤的輸入資料
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODMwODE1NywyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbMTY0ODA2Njk3MCwyMDY1NDUxMDhdfQ==
 -->
