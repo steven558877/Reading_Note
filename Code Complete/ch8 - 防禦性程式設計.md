@@ -11,11 +11,12 @@
 ### 使用斷言的指引
 1. 錯誤處理程式是用來接可能會發生的錯誤，而斷言是用來處理絕不該發生的事。錯誤處理通常是來防止有害的輸入，而斷言是用來檢查程式的BUG。
 2. 避免把需要執行的程式放入斷言中，因為如果後來關閉斷言功能後可能會被編譯器最佳化掉，因此最好將程式拉出來執行再將結果丟給斷言判斷。
-3. 用斷言來註解並驗證前置條件及後置條件。例如以下程式:
-```C++
-int fun(int K)
-```
+3. 用斷言來註解並驗證前置條件及後置條件。例如以下函式:
+	```C++
+	int fun(int K)
+	```
+	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則為fun 回傳的值有沒ㄧ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzczNzIyNiwtNTkzNDY2NDcsMTE4Mj
-cwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbLTEzMjg1Nzc0ODEsLTU5MzQ2NjQ3LDExOD
+I3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
 -->
