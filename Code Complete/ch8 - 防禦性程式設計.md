@@ -17,9 +17,12 @@
 	```
 	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則
 		為fun 回傳的值有沒有達到條件。
-4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P
+4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P.195)
+
+## 錯誤處理技術
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTc5NzA5MCwtMTQ0MDIxMDkzMCwtNT
+eyJoaXN0b3J5IjpbMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNT
 kzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEw
 OF19
 -->
