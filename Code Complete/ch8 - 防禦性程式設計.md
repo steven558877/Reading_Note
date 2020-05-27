@@ -4,6 +4,9 @@
 1. 檢查所有外來的資料
 2. 檢查其他子程式輸入的資料
 3. 決定如何處裡錯誤的輸入資料
+
+## 斷言
+做程式自我測試時用，通常ㄏㄨㄟ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODA2Njk3MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbMTAwODYyNDM2OCwyMDY1NDUxMDhdfQ==
 -->
