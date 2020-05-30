@@ -55,9 +55,10 @@
 	* 用例外可以確保他無法被忽略。
 * 只有真正例外的情況下才拋出例外
 	* 只用來處理不但罕見且甚至永遠不該發生的事
-	* 用例外時需要做取捨，因為例外破壞了程式設計的「封裝性」因為
+	* 用例外時需要做取捨，因為例外破壞了程式設計的「封裝性」，因為子程式需要去了解例外的意義。同時程式的複雜度也會變高，與第五章的「軟體建構中的設計」是背道而馳的，因此需要謹慎使用。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNjA0NzA1LC0xMjcyMjgzODMxLC05MD
-I2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2
-NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbLTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOT
+AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
+NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
+==
 -->
