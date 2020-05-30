@@ -37,10 +37,12 @@
 	* 也可以使用語言內建的例外處理
 * 呼叫錯誤處理子程式
 	* 優點在於能將所有錯誤集中處理，缺點在於攻擊者可能可以修改此程式，再引發錯誤，導致程式不再安全
-* 
+* 顯示錯誤訊息
+	* 但要調整適當的資訊量
+* 用最妥當的方式局部處理錯誤
+	* 彈性很高，但是會影響
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjQ3OTM0NSwtMTI3MjI4MzgzMSwtOT
-AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
-NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
-==
+eyJoaXN0b3J5IjpbLTI3NDI4MDg1LC0xMjcyMjgzODMxLC05MD
+I2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2
+NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
 -->
