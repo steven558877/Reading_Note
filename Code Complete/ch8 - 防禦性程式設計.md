@@ -42,10 +42,13 @@
 * 用最妥當的方式局部處理錯誤
 	* 彈性很高，但是會影響系統整體的正確性及健全性(下述)
 * 關閉程式
-	* 攸關人生安全的程式或是資訊安全
+	* 攸關人生安全的程式或是資訊安全的環境，用這方法是ok的
+### 健全性(robustness)與正確性(correctness)
+
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzEyODYwOSwtMTI3MjI4MzgzMSwtOT
-AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
-NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MDE5OTE4NTcsLTEyNzIyODM4MzEsLT
+kwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0
+NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX
+0=
 -->
