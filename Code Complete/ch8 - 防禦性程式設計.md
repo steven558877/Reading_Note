@@ -40,9 +40,12 @@
 * 顯示錯誤訊息
 	* 但要調整適當的資訊量
 * 用最妥當的方式局部處理錯誤
-	* 彈性很高，但是會影響
+	* 彈性很高，但是會影響系統整體的正確性及健全性(下述)
+* 關閉程式
+	* 攸關人生安全的程式或是資訊安全
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDI4MDg1LC0xMjcyMjgzODMxLC05MD
-I2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2
-NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbLTQ2NzEyODYwOSwtMTI3MjI4MzgzMSwtOT
+AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
+NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
+==
 -->
