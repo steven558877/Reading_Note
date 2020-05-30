@@ -28,10 +28,10 @@
 * 返回與前次相同的值
 	* 如同上面體溫的舉例，你也可以返回上次量到的正確體溫。但如果是用於銀行的交易就不能使用這個方法，因為上次成功交易可能是別人的值。
 * 換用最接近的合法值
-	* 例如溫度合法ㄈㄢ
+	* 例如溫度合法範圍為0~100時，量到小於0或是大於100的就可以換成對接近的合法值
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTIzNzg4MCwtOTAyNjU3MTIxLDE0MD
+eyJoaXN0b3J5IjpbMTI3OTA2Njg3MywtOTAyNjU3MTIxLDE0MD
 IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
 MzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
 -->
