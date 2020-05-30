@@ -49,12 +49,13 @@
 ### 高層程式設計對錯誤處理方式的影響
 有這麼多錯誤處理方式的選擇，整個程式內應要採取一致的方式處理。一但採用了某方法就要貫徹執行。例如你決定再高層處理錯誤，低層只回報錯誤那就要嚴格執行，確保高層真的有處理錯誤。記得再你覺得不會覺不會發生錯誤的地方加入錯誤偵測，這是防禦性程式設計的核心概念- 防禦你曾未料的錯誤。
 ## 例外(Exceptions)
-對出錯的前因後果的程式碼可以把控制權及錯誤丟給系統，系統能更好的理解錯誤。但
+對出錯的前因後果的程式碼可以把控制權及錯誤丟給系統，系統能更好的理解錯誤。但草率的使用例外會導致與繼承一樣的問題，會導致程式難以理解。
 ### 使用例外的訣竅
-	
+* 用例外通知程式的其他部分，發生不可忽略的錯誤
+	* 用例外可以確保
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA4ODQ5NTUsLTEyNzIyODM4MzEsLT
-kwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0
-NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX
-0=
+eyJoaXN0b3J5IjpbLTQzNjg0MjA2MiwtMTI3MjI4MzgzMSwtOT
+AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
+NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
+==
 -->
