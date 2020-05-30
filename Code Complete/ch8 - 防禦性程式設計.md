@@ -26,9 +26,12 @@
 *  換用下一筆正確資料
 	* 有時候資料流出現錯誤時只需要讀取下一筆正確資料即可，例如以每秒一千次的頻率量測體溫，如果這次量測有問題，只需要等1/1000秒的時間即可得到下一筆正確資料。
 * 返回與前次相同的值
-	*如同上面體溫的舉例，你也可以返回上次量到的正確體溫。但如果是 
+	* 如同上面體溫的舉例，你也可以返回上次量到的正確體溫。但如果是用於銀行的交易就不能使用這個方法，因為上次成功交易可能是別人的值。
+* 換用最接近的合法值
+	* 
+	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDk2NDA5NywxNDAyMzQxMzEzLC0xND
+eyJoaXN0b3J5IjpbLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xND
 QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
 NTAsMjA2NTQ1MTA4XX0=
 -->
