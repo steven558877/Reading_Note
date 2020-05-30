@@ -32,9 +32,13 @@
 * 將警告訊息寫入日誌
 	* 可以和其他方法合併使用
 * 返回錯誤碼
-	* 只簡單回報錯誤
+	* 只簡單回報有錯誤發生，後續處理交給其他子程式。
+	* 可以設定並回傳狀態值
+	* 也可以使用語言內建的例外處理
+* 呼叫錯誤處理子程式
+	* 優點在於能將所有錯誤集中處理
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTc3NjU2OCwtMTI3MjI4MzgzMSwtOT
+eyJoaXN0b3J5IjpbLTg1MzEzMTg5NCwtMTI3MjI4MzgzMSwtOT
 AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
 NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
 ==
