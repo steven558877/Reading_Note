@@ -47,9 +47,10 @@
 健全性是指寧願回傳回一個不那麼正確的資料也要回傳，正確性是指寧願停止程式也不要回傳不正確的資料
 
 ### 高層程式設計對錯誤處理方式的影響
-有這麼多錯誤處理方式的選擇，
+有這麼多錯誤處理方式的選擇，整個程式內應要採取一致的方式處理。一但採用了某方法就要貫徹執行。例如你決定再高層處理
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDUxMzExLC0xMjcyMjgzODMxLC05MD
-I2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2
-NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbLTIwODUwNjQyNjQsLTEyNzIyODM4MzEsLT
+kwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0
+NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX
+0=
 -->
