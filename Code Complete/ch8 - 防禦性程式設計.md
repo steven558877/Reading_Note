@@ -23,12 +23,12 @@
 當我們預期會遇到錯誤時能夠採取下列手段單獨或合併使用:
 * 返回中立值
 	* 選擇一個適當的中立值返回，例如0或是空字串等等，但如果是在一些要求準確度的場合時，停止程式會比返回中立值適當。
-	* 
-* 換用下一筆正確資料
+*  換用下一筆正確資料
 	* 有時候資料流出現錯誤時只需要讀取下一筆正確資料即可，例如以每秒一千次的頻率量測體溫，如果這次量測有問題，只需要等1/1000秒的時間即可得到下一筆正確資料。
-	* 
+* 返回與前次相同的值
+	*如同上面體溫的舉例，你也可以返回上次量到的正確體溫。但如果是 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk4MzM3NTcsMTQwMjM0MTMxMywtMT
-Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
-NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbMTM3MDk2NDA5NywxNDAyMzQxMzEzLC0xND
+QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
+NTAsMjA2NTQ1MTA4XX0=
 -->
