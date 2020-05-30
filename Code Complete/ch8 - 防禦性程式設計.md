@@ -29,9 +29,13 @@
 	* 如同上面體溫的舉例，你也可以返回上次量到的正確體溫。但如果是用於銀行的交易就不能使用這個方法，因為上次成功交易可能是別人的值。
 * 換用最接近的合法值
 	* 例如溫度合法範圍為0~100時，量到小於0或是大於100的就可以換成最接近的合法值。
-* 
+* 將警告訊息寫入日誌
+	* 可以和其他方法合併使用
+* 返回錯誤碼
+	* 只簡單回報錯誤
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxND
-AyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAx
-MTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbLTk0NTc3NjU2OCwtMTI3MjI4MzgzMSwtOT
+AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
+NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
+==
 -->
