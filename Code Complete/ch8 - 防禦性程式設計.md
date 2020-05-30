@@ -20,9 +20,11 @@
 4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P.195)
 
 ## 錯誤處理技術
-
+當我們預期會遇到錯誤時能夠採取下列手段單獨或合併使用:
+* 返回中立值
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNT
-kzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEw
-OF19
+eyJoaXN0b3J5IjpbNTQ5Mzg1NDI1LDE0MDIzNDEzMTMsLTE0ND
+AyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1
+MCwyMDY1NDUxMDhdfQ==
 -->
