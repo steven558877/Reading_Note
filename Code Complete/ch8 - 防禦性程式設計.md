@@ -22,9 +22,10 @@
 ## 錯誤處理技術
 當我們預期會遇到錯誤時能夠採取下列手段單獨或合併使用:
 * 返回中立值
-	* 
+	* 選擇一個適當的中立值返回，例如0或是空字串等等，但如果是在一些要求準確度的場合時，停止程式會比返回中立值適當。
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5Mzg1NDI1LDE0MDIzNDEzMTMsLTE0ND
-AyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1
-MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbLTE1ODM2MTk5OCwxNDAyMzQxMzEzLC0xND
+QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
+NTAsMjA2NTQ1MTA4XX0=
 -->
