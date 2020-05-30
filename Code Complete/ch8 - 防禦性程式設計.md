@@ -20,7 +20,7 @@
 4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P.195)
 
 ## 錯誤處理技術
-當我們預期會遇到錯誤時能夠採取下列手段單獨或合併使用:
+當我們預期會遇到錯誤時能夠適當的選擇下列手段單獨或合併使用:
 * 返回中立值
 	* 選擇一個適當的中立值返回，例如0或是空字串等等，但如果是在一些要求準確度的場合時，停止程式會比返回中立值適當。
 *  換用下一筆正確資料
@@ -28,10 +28,10 @@
 * 返回與前次相同的值
 	* 如同上面體溫的舉例，你也可以返回上次量到的正確體溫。但如果是用於銀行的交易就不能使用這個方法，因為上次成功交易可能是別人的值。
 * 換用最接近的合法值
-	* 例如溫度合法範圍為0~100時，量到小於0或是大於100的就可以換成對接近的合法值
-	 
+	* 例如溫度合法範圍為0~100時，量到小於0或是大於100的就可以換成最接近的合法值。
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTA2Njg3MywtOTAyNjU3MTIxLDE0MD
-IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
-MzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbLTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxND
+AyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAx
+MTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
 -->
