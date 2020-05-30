@@ -40,15 +40,14 @@
 * 顯示錯誤訊息
 	* 但要調整適當的資訊量
 * 用最妥當的方式局部處理錯誤
-	* 彈性很高，但是會影響系統整體的正確性及健全性(下述)
+	* 彈性很高，但是會影響系統整體的正確性或健全性(下述)
 * 關閉程式
 	* 攸關人生安全的程式或是資訊安全的環境，用這方法是ok的
 ### 健全性(robustness)與正確性(correctness)
-
+健全性是指寧願回傳回一個不那麼正確的資料也要回傳，正確性是指寧願停止程式也不要回傳ㄎ
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE5OTE4NTcsLTEyNzIyODM4MzEsLT
-kwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0
-NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX
-0=
+eyJoaXN0b3J5IjpbNzM0MzA4OTUsLTEyNzIyODM4MzEsLTkwMj
+Y1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0
+NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
 -->
