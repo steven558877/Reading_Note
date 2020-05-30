@@ -44,10 +44,12 @@
 * 關閉程式
 	* 攸關人生安全的程式或是資訊安全的環境，用這方法是ok的
 ### 健全性(robustness)與正確性(correctness)
-健全性是指寧願回傳回一個不那麼正確的資料也要回傳，正確性是指寧願停止程式也不要回傳ㄎ
-	
+健全性是指寧願回傳回一個不那麼正確的資料也要回傳，正確性是指寧願停止程式也不要回傳不正確的資料
+
+### 高層程式設計對錯誤處理方式的影響
+有這麼多錯誤處理方式的選擇，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MzA4OTUsLTEyNzIyODM4MzEsLTkwMj
-Y1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0
-NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbLTQ5NDUxMzExLC0xMjcyMjgzODMxLC05MD
+I2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2
+NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
 -->
