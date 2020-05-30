@@ -52,9 +52,11 @@
 對出錯的前因後果的程式碼可以把控制權及錯誤丟給系統，系統能更好的理解錯誤。但草率的使用例外會導致與繼承一樣的問題，會導致程式難以理解。
 ### 使用例外的訣竅
 * 用例外通知程式的其他部分，發生不可忽略的錯誤
-	* 用例外可以確保
+	* 用例外可以確保他無法被忽略。
+* 只有真正例外的情況下才拋出例外
+	* 只用來處理不但罕見且甚至永遠不該發生的事
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjg0MjA2MiwtMTI3MjI4MzgzMSwtOT
+eyJoaXN0b3J5IjpbLTY0NzEzMTQ3OSwtMTI3MjI4MzgzMSwtOT
 AyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2
 NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ
 ==
