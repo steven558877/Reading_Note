@@ -78,11 +78,11 @@
 	* 考慮是否要採用集中的錯誤報告機制
 	* 規定是否允許在建構/解構函式中使用例外
 * 考慮例外的替代方案
-	* 在處理錯誤時有很多方案，局部處理
+	* 在處理錯誤時有很多方案，局部處理、傳遞錯誤碼、在日誌中紀錄、關閉系統等等，而非是因為語言提供例外處理就只使用他，變成為用而用、「用語言的現有環境來創造程式」。我們應以「」
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2Njk2MzAyLDQxNjYwNjY5LDE2OTYzNT
-I5LC03NDc1NjY0MjYsLTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwt
-OTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5Mz
-Q2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhd
-fQ==
+eyJoaXN0b3J5IjpbLTE4OTE2MzYzNTgsNDE2NjA2NjksMTY5Nj
+M1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgzODMx
+LC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNT
+kzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEw
+OF19
 -->
