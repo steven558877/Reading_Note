@@ -65,10 +65,11 @@
 * 在例外訊息中加入關於導致例外發生的全部資訊
 	* 例如一個陣列因為index讀取錯誤拋出例外，拋出時應要把陣列的上下界及錯誤的index都傳遞出去。
 * 避免使用空的catch述句
-	* 即捕捉到例外後不做任何事，這有兩種意義，一個事代表try裡的程式碼有錯，無故拋出一個例外，另一種事catch沒處裡一個有效的例外。如果真的必須有這種空catch的程式碼也需ㄧㄠ
+	* 即捕捉到例外後不做任何事，這有兩種意義，一個事代表try裡的程式碼有錯，無故拋出一個例外，另一種事catch沒處裡一個有效的例外。如果真的必須有這種空catch的程式碼也需要標註清楚為什麼可行，或者是將錯誤寫進log裡。
+* 瞭解ㄙㄩㄥ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA2NDEyNzQsLTk3MjA3MTg3NCwtMT
-I3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAy
-MTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MC
-wyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbMzA2NTIzOTUxLC05NzIwNzE4NzQsLTEyNz
+IyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEw
+OTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMj
+A2NTQ1MTA4XX0=
 -->
