@@ -59,10 +59,10 @@
 * 不能用例外來推卸責任
 	* 如果錯誤能局部處理則要處理，不要把它當作未捕捉的錯誤拋出例外。
 * 避免在建構函式和解構函式中拋出例外，除非你在同一地方捕捉
-	* 因為C++的解構函式只有在建構
+	* 因為C++的解構函式只有在物件完全建構時才能被呼叫，因此如果建構函式拋出例外會無法解構，造成資源洩漏
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDE5NjQ0MCwtOTcyMDcxODc0LC0xMj
-cyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIx
-MDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLD
-IwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbLTEwOTcwMjQ4MDYsLTk3MjA3MTg3NCwtMT
+I3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAy
+MTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MC
+wyMDY1NDUxMDhdfQ==
 -->
