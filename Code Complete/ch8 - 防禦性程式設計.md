@@ -84,11 +84,13 @@
 透過某些專職於處理骯髒資料的子程式(格欄)，讓其他子程式只須面對乾淨資料即可。或是類別中的公用function可以假設資料是不安全的，他們要負責處理，而私用function則可以假設他接收的資料是乾淨的。
 
 ### 隔欄及斷言的關係
-在隔欄外部的資料都要假定是不安全的，應該使用錯誤處理的技術。隔欄內部的資ㄌㄧㄠ
+在隔欄外部的資料都要假定是不安全的，應該使用錯誤處理的技術。隔欄內部的資瞭都是假定是安全的，那在內部出錯時就是程式出錯而非資料。
+## 輔助除錯的程式碼
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjM0MTE3MywtMTI0NTg2NTAzOCw0MT
+eyJoaXN0b3J5IjpbMTUzMTUzNjIzNCwtMTI0NTg2NTAzOCw0MT
 Y2MDY2OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05NzIwNzE4NzQs
 LTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xND
 QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
