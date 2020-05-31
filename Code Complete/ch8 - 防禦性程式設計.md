@@ -89,13 +89,15 @@
 ### 不要自動地把產品版的限制加在開發版上
 在開發時允許使用一些影響效能或是資源使用的方式去開發，這樣可以換取一些來讓開發更順暢的內建工具。
 ### 盡早引入輔助除錯的程式碼
-
+一遇到問題就寫能幫助除錯的程式能在整個專案都幫到你
+### 採用進攻式程式設計
+進攻式程式設計:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkwMzY5NzMsLTEyNDU4NjUwMzgsND
-E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
-LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
-Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
-NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbNzYzMDk1OTk5LC0xMjQ1ODY1MDM4LDQxNj
+YwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYsLTk3MjA3MTg3NCwt
+MTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0ND
+AyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1
+MCwyMDY1NDUxMDhdfQ==
 -->
