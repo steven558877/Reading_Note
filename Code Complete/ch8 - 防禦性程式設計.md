@@ -70,10 +70,10 @@
 	* 當子程式沒有捕捉到函式庫拋出的例外或導致程式崩潰，如果函式庫沒有說明會拋出那些例外則可以寫一些protoype程式找可能會有哪些。
 * 考慮建立一個集中的例外報告機制
 	* 建立集中的例外處理程式能夠確保例外處理的一致性
-* 
+* 把專案中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMD
-cxODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMx
-MywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMD
-IyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbMTY3OTYyMjY2MiwxNjk2MzUyOSwtNzQ3NT
+Y2NDI2LC05NzIwNzE4NzQsLTEyNzIyODM4MzEsLTkwMjY1NzEy
+MSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0NywxMT
+gyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
 -->
