@@ -103,14 +103,17 @@
 * 用ant或是make這種工具
 	* ant能夠使用一套原始碼產生不同版本的程式，而make可以設定要包不包含除錯程式碼
 * 使用內建的前置處理器
-	* ```C++
-	* 
+```C++
+#define DEBUG
+```
+需要時包含，不需要時可移除
+* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE3OTIwNjAsLTEyNDU4NjUwMzgsND
-E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
-LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
-Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
-NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbMTY1NzUzMjY4LC0xMjQ1ODY1MDM4LDQxNj
+YwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYsLTk3MjA3MTg3NCwt
+MTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0ND
+AyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1
+MCwyMDY1NDUxMDhdfQ==
 -->
