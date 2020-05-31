@@ -62,8 +62,10 @@
 	* 因為C++的解構函式只有在物件完全建構時才能被呼叫，因此如果建構函式拋出例外會無法解構，造成資源洩漏。
 * 在恰當的層次拋出例外
 	* 當拋出的例外與原本的子程式不在同一個抽象層，會破壞層次的封裝性，暴露一些自身的實作細節。
+* 在例外訊息中加入關於導致例外發生的全部資訊
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY2NTE3MDQsLTk3MjA3MTg3NCwtMT
+eyJoaXN0b3J5IjpbLTE3NDY1ODc3ODEsLTk3MjA3MTg3NCwtMT
 I3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAy
 MTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MC
 wyMDY1NDUxMDhdfQ==
