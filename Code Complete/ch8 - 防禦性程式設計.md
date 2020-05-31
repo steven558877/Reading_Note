@@ -98,12 +98,13 @@
 * 完全填充已分配到的檔案/資料流，讓你可以排除檔案格式錯誤
 * 確保每個case述句中的default分支或是else分支都能產生嚴重錯誤，或至少不會被忽視
 * 刪除物件時將它填滿垃圾
+### 計畫移除輔助除錯的程式碼
+避免開發版跟產品版混淆不清，可以使用下列方法
 * 
-* ### 計畫移除
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY5MTAwOTIsLTEyNDU4NjUwMzgsND
+eyJoaXN0b3J5IjpbLTEyMzM3MDYzODksLTEyNDU4NjUwMzgsND
 E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
 LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
 Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
