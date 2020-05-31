@@ -81,12 +81,12 @@
 	* 在處理錯誤時有很多方案，局部處理、傳遞錯誤碼、在日誌中紀錄、關閉系統等等，而非是因為語言提供例外處理就只使用他，變成為用而用、「用語言的現有環境來創造程式」。我們應以「用程式去創造合適的環境」為主。兩者的差別可看4.3節及34.4節
 最後是在使用例外處理時要想清楚是否真的需要，是否是對錯誤處理最佳的方法。
 ## 隔離程式，使之包容由錯誤造成的傷害
-
+透過某些專職於處理骯髒資料的子程式，讓其他子程式只須面對乾淨資料即可。或是類別中的公用function可以假設資料是不安全的，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE4MDc1MjAsLTEyNDU4NjUwMzgsND
-E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
-LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
-Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
-NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbLTMzMzk5MTU3OSwtMTI0NTg2NTAzOCw0MT
+Y2MDY2OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05NzIwNzE4NzQs
+LTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xND
+QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
+NTAsMjA2NTQ1MTA4XX0=
 -->
