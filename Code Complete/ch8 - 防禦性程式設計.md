@@ -79,11 +79,13 @@
 	* 規定是否允許在建構/解構函式中使用例外
 * 考慮例外的替代方案
 	* 在處理錯誤時有很多方案，局部處理、傳遞錯誤碼、在日誌中紀錄、關閉系統等等，而非是因為語言提供例外處理就只使用他，變成為用而用、「用語言的現有環境來創造程式」。我們應以「用程式去創造合適的環境」為主。兩者的差別可看4.3節及34.4節
-最後是在使用例外處理時要想清楚是否真的需要，
+最後是在使用例外處理時要想清楚是否真的需要，是否是對錯誤處理最佳的方法。
+## 隔離程式，使之包容由錯誤造成的傷害
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNDEzMzIyLDQxNjYwNjY5LDE2OTYzNT
-I5LC03NDc1NjY0MjYsLTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwt
-OTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5Mz
-Q2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhd
-fQ==
+eyJoaXN0b3J5IjpbLTEyNDU4NjUwMzgsNDE2NjA2NjksMTY5Nj
+M1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgzODMx
+LC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNT
+kzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEw
+OF19
 -->
