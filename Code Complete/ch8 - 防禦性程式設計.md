@@ -63,10 +63,10 @@
 * 在恰當的層次拋出例外
 	* 當拋出的例外與原本的子程式不在同一個抽象層，會破壞層次的封裝性，暴露一些自身的實作細節。
 * 在例外訊息中加入關於導致例外發生的全部資訊
-	* 例如一個陣列因為index讀取錯誤拋出例外，拋出時應要把陣列的上下界及錯誤的index都傳遞出
+	* 例如一個陣列因為index讀取錯誤拋出例外，拋出時應要把陣列的上下界及錯誤的index都傳遞出去。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTMzNTIyNSwtOTcyMDcxODc0LC0xMj
-cyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIx
-MDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLD
-IwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbOTgyNzUzOTcwLC05NzIwNzE4NzQsLTEyNz
+IyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEw
+OTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMj
+A2NTQ1MTA4XX0=
 -->
