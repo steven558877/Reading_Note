@@ -67,10 +67,12 @@
 * 避免使用空的catch述句
 	* 即捕捉到例外後不做任何事，這有兩種意義，一個事代表try裡的程式碼有錯，無故拋出一個例外，另一種事catch沒處裡一個有效的例外。如果真的必須有這種空catch的程式碼也需要標註清楚為什麼可行，或者是將錯誤寫進log裡。
 * 瞭解所用的函式庫可能拋出的例外
-	* 當子程式沒有捕捉到函式庫拋出的例外或導致程式崩潰，如果函式庫沒有說明會拋出那些例外則可以寫一些protoype
+	* 當子程式沒有捕捉到函式庫拋出的例外或導致程式崩潰，如果函式庫沒有說明會拋出那些例外則可以寫一些protoype程式找可能會有哪些。
+* 考慮建立一個集中的例外報告機制
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMjczMzIwLC05NzIwNzE4NzQsLTEyNz
-IyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEw
-OTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMj
-A2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbLTc0NzU2NjQyNiwtOTcyMDcxODc0LC0xMj
+cyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIx
+MDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLD
+IwNjU0NTEwOF19
 -->
