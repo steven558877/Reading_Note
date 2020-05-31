@@ -66,9 +66,10 @@
 	* 例如一個陣列因為index讀取錯誤拋出例外，拋出時應要把陣列的上下界及錯誤的index都傳遞出去。
 * 避免使用空的catch述句
 	* 即捕捉到例外後不做任何事，這有兩種意義，一個事代表try裡的程式碼有錯，無故拋出一個例外，另一種事catch沒處裡一個有效的例外。如果真的必須有這種空catch的程式碼也需要標註清楚為什麼可行，或者是將錯誤寫進log裡。
-* 瞭解ㄙㄩㄥ
+* 瞭解所用的函式庫可能拋出的例外
+	* 當子程式沒有捕捉到函式庫拋出的例外或導致程式崩潰，如果函式庫沒有說明會拋出那些例外則可以寫一些protoype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NTIzOTUxLC05NzIwNzE4NzQsLTEyNz
+eyJoaXN0b3J5IjpbMzMzMjczMzIwLC05NzIwNzE4NzQsLTEyNz
 IyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEw
 OTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMj
 A2NTQ1MTA4XX0=
