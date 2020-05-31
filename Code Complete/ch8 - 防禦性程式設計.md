@@ -75,10 +75,13 @@
 	* 考慮建立專案的特定例外類別，可以用作專案所有的例外的基底類別，方便後續紀錄使用。
 	* 規定何時可以用throw-catch述句在局部對錯錯誤進行處理
 	* 規定何種場合可以拋出不在局部處理的例外
-	* 考慮是否要採用集中
+	* 考慮是否要採用集中的錯誤報告機制
+	* 規定是否允許在建構/解構函式中使用例外
+* 考慮例外的替代方案
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk5ODk4NjgsMTY5NjM1MjksLTc0Nz
-U2NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcx
-MjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMT
-E4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2Nj
+QyNiwtOTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEs
+MTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4Mj
+cwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
 -->
