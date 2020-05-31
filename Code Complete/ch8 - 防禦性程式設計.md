@@ -86,13 +86,14 @@
 ### 隔欄及斷言的關係
 在隔欄外部的資料都要假定是不安全的，應該使用錯誤處理的技術。隔欄內部的資瞭都是假定是安全的，那在內部出錯時就是程式出錯而非資料。
 ## 輔助除錯的程式碼
-
+### 不要自動地把產品版的限制加在開發版上
+在開發時允許使用一些影響ㄒ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTUzNjIzNCwtMTI0NTg2NTAzOCw0MT
-Y2MDY2OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05NzIwNzE4NzQs
-LTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xND
-QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
-NTAsMjA2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbLTE2NjU2NzA1NjEsLTEyNDU4NjUwMzgsND
+E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
+LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
+Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
+NjUwLDIwNjU0NTEwOF19
 -->
