@@ -101,13 +101,16 @@
 ### 計畫移除輔助除錯的程式碼
 避免開發版跟產品版混淆不清，可以使用下列方法
 * 用ant或是make這種工具
-	* ant能夠使
+	* ant能夠使用一套原始碼產生不同版本的程式，而make可以設定要包不包含除錯程式碼
+* 使用內建的前置處理器
+	* ```C++
+	* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3OTE5NTYxLC0xMjQ1ODY1MDM4LDQxNj
-YwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYsLTk3MjA3MTg3NCwt
-MTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0ND
-AyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMTAyMjIzNjY1
-MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbLTE4OTE3OTIwNjAsLTEyNDU4NjUwMzgsND
+E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
+LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
+Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
+NjUwLDIwNjU0NTEwOF19
 -->
