@@ -95,13 +95,17 @@
 進攻式程式設計的方法:
 * 確保斷言能夠使程式終止，才能讓開發者重視並修復他
 * 完全填充被分配到的記憶體，可以檢測記憶體配置錯誤
-* 完全填充已分配到的檔案/資料流，讓你可
+* 完全填充已分配到的檔案/資料流，讓你可以排除檔案格式錯誤
+* 確保每個case述句中的default分支或是else分支都能產生嚴重錯誤，或至少不會被忽視
+* 刪除物件時將它填滿垃圾
+* 
+* ### 計畫移除
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTM3NDE3NywtMTI0NTg2NTAzOCw0MT
-Y2MDY2OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05NzIwNzE4NzQs
-LTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xND
-QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
-NTAsMjA2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbLTE2MzY5MTAwOTIsLTEyNDU4NjUwMzgsND
+E2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0
+LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMT
+Q0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2
+NjUwLDIwNjU0NTEwOF19
 -->
