@@ -71,10 +71,11 @@
 * 考慮建立一個集中的例外報告機制
 	* 建立集中的例外處理程式能夠確保例外處理的一致性
 * 把專案中對例外的使用標準化
-	* 使用像C++這種可以拋出各種物件、資料及指標的例外的語言就要考慮到底可以拋出何種例外並建立標準，為了與其他語言相容，可以考慮
+	* 使用像C++這種可以拋出各種物件、資料及指標的例外的語言就要考慮到底可以拋出何種例外並建立標準，為了與其他語言相容，可以考慮使用std::exception基底類別衍生出的物件
+	* 考慮建立專案的特定例外類別，可以用作專案所有的例外的基底類別，方便後續紀錄史
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIwNjg1MzIsMTY5NjM1MjksLTc0Nz
-U2NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcx
-MjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMT
-E4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbNzU2NTE3Njg1LDE2OTYzNTI5LC03NDc1Nj
+Y0MjYsLTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIx
+LDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExOD
+I3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
 -->
