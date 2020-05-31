@@ -92,11 +92,14 @@
 一遇到問題就寫能幫助除錯的程式能在整個專案都幫到你
 ### 採用進攻式程式設計
 進攻式程式設計在處理意外時，開發階段能顯現出來，而在產品階段能夠自我修復。
-進攻式程式設計
+進攻式程式設計的方法:
+* 確保斷言能夠使程式終止，才能讓開發者重視並修復他
+* 完全填充被分配到的記憶體，可以檢測記憶體配置錯誤
+* 完全填充已分配到的檔案/資料流，讓你可
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDk2NTEwOSwtMTI0NTg2NTAzOCw0MT
+eyJoaXN0b3J5IjpbLTc1OTM3NDE3NywtMTI0NTg2NTAzOCw0MT
 Y2MDY2OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05NzIwNzE4NzQs
 LTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xND
 QwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5LDEwMjIyMzY2
