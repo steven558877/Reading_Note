@@ -121,8 +121,10 @@
 * 為你的技術支援人員記錄錯誤訊息
 	* 如果程式中用到大量斷言，可以考慮換成寫入日誌
 * 確認留下來的程式碼的錯誤訊息是友善的
+### 對防禦性程式碼採取防禦的姿態
+是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgwNDk1OTIsODQzNzQwOTIxLC0xMj
+eyJoaXN0b3J5IjpbLTIwNjU5MTc0ODgsODQzNzQwOTIxLC0xMj
 Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
 LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
 IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
