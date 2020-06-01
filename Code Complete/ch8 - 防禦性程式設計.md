@@ -109,12 +109,14 @@
 需要時包含，不需要時可移除
 * 如果程式語言沒有提供前置處理器，自己寫一個
 * 使用除錯木樁
-	* 指的是開發時用一個function去執行耗時的操作，可能是安全性檢查，當要編譯為產品時則將此function直接return一個值或是類似不耗損ㄒㄧㄠ
+	* 指的是開發時用一個function去執行耗時的操作，可能是安全性檢查，當要編譯為產品時則將此function直接return一個值或是類似不耗損效能的事。
+### 決定在產品程式碼中該保留多少防禦性程式碼
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NDA4OTM4LDg0Mzc0MDkyMSwtMTI0NT
-g2NTAzOCw0MTY2MDY2OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05
-NzIwNzE4NzQsLTEyNzIyODM4MzEsLTkwMjY1NzEyMSwxNDAyMz
-QxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0NywxMTgyNzAxMTM5
-LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbLTExNzU1NDU3MjAsODQzNzQwOTIxLC0xMj
+Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
+LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
+IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
+MzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
 -->
