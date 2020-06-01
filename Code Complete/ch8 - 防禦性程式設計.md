@@ -116,9 +116,11 @@
 * 去掉檢查細微錯誤的程式碼
 	* 用版本控制、預編譯器開關等手段移除，而非刪除。
 * 去除會導致硬性崩潰的程式碼
-* 保留可以ㄧㄡ
+* 保留可以優雅地崩潰的程式碼
+	* 指的是能夠產生錯誤資訊以利改進，而不是直接崩潰
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY3NTMyODAsODQzNzQwOTIxLC0xMj
+eyJoaXN0b3J5IjpbLTIwODgzNTYyMjMsODQzNzQwOTIxLC0xMj
 Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
 LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
 IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
