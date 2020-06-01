@@ -114,9 +114,11 @@
 防禦性程式碼在開發時需要明顯的表現出來，而在變成產品時反而需要安靜，下面可以幫助你決定如何選擇留那些。
 * 保留檢查重要錯誤的程式碼
 * 去掉檢查細微錯誤的程式碼
-	* 用版本控制、鈺編譯器
+	* 用版本控制、預編譯器開關等手段移除，而非刪除。
+* 去除會導致硬性崩潰的程式碼
+* 保留可以ㄧㄡ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzNzQ3OTMsODQzNzQwOTIxLC0xMj
+eyJoaXN0b3J5IjpbLTE1MTY3NTMyODAsODQzNzQwOTIxLC0xMj
 Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
 LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
 IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
