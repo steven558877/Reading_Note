@@ -111,12 +111,11 @@
 * 使用除錯木樁
 	* 指的是開發時用一個function去執行耗時的操作，可能是安全性檢查，當要編譯為產品時則將此function直接return一個值或是類似不耗損效能的事。
 ### 決定在產品程式碼中該保留多少防禦性程式碼
-	
-
+防禦性程式碼在開發時需要明顯的表現出來，而在變成產品時反而需要安靜，下面可以幫助你決定ㄖ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU1NDU3MjAsODQzNzQwOTIxLC0xMj
-Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
-LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
-IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
-MzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbMjA5MDk5NTMzMSw4NDM3NDA5MjEsLTEyND
+U4NjUwMzgsNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwt
+OTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMj
+M0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEz
+OSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
 -->
