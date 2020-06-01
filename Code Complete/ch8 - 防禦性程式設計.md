@@ -118,9 +118,11 @@
 * 去除會導致硬性崩潰的程式碼
 * 保留可以優雅地崩潰的程式碼
 	* 指的是能夠產生錯誤資訊以利改進，而不是直接崩潰
-* 
+* 為你的技術支援人員記錄錯誤訊息
+	* 如果程式中用到大量斷言，可以考慮換成寫入日誌
+* 確認留下來的程式碼的錯誤訊息是友善的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgzNTYyMjMsODQzNzQwOTIxLC0xMj
+eyJoaXN0b3J5IjpbLTE5MzgwNDk1OTIsODQzNzQwOTIxLC0xMj
 Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
 LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
 IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
