@@ -5,8 +5,8 @@
  ### 語言描述
  這一節 主要是在介紹各語言的種類與特性
  ## 程式設計約定
- 
+ 最高品質的軟體中架構的概念完整性與其實作是高度一致的， 這正是變數名稱；類別名稱製程式名稱格式約定住解約定等針對建構活動的指導方案的關鍵所在
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDIxNzc5OCwtMTc2NDI0NjU1OSwtMT
-EwMTE0NjUxNF19
+eyJoaXN0b3J5IjpbNTE5MTgzODQyLC0xNzY0MjQ2NTU5LC0xMT
+AxMTQ2NTE0XX0=
 -->
