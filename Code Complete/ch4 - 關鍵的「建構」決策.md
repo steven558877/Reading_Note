@@ -14,8 +14,9 @@
 ### 用程式去創造適合開發的語言環境的例子
  作者在書中舉例， 他讓一隻特定的子程式 負責處理與資料庫溝通的功能， 這個功能在他使用的語言並沒有規定 並且也不建議， 但是作者發現這樣做讓他開發變得順利。 所以如果你使用的語言缺乏你所需要的功能 就試著去彌補他吧
 ## 選擇主要的建構實踐方法
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzA0Njc1NiwzMjg0NDU5MTEsLTEyNz
-M0ODE4MTIsMTMyOTAxNDgwNCwtMzExNTA0MTM1LC0xNzY0MjQ2
-NTU5LC0xMTAxMTQ2NTE0XX0=
+eyJoaXN0b3J5IjpbLTcyNzc1NDg2MiwxNDYzMDQ2NzU2LDMyOD
+Q0NTkxMSwtMTI3MzQ4MTgxMiwxMzI5MDE0ODA0LC0zMTE1MDQx
+MzUsLTE3NjQyNDY1NTksLTExMDExNDY1MTRdfQ==
 -->
