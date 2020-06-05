@@ -9,8 +9,10 @@
  大型 程式開發 都需要 統一程式語言的風格， 以降低對大腦的負擔
  成功的程式設計的個關鍵在於避免隨意的變化，讓你的大腦專注在真正需要的變化
   在建構開始之前 要說清楚程式的設計約定 並且制定要達到多少的精確度
+## 你在科技浪潮中的位置
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NDQ1OTExLC0xMjczNDgxODEyLDEzMj
-kwMTQ4MDQsLTMxMTUwNDEzNSwtMTc2NDI0NjU1OSwtMTEwMTE0
-NjUxNF19
+eyJoaXN0b3J5IjpbMjEwMjI1NjQyLDMyODQ0NTkxMSwtMTI3Mz
+Q4MTgxMiwxMzI5MDE0ODA0LC0zMTE1MDQxMzUsLTE3NjQyNDY1
+NTksLTExMDExNDY1MTRdfQ==
 -->
