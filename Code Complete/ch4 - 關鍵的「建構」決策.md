@@ -10,9 +10,9 @@
  成功的程式設計的個關鍵在於避免隨意的變化，讓你的大腦專注在真正需要的變化
   在建構開始之前 要說清楚程式的設計約定 並且制定要達到多少的精確度
 ## 你在科技浪潮中的位置
-
+這節主要再說 以前的 電腦技術剛開始發展時 會很多bug， 而我現在我們更可以專注於開發新功能。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjI1NjQyLDMyODQ0NTkxMSwtMTI3Mz
-Q4MTgxMiwxMzI5MDE0ODA0LC0zMTE1MDQxMzUsLTE3NjQyNDY1
-NTksLTExMDExNDY1MTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDYyNjY2MzMsMzI4NDQ1OTExLC0xMj
+czNDgxODEyLDEzMjkwMTQ4MDQsLTMxMTUwNDEzNSwtMTc2NDI0
+NjU1OSwtMTEwMTE0NjUxNF19
 -->
