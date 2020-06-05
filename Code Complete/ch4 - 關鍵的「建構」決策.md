@@ -11,9 +11,10 @@
   在建構開始之前 要說清楚程式的設計約定 並且制定要達到多少的精確度
 ## 你在科技浪潮中的位置
 這節主要再說 以前的 電腦技術剛開始發展時 會很多bug， 而我現在我們更可以專注於開發新功能。 不過就算再一個 富裕的環境開發， 程式設計師還是需要用 程式去創造適合的環境， 而非 用語言的 環境來設計程式。
-### 
+### 用程式去創造適合開發的語言環境的例子
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzODg3NjMyLDMyODQ0NTkxMSwtMTI3Mz
-Q4MTgxMiwxMzI5MDE0ODA0LC0zMTE1MDQxMzUsLTE3NjQyNDY1
-NTksLTExMDExNDY1MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDAyNzU3NDAsMzI4NDQ1OTExLC0xMj
+czNDgxODEyLDEzMjkwMTQ4MDQsLTMxMTUwNDEzNSwtMTc2NDI0
+NjU1OSwtMTEwMTE0NjUxNF19
 -->
