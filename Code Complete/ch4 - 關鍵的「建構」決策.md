@@ -6,8 +6,9 @@
  這一節 主要是在介紹各語言的種類與特性
  ## 程式設計約定
  最高品質的軟體中架構的概念完整性與其實作是高度一致的， 這正是變數名稱、；類別名稱、子製程式名稱、格式約定、註住解約定等針對建構活動的指導方案的關鍵所在
- 大型 程式開發 都需要一種控制結構
+ 大型 程式開發 都需要 統一程式語言的風格， 以降低對大腦的負擔
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTAxNDgwNCwtMzExNTA0MTM1LC0xNz
-Y0MjQ2NTU5LC0xMTAxMTQ2NTE0XX0=
+eyJoaXN0b3J5IjpbMTQwODE5MTE5MywxMzI5MDE0ODA0LC0zMT
+E1MDQxMzUsLTE3NjQyNDY1NTksLTExMDExNDY1MTRdfQ==
 -->
