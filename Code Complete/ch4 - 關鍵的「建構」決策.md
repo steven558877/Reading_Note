@@ -3,8 +3,9 @@
 ## 語言的選擇
  高階語言比低階語言 有更高的生產力與可靠性簡婕性還有易理解性
  ## 語言描述
+ 這一節 主要是在介紹各語言的種類與特性
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQyNDY1NTksLTExMDExNDY1MTRdfQ
-==
+eyJoaXN0b3J5IjpbMTQxNjI2NjM0MiwtMTc2NDI0NjU1OSwtMT
+EwMTE0NjUxNF19
 -->
