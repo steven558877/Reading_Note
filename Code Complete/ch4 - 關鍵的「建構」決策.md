@@ -8,7 +8,8 @@
  最高品質的軟體中架構的概念完整性與其實作是高度一致的， 這正是變數名稱、；類別名稱、子製程式名稱、格式約定、註住解約定等針對建構活動的指導方案的關鍵所在
  大型 程式開發 都需要 統一程式語言的風格， 以降低對大腦的負擔
  成功的程式設計的1個關鍵在於避免隨意的變化讓你的大腦專注在真正需要的變化
+  在建構開始之前 要說清楚程式的設計約定 並且制定要達到多少的精確度
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjE3MzI4NCwxMzI5MDE0ODA0LC0zMT
-E1MDQxMzUsLTE3NjQyNDY1NTksLTExMDExNDY1MTRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzM0ODE4MTIsMTMyOTAxNDgwNCwtMz
+ExNTA0MTM1LC0xNzY0MjQ2NTU5LC0xMTAxMTQ2NTE0XX0=
 -->
