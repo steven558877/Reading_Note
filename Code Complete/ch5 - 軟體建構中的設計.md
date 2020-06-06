@@ -15,8 +15,8 @@
 ### 設計程序本質上是個啟發式的程序
 最因為設計程是充滿不確定性 因此設計技術也像是啟發式的 根據經驗法則或是嘗試說不定可行的辦法
 ### 設計是自然而然形成的
-
+設計不是說突然從誰的頭腦中直接蹦出來， 而是不斷的再設計評估、 非正式討論、 寫試驗程式碼及修改試驗程式碼中演化出來
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM2ODg1NDAsODU3MjA5ODkyLC00MT
-IwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbLTY5MjA1MTMxNiw4NTcyMDk4OTIsLTQxMj
+A1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
