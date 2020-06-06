@@ -25,10 +25,10 @@
  #### 不要讓adt依賴於他的儲存介質
  如果你把一個 ADT取名為RateFile並使用讀取read()的函式時會將檔案從硬碟中讀出，但是如果ADT的讀取 功能改成由記憶體讀取 則ratefile就不正確，因此在為類別取名時要避免他與儲存方式相關。
  ### 在非物件導向環境中用ADT處理多份資料的實例 
- 
+ 如果是用於非物件導向的語言畫
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxND
-cyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3
-MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ
-==
+eyJoaXN0b3J5IjpbNjMzODQ2MTU4LDE2MDE0MjI3NDQsMTU0OD
+Y2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYy
+MywtNDcwMzU5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMD
+QyODc0Nzk1XX0=
 -->
