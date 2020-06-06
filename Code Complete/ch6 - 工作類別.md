@@ -14,9 +14,9 @@
 如上例 就知道這個函式是用來將字體 設定為粗體。
 #### 無需在程式內到處傳的資料
 ####  你可以像在現實世界中哪樣操作實體 而不用在底層實作上操作他
-
+指的是 定義 一堆 函式去實現原本需要用 拼湊法 達成的功能。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTM3NjExMiwtNzM1NjQyNjIzLC00Nz
+eyJoaXN0b3J5IjpbMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00Nz
 AzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3
 OTVdfQ==
 -->
