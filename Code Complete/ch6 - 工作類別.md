@@ -4,8 +4,10 @@
 ### 使用adt的好處
 如果沒有adt， 程式將會使用拼湊的方式實現。 但不是說 拼湊法 不好， 而是我們可以採取一個更好的程式設計方式來替代這種方法。
 #### 可以隱藏實作細節
+#### 更動不會影響到整個程式
+#### 讓介面能夠提供更多資訊
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjAyMTc0MiwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbOTc2Mzg3ODc1LDEwNDI4NzQ3OTVdfQ==
 -->
