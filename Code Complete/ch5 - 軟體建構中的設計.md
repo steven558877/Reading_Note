@@ -4,7 +4,8 @@
  軟體設計意味著去構思 把規格轉化為可實際執行的軟體的方案
  ### 設計是一個險惡的問題
  險惡 的問題是指 只能透過去解決問題而發現問題的問題 ，例如書中 提到的大橋被風吹斷的問題， 工程師因為這個案例而發現要去考慮空氣動力學。
-###  設計是個毫無章法的過程（ 吃屎他們產出清爽的成果）
+###  設計是個毫無章法的過程（ 即使他們產出清爽的成果）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODI0NzY1NSw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
