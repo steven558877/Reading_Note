@@ -9,8 +9,8 @@
 當在寫程式時， 你指定一個字體大小的變數值為16， 你並不知道他的單位是什麼， 將這類的訊息分別根據單位在類別內定義就可解決這個問題
 #### 更容易提高效能
 #### 用程式的正確性顯而易見
-
+當要設定字體屬性時，使用font.attribute=0x20是有可能會出錯的，如果有一類別函是為font.setBold()，則
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDM1OTcwOCwtNDExMTg2Njg2LDE5OT
-UyMTkxNTYsMTA0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbMjA2OTA4ODc4NSwtNDcwMzU5NzA4LC00MT
+ExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
 -->
