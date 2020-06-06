@@ -27,10 +27,12 @@
  ### 在非物件導向環境中用ADT處理多份資料的實例 
  如果 使用 非物件導向的語言並想應用adt的概念，參考書中p133
  ## 良好的類別 介面
- 要建立 高品質的類別 最重要的一 步跟第一部就是建立良好的介面
+ 要建立 高品質的類別 最重要的一 步跟第一 步就是建立良好的介面 包含透過介面來展現良好的抽象並且確保細節被 隱藏
+ ### 良好的抽象
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA5MDU1NzMsMTYwMTQyMjc0NCwxNT
-Q4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQy
-NjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LD
-EwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0OD
+Y2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYy
+MywtNDcwMzU5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMD
+QyODc0Nzk1XX0=
 -->
