@@ -15,8 +15,10 @@
 #### 無需在程式內到處傳的資料
 ####  你可以像在現實世界中哪樣操作實體 而不用在底層實作上操作他
 指的是 定義 一堆 函式去實現原本需要用 拼湊法 達成的功能。
+### 更多adt的範例
+#### 把常見的底層資料類型建立為adt， 並使用它們 ，而不再使用底層資料類型
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00Nz
-AzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3
-OTVdfQ==
+eyJoaXN0b3J5IjpbMjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03Mz
+U2NDI2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkx
+NTYsMTA0Mjg3NDc5NV19
 -->
