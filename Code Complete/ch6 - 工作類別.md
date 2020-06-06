@@ -8,6 +8,8 @@
 #### 讓介面能夠提供更多資訊
 當在寫程式時， 你指定一個字體大小的變數值為16， 你並不知道他的單位是什麼， 將這類的訊息分別根據單位在類別內定義就可解決這個問題
 #### 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwND
+I4NzQ3OTVdfQ==
 -->
