@@ -18,8 +18,10 @@
 ### 更多adt的範例
 #### 把常見的底層資料類型建立為adt， 並使用它們 ，而不再使用底層資料類型
 使用adt時 會使用一些常見的底層資料結構 但是 當我們要看 在adt中 這些資料結構 代表的意義意思時， 應該 要抽高抽象層次去看 像是1組 佇列 代表1組演員， 若我們應該把該資料結構 它看成一組演員而非一組祝列
+#### 把像檔案這樣承認的物件當成ADT
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjA3NDI4NiwyMTQ3MjI2Njk5LDEwNz
+eyJoaXN0b3J5IjpbMTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEwNz
 I1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MTExODY2
 ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
 -->
