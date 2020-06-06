@@ -3,7 +3,7 @@
 ## 設計中的挑戰
  軟體設計意味著去構思 把規格轉化為可實際執行的軟體的方案
  ### 設計是一個險惡的問題
- 
+ 險惡 的問題是指 只能透過去解決問題而發現問題的問題
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ1NjYxMzUsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbMTEyNDA3NjY0Niw2NjA0NjM1ODldfQ==
 -->
