@@ -8,8 +8,8 @@
 設計的過程不會是一個 乾淨俐落組織良好的過程， 會透過不斷的試誤並修正 最後產出好的結果。 在設計的時候 犯錯會比 已經開始開發了才發現同樣的錯誤 所需的成本低很多。 那要設計到怎樣的程度才算是夠好了， 書中的答案是通常是 到你沒時間再做為止。
 
 ### 設計就是決定取捨和調整順序的過程
-
+在理想中一套軟體應該會不消後
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2Nj
-A0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbMTUzOTk2OTU2MCwtNDEyMDU2NDI5LC0xNj
+Q1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
