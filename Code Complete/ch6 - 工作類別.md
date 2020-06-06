@@ -21,10 +21,10 @@
 #### 把像檔案這樣常用的物件當成ADT
 作業系統的檔案系統就像是一個adt 你對檔案進行操作 會使用複製貼上的功能 而這就是ADt 因為檔案 檔案在硬碟內要用磁盤跟指針去尋找 而你不會操作到這些控制 這就是一個adt的例子
 #### 簡單的事物也可以當作ADT
- 像開關燈的操作 雖然簡單但也可以使用ADT 因為這會讓程式碼郵
+ 像開關燈的操作 雖然簡單但也可以使用ADT 因為這會讓程式碼 提高 自我說明能力 並且讓程式碼更容易修改
+ #### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE5NzcxNjAsMTU0ODY2ODc0NywyMT
-Q3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5
-NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX
-0=
+eyJoaXN0b3J5IjpbNjY4NTYzNDA2LDE1NDg2Njg3NDcsMjE0Nz
+IyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcw
+OCwtNDExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
 -->
