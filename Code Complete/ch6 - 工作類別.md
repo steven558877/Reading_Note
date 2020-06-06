@@ -10,7 +10,11 @@
 #### 更容易提高效能
 #### 用程式的正確性顯而易見
 當要設定字體屬性時，使用font.attribute=0x20是有可能會出錯的，可能會物打成0x02。如果有一類別函是為font.setBold()，則可以清楚的知道屬性的設定正確性。
+#### 程式更具自我說明性
+如上例 就知道這個函式是用來將字體 設定為粗體。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MT
-ExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbMTE2MjE4MTM3MSwtNzM1NjQyNjIzLC00Nz
+AzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3
+OTVdfQ==
 -->
