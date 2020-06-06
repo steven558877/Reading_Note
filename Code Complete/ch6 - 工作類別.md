@@ -17,8 +17,9 @@
 指的是 定義 一堆 函式去實現原本需要用 拼湊法 達成的功能。
 ### 更多adt的範例
 #### 把常見的底層資料類型建立為adt， 並使用它們 ，而不再使用底層資料類型
+使用adt時 會使用一些常見的底層資料結構 但是 當我們要看 這些資料結構 代表的意義意思
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03Mz
-U2NDI2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkx
-NTYsMTA0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbMjEyMDg0NjExNCwyMTQ3MjI2Njk5LDEwNz
+I1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MTExODY2
+ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
 -->
