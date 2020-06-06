@@ -23,9 +23,10 @@
 #### 簡單的事物也可以當作ADT
  像開關燈的操作 雖然簡單但也可以使用ADT 因為這會讓程式碼 提高 自我說明能力 並且讓程式碼更容易修改
  #### 不要讓adt依賴於他的儲存介質
- 如果你把一個 ADT取名為RateFile,則
+ 如果你把一個 ADT取名為RateFile並使用讀取read()的函式時會將檔案從硬碟中讀出，但是如果ADT的讀取 功能改成由記憶體讀取 則ratefile就不正確，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk3NzcyLDE1NDg2Njg3NDcsMjE0Nz
-IyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcw
-OCwtNDExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbLTM2NzQzNTU3NywxNTQ4NjY4NzQ3LDIxND
+cyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3
+MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ
+==
 -->
