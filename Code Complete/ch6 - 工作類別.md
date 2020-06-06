@@ -26,10 +26,11 @@
  如果你把一個 ADT取名為RateFile並使用讀取read()的函式時會將檔案從硬碟中讀出，但是如果ADT的讀取 功能改成由記憶體讀取 則ratefile就不正確，因此在為類別取名時要避免他與儲存方式相關。
  ### 在非物件導向環境中用ADT處理多份資料的實例 
  如果 使用 非物件導向的語言並想應用adt的概念，參考書中p133
- ## 良好的類別見面
+ ## 良好的類別 介面
+ 要建立 高品質的類別 最重要的一 步跟第一部就是建立良好的介面
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTEzMjI1OSwxNjAxNDIyNzQ0LDE1ND
-g2Njg3NDcsMjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2
-MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkxNTYsMT
-A0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbLTEyMzA5MDU1NzMsMTYwMTQyMjc0NCwxNT
+Q4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQy
+NjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LD
+EwNDI4NzQ3OTVdfQ==
 -->
