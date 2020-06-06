@@ -13,7 +13,10 @@
 ### 設計師不確定的
 沒有統一的設計電腦的程式方法， 通常會 多達數10種
 ### 設計程序本質上是個啟發式的程序
+最因為設計程是充滿不確定性 因此設計技術也像是啟發式的 根據經驗法則或是嘗試說不定可行的辦法
+### 設計是自然而然形成的
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mzc1MzI2OSw4NTcyMDk4OTIsLTQxMj
-A1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTE5NzM2ODg1NDAsODU3MjA5ODkyLC00MT
+IwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
