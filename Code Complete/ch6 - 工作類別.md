@@ -1,5 +1,5 @@
 # 工作類別
-類別是由一組織資料盒子城市構建出來的集合
+類別是由一組資料和子程式構建出來的集合， 這些資料和子程式共同擁有一組內聚的、明確定義的職責。 成為一個有效率的工程師的關鍵在於
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MDQyOTc1XX0=
+eyJoaXN0b3J5IjpbMTY3NTI4NDk3N119
 -->
