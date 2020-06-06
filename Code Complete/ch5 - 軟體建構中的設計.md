@@ -9,8 +9,8 @@
 
 ### 設計就是決定取捨和調整順序的過程
 在理想中一套軟體應該會不消耗任何儲存空間 沒有任何錯誤 不使用任何網路頻寬， 但是這是不可能的， 一定會與某些條件的有所衝突， 設計就是決定根據你的需求去取捨與調整順序
-###
+###後
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMTY5OTU2LC00MTIwNTY0MjksLTE2ND
-U0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbODU3MjA5ODkyLDQ1MTE2OTk1NiwtNDEyMD
+U2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
