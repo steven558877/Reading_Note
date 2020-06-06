@@ -19,10 +19,9 @@
 #### 把常見的底層資料類型建立為adt， 並使用它們 ，而不再使用底層資料類型
 使用adt時 會使用一些常見的底層資料結構 但是 當我們要看 在adt中 這些資料結構 代表的意義意思時， 應該 要抽高抽象層次去看 像是1組 佇列 代表1組演員， 若我們應該把該資料結構 它看成一組演員而非一組祝列
 #### 把像檔案這樣承認的物件當成ADT
-作業系統的檔案系統就像是一個adt 你對檔案進行操作 會使用複製貼上的功能 而這就是ADt 因為檔案 檔案載硬碟內腰泳池潭跟指針
+作業系統的檔案系統就像是一個adt 你對檔案進行操作 會使用複製貼上的功能 而這就是ADt 因為檔案 檔案在硬碟內要用磁盤跟指針去尋找 而你不會操作到這些控制 這就是一個adt的例子
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzEzNjQxNSwxNTQ4NjY4NzQ3LDIxND
-cyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3
-MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ
-==
+eyJoaXN0b3J5IjpbMTA5NTczODk2LDE1NDg2Njg3NDcsMjE0Nz
+IyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcw
+OCwtNDExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
 -->
