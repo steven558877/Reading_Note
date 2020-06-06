@@ -1,8 +1,9 @@
 # 工作類別
 類別是由一組資料和子程式構建出來的集合， 這些資料和子程式共同擁有一組內聚的、明確定義的職責。 成為一個有效率的工程師的關鍵在於 當你開發程式中了一部分的程式碼時， 都盡可能的忽視程式的其餘部分而不會有所擔心， 類別就是達成這個任務的工具。
 ## 類別的基礎： 抽象資料類型（adt）
-### 需要用到adt 的例子
+### 使用adt的好處
+如果沒有adt， 程式將會使用拼湊的方式實現。 但不是說不好
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTY1NjQzOSwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbMTkyNTI2MzkzLDEwNDI4NzQ3OTVdfQ==
 -->
