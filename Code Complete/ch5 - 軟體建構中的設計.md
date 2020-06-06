@@ -19,8 +19,8 @@
 ## 關鍵的設計概念
 ### 軟體的首要技術使命： 管理複雜度
 
-之後在看剩下的
+之後在看剩下的p79
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTcyNTQxNyw4NTcyMDk4OTIsLTQxMj
+eyJoaXN0b3J5IjpbMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMj
 A1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
