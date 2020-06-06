@@ -9,9 +9,11 @@
 
 ### 設計就是決定取捨和調整順序的過程
 在理想中一套軟體應該會不消耗任何儲存空間 沒有任何錯誤 不使用任何網路頻寬， 但是這是不可能的， 一定會與某些條件的有所衝突， 設計就是決定根據你的需求去取捨與調整順序
-###後 設計會受到諸多限制
+### 設計會受到諸多限制
 ### 設計師不確定的
+沒有統一的設計電腦的程式方法， 通常會 多達數10種
+### 設計程序本質上是個啟發式的程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNTA1Mzc3LDg1NzIwOTg5MiwtNDEyMD
-U2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbMTM0Mzc1MzI2OSw4NTcyMDk4OTIsLTQxMj
+A1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
