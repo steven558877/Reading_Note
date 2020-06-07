@@ -42,11 +42,13 @@
   #### 謹防在修改時破壞介面的抽象
   #### 不要添加於介面抽象不一致的公用成員
   #### 同時考慮抽象性和內聚性
-  通常有良好的抽象性時該類別都有良好的 內聚性， 因此當你發現某個類別的內聚性很弱 但又不知道怎麼改時，
+  通常有良好的抽象性時該類別都有良好的 內聚性， 因此當你發現某個類別的內聚性很弱 但又不知道怎麼改時， 可以改問自己這個類別是否表現一致的頭像。
+  ### 良好的封裝
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1NDUwMDUsMzQ5ODY2NzksNjE5NT
-k3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcs
-MjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MD
-M1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5
-NV19
+eyJoaXN0b3J5IjpbMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OT
+c5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0Nywy
+MTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMz
+U5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1
+XX0=
 -->
