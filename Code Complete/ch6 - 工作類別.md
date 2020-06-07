@@ -41,12 +41,12 @@
   可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
   #### 謹防在修改時破壞介面的抽象
   #### 不要添加於介面抽象不一致的公用成員
-  
- 
+  #### 同時考慮抽象性和內聚性
+  通常有良好的抽象性時該類別都有良好的 內聚性， 因此當你發現某個類別的內聚性很弱 但又不知道怎麼改時，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMTgyNTUxLDM0OTg2Njc5LDYxOTU5Nz
-k0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIx
-NDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNT
-k3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVd
-fQ==
+eyJoaXN0b3J5IjpbLTE1Nzk1NDUwMDUsMzQ5ODY2NzksNjE5NT
+k3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcs
+MjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MD
+M1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5
+NV19
 -->
