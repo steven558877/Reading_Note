@@ -38,11 +38,11 @@
  大多數操作都有何其相應及相等或是相反的操作， 因此在建立類別的公用 子程式時， 要決定是否需要另外一個與之 相補的操作
  #### 把不相關的資訊移到其他類別中
  #### 盡可能讓介面可程式化， 而不是表達語義
-  可程式化 指的是 界面中 中的資料類型和其他屬性轉成
+  可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤，
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTA4NDk3MSw2MTk1OTc5NDIsMjM1Nj
-U3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5
-LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MT
-ExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTE2MDA5NDQyNTgsNjE5NTk3OTQyLDIzNT
+Y1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5
+OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcwOCwtND
+ExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
 -->
