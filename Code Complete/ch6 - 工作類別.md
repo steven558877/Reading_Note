@@ -29,10 +29,12 @@
  ## 良好的類別 介面
  要建立 高品質的類別 最重要的一 步跟第一 步就是建立良好的介面 包含透過介面來展現良好的抽象並且確保細節被 隱藏
  ### 良好的抽象
+ 一個良好的抽象應該是在類別內有相關性 有高度的內聚力， 下面是一些可用於建立類別介面實的 指引
+ #### 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0OD
-Y2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYy
-MywtNDcwMzU5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMD
-QyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTM2MjIzMzQwNSwyMzU2NTc5OTAsMTYwMT
+QyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMz
+NSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOT
+k1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
 -->
