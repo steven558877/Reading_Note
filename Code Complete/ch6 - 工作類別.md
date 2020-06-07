@@ -33,12 +33,12 @@
  #### 類別介面應該展現已製的抽象 層次
  在類別思考時 有一個很好的方法 就是寶把類別看作一種用來實作adt的機制 每一個類別應該是實作一個adt並且只實作這個adt。 如果發現某個類別不只是做一個adt， 則需要重新組織成一個或多個更明確的ADT，可看書中p137的例子
  #### 一定要理解類別所實作的抽像是什麼
- 書中舉例作者開發一個 方格 控制項的界面 但是實際上他失控製表
+ 書中舉例作者開發一個 方格 控制項的界面 但是實際上 他是試算表控制項 因此使用 方格控制項的界面包裹試算表控制項， 而因為作者是想開發方格控制項 因此 暴露出來的 子程式只有跟方個控制項有關， 試算表控制項的程式都被隱藏起來
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA0MDY1NzYsNjE5NTk3OTQyLDIzNT
-Y1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5
-OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcwOCwtND
-ExMTg2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbNDA2Njk0ODQwLDYxOTU5Nzk0MiwyMzU2NT
+c5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTks
+MTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMT
+E4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
 -->
