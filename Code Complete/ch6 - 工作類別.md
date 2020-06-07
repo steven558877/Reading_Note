@@ -35,11 +35,13 @@
  #### 一定要理解類別所實作的抽像是什麼
  書中舉例作者開發一個 方格 控制項的界面 但是實際上 他是試算表控制項 因此使用 方格控制項的界面包裹試算表控制項， 而因為作者是想開發方格控制項 因此 暴露出來的 子程式只有跟方個控制項有關， 試算表控制項的子程式都被隱藏起來。
  #### 提供成對的服務
- 大多數操作都有何其相應及相等或是相反的操作，
+ 大多數操作都有何其相應及相等或是相反的操作， 因此在建立類別的公用 子程式時， 要決定是否需要另外一個與之 相補的操作
+ #### 把不相關的資訊移到其他類別中
+ 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjkwNjE1NCw2MTk1OTc5NDIsMjM1Nj
-U3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5
-LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MT
-ExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTkwMjEzMTQwLDYxOTU5Nzk0MiwyMzU2NT
+c5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTks
+MTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMT
+E4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
 -->
