@@ -49,11 +49,12 @@
   有一個 判斷標準是 採用哪種方式最能保護介面抽象的完整性， 以此去判斷要使用public, protect還是private。
   #### 不要公開暴露成員資料
   #### 避免把私用的實作細節放入類別的介面中
-   例如在類別的private屬性中直接使用string新增一個成員，這樣就暴露了成員的實作，書中提到effective c++的做法是新增一個此類別的實作類別，只有此類別能使用該
+   例如在類別的private屬性中直接使用string新增一個成員，這樣就暴露了成員的實作，書中提到effective c++的做法是新增一個此類別的實作類別，只有此類別能使用該實作類別並使用實作類別取實作此類別的成員。
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTUwNDI4NSwxNDcyNDk3OTQzLDEwNj
-QxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwx
-NjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5OSwxMDcyNT
-A2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2
-LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbMjA5ODA2NjAyLDE0NzI0OTc5NDMsMTA2ND
+EyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkwLDE2
+MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MD
+YzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MTExODY2ODYs
+MTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
 -->
