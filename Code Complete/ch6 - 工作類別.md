@@ -31,11 +31,11 @@
  ### 良好的抽象
  一個良好的抽象應該是在類別內有相關性 有高度的內聚力， 下面是一些可用於建立類別介面實的 指引
  #### 類別介面應該展現已製的抽象 層次
- 在類別思考時 有一個很好的方法
+ 在類別思考時 有一個很好的方法 就是寶把類別看作一種用來實作adt的機制 每一個類別應該是實作一個adt並且只實作這個adt。 如果發現某個類別不只是做一個adt，
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDI5NTExOSwyMzU2NTc5OTAsMTYwMT
-QyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMz
-NSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOT
-k1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbOTM3NjE3OTMsMjM1NjU3OTkwLDE2MDE0Mj
+I3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUs
+LTczNTY0MjYyMywtNDcwMzU5NzA4LC00MTExODY2ODYsMTk5NT
+IxOTE1NiwxMDQyODc0Nzk1XX0=
 -->
