@@ -40,11 +40,13 @@
  #### 盡可能讓介面可程式化， 而不是表達語義
   可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
   #### 謹防在修改時破壞介面的抽象
+  #### 不要添加於介面抽象不一致的公用成員
   
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nz
-k5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5OSwx
-MDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcwOCwtNDExMT
-g2Njg2LDE5OTUyMTkxNTYsMTA0Mjg3NDc5NV19
+eyJoaXN0b3J5IjpbNjExMTgyNTUxLDM0OTg2Njc5LDYxOTU5Nz
+k0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIx
+NDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNT
+k3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVd
+fQ==
 -->
