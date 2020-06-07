@@ -37,10 +37,11 @@
  #### 提供成對的服務
  大多數操作都有何其相應及相等或是相反的操作， 因此在建立類別的公用 子程式時， 要決定是否需要另外一個與之 相補的操作
  #### 把不相關的資訊移到其他類別中
- #### 
+ #### 盡可能讓介面可程式化， 而不是表達語義
+  可程式化 指的是 界面中 中的資料類型和其他屬性轉成
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODk2Mjc5Niw2MTk1OTc5NDIsMjM1Nj
+eyJoaXN0b3J5IjpbLTgyNTA4NDk3MSw2MTk1OTc5NDIsMjM1Nj
 U3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5
 LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MT
 ExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
