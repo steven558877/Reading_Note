@@ -45,11 +45,12 @@
   通常有良好的抽象性時該類別都有良好的 內聚性， 因此當你發現某個類別的內聚性很弱 但又不知道怎麼改時， 可以改問自己這個類別是否表現一致的頭像。
   ### 良好的封裝
   封裝相比於抽象， 封裝是強制阻止你看到細節怎麼實作， 而抽象只是可以讓你 忽略實作。 作者的經驗來說只要沒有封裝抽象往往很容易被打破， 因此這兩個通常會一起都有
-  
+  #### 盡可能的限制類別和成員的 可存取性
+  有一個 判斷標準是 採用哪種方式最能保護介面抽象的完整性， 以此去判斷
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDM1NjAyMywxMDY0MTIxNzAzLDM0OT
-g2Njc5LDYxOTU5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwx
-NTQ4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1Nj
-QyNjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2
-LDEwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNzcwNDQzMDYsMTA2NDEyMTcwMywzND
+k4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQs
+MTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNT
+Y0MjYyMywtNDcwMzU5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1
+NiwxMDQyODc0Nzk1XX0=
 -->
