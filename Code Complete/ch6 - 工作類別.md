@@ -58,9 +58,10 @@
    #### 避免使用friend class
    在某些特定環境下 使用 friend class 可以幫助管理複雜度， 但在一般情況下 friend class 會破壞封裝。
    #### 不要因為一個子程式裡僅 使用 公用 子程式 就把他歸入公開介面
-   
+   一個子程式只使用公開的子程式就把他公開不是一個重要的考慮因素， 而是該考慮提供介面時有沒有需要公開這個程式
+   #### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjY5NjgyLC02NjM3NTI3MzAsNzcxMT
+eyJoaXN0b3J5IjpbLTQ3MDQ4MjUzLC02NjM3NTI3MzAsNzcxMT
 Q5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMs
 MTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OT
 kwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEw
