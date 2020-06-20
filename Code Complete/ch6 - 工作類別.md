@@ -69,13 +69,16 @@
    上面的問題在於你 呼叫程式碼時 不是依賴於類別的公開介面， 而是依賴於類別的私用實作， 每當你發現自己是透過查看類別內部的 實作 來得知如何使用這個類別時， 你就已經不是在針對介面寫程式了， 而是由經過界面直接針對內部的實作來寫程式， 破壞了封裝性， 一旦破壞了 封裝性 ，抽象能力也就遭殃了
    而當如果你不知道如何使用一個類別的公開介面時， 不是拉出類別的原始碼， 去看裡面的實作， 而是去聯絡作者， 告知他他不知道怎麼使用這個類別， 而你想得到的也不是他真的 怎麼做， 而是由他去修改類別介面， 修改完後再讓你看看你能不能知道如何使用。
    #### 留意過於緊密的耦合關係
-   通常兩個
+   通常兩個類別越是losse coupling越好，以下是建議
+   * 盡可能限制著類別和成員的可存取性
+   * 避免使用友誼類別， 因為他們是緊密耦合的
+   * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4ODc5MDgzLC0xODAyMDQ1NzcsLTk5Nz
-k1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1Mjcz
-MCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3Mj
-Q5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0Miwy
-MzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMj
-Y2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDhd
-fQ==
+eyJoaXN0b3J5IjpbMTYyNDY1NDI5NSwtMTgwMjA0NTc3LC05OT
+c5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3
+MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0Nz
+I0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIs
+MjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3Mj
+I2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4
+XX0=
 -->
