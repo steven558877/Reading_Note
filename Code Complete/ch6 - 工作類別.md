@@ -101,9 +101,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 #### 不要覆寫一個不可覆寫的 成員函式
 例如 一個函式在基底類別是private， 折騎乘後不該取一個相同名稱的函式，因為閱讀者會以為你是在覆寫他，但其實只是剛好同名而已。
 #### 把共用的介面、資料及操作放在繼承樹中盡可能高的位置
-如果你發現一個子程式移到更高的後會破壞該層物件的抽象性
+如果你發現一個子程式移到更高的層次後會破壞該層物件的抽象性則該停手了
+#### 只有一個實例的類別是值得懷疑的
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzA4ODQ2MCw1NDI3NTg0NDgsMjAwMT
+eyJoaXN0b3J5IjpbMTM0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMT
 I2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3
 NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNj
 YzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYw
