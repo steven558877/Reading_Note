@@ -86,9 +86,12 @@
    #### 警惕有超過約7個資料成員的類別
    
    ### 繼承是一個has a關係
-   繼承的概念是說某一個類別是另外一個類別的特殊化。 其目的在於透過一個基底類別來定義出兩個或多個衍生類別
+   繼承的概念是說某一個類別是另外一個類別的特殊化。 其目的在於透過一個基底類別來定義出兩個或多個衍生類別 並提供共有元素
+   從決定使用騎乘時你必須要做一下決策
+   * 對於每一個成員函數而言他應該對衍生類別可見嗎？ 他應該有預設的實作嗎？ 這個預設的實作能被複寫嗎？
+   * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODY0MzY3NywxNjQwMTA4OTM1LDIxMT
+eyJoaXN0b3J5IjpbLTg0MjgxOTgwNCwxNjQwMTA4OTM1LDIxMT
 E5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5Mzgx
 OCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOSwxMT
 IzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQxMjE3
