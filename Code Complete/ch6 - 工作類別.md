@@ -78,13 +78,15 @@
    * 察覺6-3節講的Demeter法則
    ##  有關設計和實作的議題
    ### 包含（has a ......的關係）
-   包含（containment）
+   包含（containment） 表示的是一個類別含有1個基本資料元素和物件
+   ####  經由包含來實作has a關系
+   例如員工有一個姓名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzI3Nzk2LDIxMTE5NjIwMDIsLTE4MD
-IwNDU3NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgx
-MiwtNjYzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOT
-gwNjYwMiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMzQ5ODY2Nzks
-NjE5NTk3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Nj
-g3NDcsMjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjNd
-fQ==
+eyJoaXN0b3J5IjpbLTkzMjgyMzY3NiwyMTExOTYyMDAyLC0xOD
+AyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4
+MTIsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMD
+k4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5
+LDYxOTU5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4Nj
+Y4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIz
+XX0=
 -->
