@@ -50,11 +50,14 @@
   #### 不要公開暴露成員資料
   #### 避免把私用的實作細節放入類別的介面中
    例如在類別的private屬性中直接使用string新增一個成員，這樣就暴露了成員的實作，書中提到effective c++的做法是新增一個此類別的實作類別，只有此類別能使用該實作類別並使用實作類別取得實作此類別的成員。
+   #### 不要對類別的使用者做出任何假設
+   類別的設計和實作應該符合類別介面 所隱藏的用意， 不應該假設他會被如何使用或是不會被如何使用，
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3Mj
-Q5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0Miwy
-MzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMj
-Y2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgs
-LTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbMjYzNDMwMTY1LDExMjM5NjI0OTEsMjA5OD
+A2NjAyLDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2
+MTk1OTc5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2OD
+c0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywt
+NDcwMzU5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMDQyOD
+c0Nzk1XX0=
 -->
