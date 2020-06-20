@@ -104,12 +104,71 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 如果你發現一個子程式移到更高的層次後會破壞該層物件的抽象性則該停手了
 #### 只有一個實例的類別是值得懷疑的
 
+只需要一個實例 可能代表設計中把物件和類別混為一談， 考慮一下能否指建立一個新物件而非一個新類別， 衍生類別中的差異能否改用資料而非新類別來表達。
+
+#### 只有一個衍生類別的基底類別也值得懷疑
+
+這可能是開發者為了未來的開發而提前設計， 但是最好的方法並非如此， 而是讓眼下的工作成果盡可能清晰簡單 直接了當， 也就是說不要建立任何並非絕對必要的繼承結構
+
+#### 衍生後複寫了某個字程式但是沒有在其中做任何事這也值得懷疑
+
+舉例有一個Cat類別，其中有Scatch()這個成員含式，而有些貓無法抓，所以產生一個繼承Cat類別的衍生類別ScatchLessCat，並且對Scatch()覆寫，讓他不做任何事。這有幾個問題
+
+-   他修改了基底類別的介面所表達的意義， 破壞了基底類別所代表的抽象
+-   如果你從這個衍生類別進一步 衍生出其他類別時會迅速失控，例如沒有尾巴的貓，不捉老鼠的貓等等
+-   程式碼 會逐漸變得混亂而難以維護， 因為基底類別的介面的行為幾乎無法讓人理解其衍生類別的行為
+
+#### 避免讓繼承體系過深
+
+過深的層次會讓複雜度顯著提高並且提高錯誤率
+
+#### 盡量使用多型避免大量的類型檢查
+
+例如用一個switch case 去判斷要畫圓形還是方形或是其他型，這就改用繼承並去多型Draw()這個函數是比較好的方法。
+
+#### 讓所有資料都是private
+
+### 多重繼承
+
+在使用多種繼承權應考慮其他方案並謹慎的評估他可能會對系統的複雜性和可理解性產生的影響
+
+#### 為什麼會有這麼多關於繼承的規則
+
+前面提出的規則能讓您遠離繼承有關的麻煩， 而繼承往往和你的程式設計師的首要技術與使命背道而馳，下面總結何時使用繼承和包含
+
+-   如果多個類別共享資料而非行為， 而應該是去建立這個類別可以包含的公用物件
+-   如果多個類別共享行為而非資料， 應該是讓他們從共同的基底類別繼承來， 並在基底類別定義 公用的子程式
+-   如果多個類別既共享資料也共享行為，應該要讓他們從一個共同的基底類別繼承而來並在基底類別定義共用的資料和子程式
+-   到你想由基底類別控制你的介面時， 就是用繼承； 當你想自己控制你的界面時就是用包含
+
+### 成員函式和資料成員
+
+#### 讓類別中的子程式數量盡可能的少
+
+#### 用隱含的方式禁止你不需要的成員函式與運算子
+
+將你不想要使用的東西定義為private，禁止呼叫方程式碼去存取
+
+#### 減少類別所呼叫的不同子程式的數量
+
+#### 對於 其他類別的子程式的間接呼叫要盡可能地少。
+
+例如account.ContactPerson().FaytimeContractInfo()越少越好
+
+#### 一般來說應盡量減小類別和類別之間相互合作的範圍
+
+盡量要下面這幾個數字減到最小
+
+-   實例化物件的種類數量
+-   在被實例化物件上直接呼叫的不同的子程式的數量
+-   呼叫由其他物件回傳之物件的子城市的數量
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMT
-I2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3
-NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNj
-YzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYw
-MiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMzQ5ODY2NzksNjE5NT
-k3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDdd
+eyJoaXN0b3J5IjpbLTkyMDAxNzMwMiwxMzQ2NDgwNzkzLDU0Mj
+c1ODQ0OCwyMDAxMjY1MjQyLDE2NDAxMDg5MzUsMjExMTk2MjAw
+MiwtMTgwMjA0NTc3LC05OTc5NTE5MTksODAwNDkzODE4LC0xOT
+gwNzc5ODEyLC02NjM3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0
+OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzND
+k4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDRd
 fQ==
 -->
