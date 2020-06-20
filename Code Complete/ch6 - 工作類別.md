@@ -56,12 +56,14 @@
    -- 請將x, y, z 初始化為1,否則會崩潰。
    ```
    #### 避免使用friend class
-   在某些特定環境下 使用 friend class 可以幫助管理複雜度， 但在一般情況下 friend coalesce
+   在某些特定環境下 使用 friend class 可以幫助管理複雜度， 但在一般情況下 friend class 會破壞封裝。
+   #### 不要因為一個子程式裡僅 使用 公用 子程式 就把他歸入公開介面
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUzMjg3MDIsLTY2Mzc1MjczMCw3Nz
-ExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0
-MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0MiwyMzU2NT
-c5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTks
-MTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMT
-E4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbLTkwNjY5NjgyLC02NjM3NTI3MzAsNzcxMT
+Q5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMs
+MTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OT
+kwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEw
+NzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MTExOD
+Y2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
 -->
