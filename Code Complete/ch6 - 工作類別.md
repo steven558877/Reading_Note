@@ -92,9 +92,9 @@
    * 每一個資料成員而言他應該對衍生類別可見嗎
    下面來詳細解釋如何考慮這些事項
    #### 用public 繼承來實作一個is a關係
-   
+   使用 繼承 來建立新類別時， 是在表明這個新類別是現有類別的特殊版本， 基底類別會對衍生類別作什麼有所期待， 也做出了限制， 因此如果衍生類別無法完全遵守基底類別定義的介面契約時，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQyNTU1NDAsMjAwMTI2NTI0MiwxNj
+eyJoaXN0b3J5IjpbLTE3MzQyMzI4MzAsMjAwMTI2NTI0MiwxNj
 QwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUx
 OTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLD
 c3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3
