@@ -66,13 +66,14 @@
    * 不去呼叫A類別的Init()，因為你知道在PerformFirstOeration()時就會呼叫過
    * 不在Retrieve(database)前呼叫database.Connect()，因為你知道在裡頭她會去判斷有沒有跟database連線上。
    * 不去呼叫A類別的Terminate()，因為你知道在PerformFinalOeration()時就會呼叫
-   上面的問題在於你 呼叫程式碼時 不是依賴於類別的公開介面， 而是依賴於類別的私用實作， 每當你發現自己是透過查看類別內部的 實作 來得知如何使用這個類別時， 你就已經不是在針對介面寫程式了， 而是由經過界面直接針對內部的實作來寫程式， 破壞了封裝性， 一旦破壞了風通行抽象能力也就遭殃了
+   上面的問題在於你 呼叫程式碼時 不是依賴於類別的公開介面， 而是依賴於類別的私用實作， 每當你發現自己是透過查看類別內部的 實作 來得知如何使用這個類別時， 你就已經不是在針對介面寫程式了， 而是由經過界面直接針對內部的實作來寫程式， 破壞了封裝性， 一旦破壞了 封裝性 ，抽象能力也就遭殃了
+   而當如果你不知道如何使用一個類別的公開介面 時，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzOTM2MDg1LC0xODAyMDQ1NzcsLTk5Nz
-k1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1Mjcz
-MCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3Mj
-Q5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0Miwy
-MzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMj
-Y2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDhd
-fQ==
+eyJoaXN0b3J5IjpbMTczODcxNzY4MSwtMTgwMjA0NTc3LC05OT
+c5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3
+MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0Nz
+I0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIs
+MjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3Mj
+I2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4
+XX0=
 -->
