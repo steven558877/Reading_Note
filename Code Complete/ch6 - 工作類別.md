@@ -77,9 +77,9 @@
    * 對於從語義上破壞封裝性保持警惕
    * 察覺6-3節講的Demeter法則
    ##  有關設計和實作的議題
-   
+   這節將討論包含
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzYxMTI0NCwtMTgwMjA0NTc3LC05OT
+eyJoaXN0b3J5IjpbMjExMTk2MjAwMiwtMTgwMjA0NTc3LC05OT
 c5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3
 MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0Nz
 I0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIs
