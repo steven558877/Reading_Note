@@ -63,12 +63,14 @@
    在開發時通常閱讀程式碼的時間會比編寫程式碼時間還要長， 因此可讀性非常重要， 在一個類別中當有一子程式並非完全符合這個類別， 但是可能會讓開發更方便， 我們必須避免這個狀況以免影響可閱讀性。
    #### 要格外警惕從語意上破壞封裝性
    破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決， 而語法上就是完全另外一件事，例如
+   * 不去呼叫A類別的Init()，因為在PerformFirstOeration()時就會呼叫過
+   * 不在Retrieve(database)前呼叫，因為在
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNDkzODE4LC0xOTgwNzc5ODEyLC02Nj
-M3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAy
-LDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OT
-c5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0Nywy
-MTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMz
-U5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1
-XX0=
+eyJoaXN0b3J5IjpbNzk2NzU3ODgxLDgwMDQ5MzgxOCwtMTk4MD
+c3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkx
+LDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMzQ5OD
+Y2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1
+NDg2Njg3NDcsMjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03MzU2ND
+I2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkxNTZd
+fQ==
 -->
