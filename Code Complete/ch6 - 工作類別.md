@@ -66,13 +66,13 @@
    * 不去呼叫A類別的Init()，因為你知道在PerformFirstOeration()時就會呼叫過
    * 不在Retrieve(database)前呼叫database.Connect()，因為你知道在裡頭她會去判斷有沒有跟database連線上。
    * 不去呼叫A類別的Terminate()，因為你知道在PerformFinalOeration()時就會呼叫
-   
+   上面的問題在於你 呼叫程式碼時 並不是完全依賴介面提供的功能，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMD
-Q5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIx
-OSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNj
-QxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwx
-NjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5OSwxMDcyNT
-A2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2
+eyJoaXN0b3J5IjpbMjAwMjc0MTMzNiwtMTgwMjA0NTc3LC05OT
+c5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3
+MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0Nz
+I0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIs
+MjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3Mj
+I2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4
 XX0=
 -->
