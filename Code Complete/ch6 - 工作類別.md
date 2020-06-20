@@ -62,17 +62,17 @@
    #### 讓閱讀程式碼比編寫程式碼更方便
    在開發時通常閱讀程式碼的時間會比編寫程式碼時間還要長， 因此可讀性非常重要， 在一個類別中當有一子程式並非完全符合這個類別， 但是可能會讓開發更方便， 我們必須避免這個狀況以免影響可閱讀性。
    #### 要格外警惕從語意上破壞封裝性
-   破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決， 而語法上就是完全另外一件事，例如
-   * 不去呼叫A類別的Init()，因為在PerformFirstOeration()時就會呼叫過
-   * 不在Retrieve(database)前呼叫database.Connect()，因為在裡頭她會去判斷有沒有跟database連線上。
-   * 不去呼叫A類別的Terminate()，因為在PerformFinalOeration()時就會呼叫
+   破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決， 而語法上就是完全另外一件事，例如下面有問題的例子:
+   * 不去呼叫A類別的Init()，因為你知道在PerformFirstOeration()時就會呼叫過
+   * 不在Retrieve(database)前呼叫database.Connect()，因為你知道在裡頭她會去判斷有沒有跟database連線上。
+   * 不去呼叫A類別的Terminate()，因為你知道在PerformFinalOeration()時就會呼叫
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5OD
-A3Nzk4MTIsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5
-MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OT
-g2Njc5LDYxOTU5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwx
-NTQ4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1Nj
-QyNjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2
+eyJoaXN0b3J5IjpbLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMD
+Q5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIx
+OSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNj
+QxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwx
+NjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5OSwxMDcyNT
+A2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2
 XX0=
 -->
