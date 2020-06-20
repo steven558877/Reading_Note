@@ -64,13 +64,15 @@
    #### 要格外警惕從語意上破壞封裝性
    破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決， 而語法上就是完全另外一件事，例如
    * 不去呼叫A類別的Init()，因為在PerformFirstOeration()時就會呼叫過
-   * 不在Retrieve(database)前呼叫，因為在
+   * 不在Retrieve(database)前呼叫database.Connect()，因為在裡頭她會去判斷有沒有跟database連線上。
+   * 不去呼叫A類別的Terminate()，因為在PerformFinalOeration()時就會呼叫
+   * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NzU3ODgxLDgwMDQ5MzgxOCwtMTk4MD
-c3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkx
-LDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMzQ5OD
-Y2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1
-NDg2Njg3NDcsMjE0NzIyNjY5OSwxMDcyNTA2MzM1LC03MzU2ND
-I2MjMsLTQ3MDM1OTcwOCwtNDExMTg2Njg2LDE5OTUyMTkxNTZd
-fQ==
+eyJoaXN0b3J5IjpbLTEyNzQ1ODI3NTcsODAwNDkzODE4LC0xOT
+gwNzc5ODEyLC02NjM3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0
+OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzND
+k4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQs
+MTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNT
+Y0MjYyMywtNDcwMzU5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1
+Nl19
 -->
