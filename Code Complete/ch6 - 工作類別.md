@@ -59,12 +59,14 @@
    在某些特定環境下 使用 friend class 可以幫助管理複雜度， 但在一般情況下 friend class 會破壞封裝。
    #### 不要因為一個子程式裡僅 使用 公用 子程式 就把他歸入公開介面
    一個子程式只使用公開的子程式就把他公開不是一個重要的考慮因素， 而是該考慮提供介面時有沒有需要公開這個程式
+   #### 讓閱讀程式碼比編寫程式碼更方便
+   在開發時通常閱讀程式碼的時間會比編寫程式碼時間還要長， 因此可讀性非常重要， 在一個類別中當有一子程式並非完全符合這個類別， 但是可能會讓開發更方便， 我們必須避免這個狀況以免影響可閱讀性。
    #### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDQ4MjUzLC02NjM3NTI3MzAsNzcxMT
-Q5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMs
-MTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OT
-kwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3MjI2Njk5LDEw
-NzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4LC00MTExOD
-Y2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3Nz
+ExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0
+MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0MiwyMzU2NT
+c5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTks
+MTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMT
+E4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
 -->
