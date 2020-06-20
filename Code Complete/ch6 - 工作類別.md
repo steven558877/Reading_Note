@@ -67,9 +67,9 @@
    * 不在Retrieve(database)前呼叫database.Connect()，因為你知道在裡頭她會去判斷有沒有跟database連線上。
    * 不去呼叫A類別的Terminate()，因為你知道在PerformFinalOeration()時就會呼叫
    上面的問題在於你 呼叫程式碼時 不是依賴於類別的公開介面， 而是依賴於類別的私用實作， 每當你發現自己是透過查看類別內部的 實作 來得知如何使用這個類別時， 你就已經不是在針對介面寫程式了， 而是由經過界面直接針對內部的實作來寫程式， 破壞了封裝性， 一旦破壞了 封裝性 ，抽象能力也就遭殃了
-   而當如果你不知道如何使用一個類別的公開介面 時，
+   而當如果你不知道如何使用一個類別的公開介面時， 不是拉出類別的原始碼， 去看裡面的實作， 而是去聯絡作者， 告知他他不知道怎麼使用這個類別， 而你想得到的也不是他真的 怎麼做， 而是由他去修改類別介面， 修改完後再讓你看看你能不能知道如何使用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODcxNzY4MSwtMTgwMjA0NTc3LC05OT
+eyJoaXN0b3J5IjpbMTI2ODc2OTc0NywtMTgwMjA0NTc3LC05OT
 c5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3
 MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0Nz
 I0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIs
