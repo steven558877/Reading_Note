@@ -85,20 +85,20 @@
    在某些狀況你發現無法把一個物件當作另外一個物件的成員來實作包含關係， 一些專家建議可以使用private繼承來實作has a， 這麼做的原因是要讓包含那邊能夠存取被包含類別的protected成員， 但這個做法會造成衍生類別與基底類別形成一種過於緊密的關係而破壞封裝性。
    #### 警惕有超過約7個資料成員的類別
    
-   ### 繼承是一個is a關係
+   ### 繼承是一個s a關係
    繼承的概念是說某一個類別是另外一個類別的特殊化。 其目的在於透過一個基底類別來定義出兩個或多個衍生類別 並提供共有元素
    從決定使用騎乘時你必須要做一下決策
    * 對於每一個成員函數而言他應該對衍生類別可見嗎？ 他應該有預設的實作嗎？ 這個預設的實作能被複寫嗎？
    * 每一個資料成員而言他應該對衍生類別可見嗎
    下面來詳細解釋如何考慮這些事項
-   #### 用public 繼承來實作一個is a關係
+   #### 用public 繼承來實作一個s a關係
    使用 繼承 來建立新類別時， 是在表明這個新類別是現有類別的特殊版本， 基底類別會對衍生類別作什麼有所期待， 也做出了限制， 因此如果衍生類別無法完全遵守基底類別定義的介面契約時，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQyMzI4MzAsMjAwMTI2NTI0MiwxNj
-QwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUx
-OTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLD
-c3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3
-OTQzLDEwNjQxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQyLDIzNT
-Y1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0NzIyNjY5
-OV19
+eyJoaXN0b3J5IjpbNTQyNzU4NDQ4LC0xNzM0MjMyODMwLDIwMD
+EyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1
+NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLT
+Y2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2
+MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOT
+U5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3
+XX0=
 -->
