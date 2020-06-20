@@ -55,12 +55,13 @@
    ```
    -- 請將x, y, z 初始化為1,否則會崩潰。
    ```
-   
+   #### 避免使用friend class
+   在某些特定環境下 使用 friend class 可以幫助管理複雜度， 但在一般情況下 friend coalesce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMz
-k2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAz
-LDM0OTg2Njc5LDYxOTU5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMj
-c0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwt
-NzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMTE4NjY4NiwxOTk1Mj
-E5MTU2LDEwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbLTExOTUzMjg3MDIsLTY2Mzc1MjczMCw3Nz
+ExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0
+MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0MiwyMzU2NT
+c5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTks
+MTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMT
+E4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
 -->
