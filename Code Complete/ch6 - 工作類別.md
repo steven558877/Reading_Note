@@ -95,9 +95,9 @@
    使用 繼承 來建立新類別時， 是在表明這個新類別是現有類別的特殊版本， 基底類別會對衍生類別作什麼有所期待， 也做出了限制， 因此如果衍生類別無法完全遵守基底類別定義的介面契約時， 繼承就不是一個正確的實作技術 ，請改用包含的方式
    #### 要使用繼承就要進行詳細說明， 否則不要使用，因為繼承是一個危險、增加複雜度的技術
 #### 遵循LISKOV替代原則
-liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 且使用者無需了解兩者之間的差異。
+liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 且使用者無需了解兩者之間的差異， 否則會因為不同的衍生類別需要去記憶相同名稱的函式卻做不同事情.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjY4ODk3Myw1NDI3NTg0NDgsMjAwMT
+eyJoaXN0b3J5IjpbLTkwMjUzNzczOSw1NDI3NTg0NDgsMjAwMT
 I2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3
 NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNj
 YzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYw
