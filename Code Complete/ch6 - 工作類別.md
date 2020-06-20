@@ -82,13 +82,15 @@
    ####  經由包含來實作has a關系
    例如員工有一個（has a）姓名、 一個電話號碼， 那你可以讓姓名、電話號碼 成為員工 類別的資料成員
    #### 在萬不得已時經由private繼承來實作has a關係
-   在某些狀況你發現無法把一個物件當作另外一個物件的成員來實作包含關係， 一些專家建議可以使用private繼承來實作has a，
+   在某些狀況你發現無法把一個物件當作另外一個物件的成員來實作包含關係， 一些專家建議可以使用private繼承來實作has a， 這麼做的原因是要讓包含那邊能夠存取被包含類別的protected成員， 但這個做法會造成衍生類別與基底類別形成一種過於緊密的關係而破壞封裝性。
+   #### 警惕有超過約7個資料成員的類別
+   #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDY0MzEwNCwyMTExOTYyMDAyLC0xOD
-AyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4
-MTIsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMD
-k4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5
-LDYxOTU5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4Nj
-Y4NzQ3LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIz
-XX0=
+eyJoaXN0b3J5IjpbLTE5MDU2MzU4ODcsMjExMTk2MjAwMiwtMT
+gwMjA0NTc3LC05OTc5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5
+ODEyLC02NjM3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMj
+A5ODA2NjAyLDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3
+OSw2MTk1OTc5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0OD
+Y2ODc0NywyMTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYy
+M119
 -->
