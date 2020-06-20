@@ -74,13 +74,16 @@
    * 避免使用友誼類別， 因為他們是緊密耦合的
    * 在基底類別中把資料宣告為private而非protected， 以正的衍生類別和基底類別之間的耦合程度
    * 避免在類別的公開 界面中 暴露成員資料
-   * 對於重與一善破壞風封信保持警惕
+   * 對於從語義上破壞封裝性保持警惕
+   * 察覺6-3節講的Demeter法則
+   ##  有關設計和實作的議題
+   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc2MTcxMzAsLTE4MDIwNDU3NywtOT
-k3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUy
-NzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxND
-cyNDk3OTQzLDEwNjQxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQy
-LDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDcsMjE0Nz
-IyNjY5OSwxMDcyNTA2MzM1LC03MzU2NDI2MjMsLTQ3MDM1OTcw
-OF19
+eyJoaXN0b3J5IjpbLTQzNzYxMTI0NCwtMTgwMjA0NTc3LC05OT
+c5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3
+MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0Nz
+I0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIs
+MjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0NywyMTQ3Mj
+I2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMzU5NzA4
+XX0=
 -->
