@@ -62,13 +62,13 @@
    #### 讓閱讀程式碼比編寫程式碼更方便
    在開發時通常閱讀程式碼的時間會比編寫程式碼時間還要長， 因此可讀性非常重要， 在一個類別中當有一子程式並非完全符合這個類別， 但是可能會讓開發更方便， 我們必須避免這個狀況以免影響可閱讀性。
    #### 要格外警惕從語意上破壞封裝性
-   破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決，
+   破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決， 而語法上就是完全另外一件事，例如
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc2ODQ1NDksLTE5ODA3Nzk4MTIsLT
-Y2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2
-MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOT
-U5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3
-LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00Nz
-AzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3
-OTVdfQ==
+eyJoaXN0b3J5IjpbODAwNDkzODE4LC0xOTgwNzc5ODEyLC02Nj
+M3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAy
+LDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OT
+c5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0Nywy
+MTQ3MjI2Njk5LDEwNzI1MDYzMzUsLTczNTY0MjYyMywtNDcwMz
+U5NzA4LC00MTExODY2ODYsMTk5NTIxOTE1NiwxMDQyODc0Nzk1
+XX0=
 -->
