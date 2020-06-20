@@ -80,9 +80,10 @@
    ### 包含（has a ......的關係）
    包含（containment） 表示的是一個類別含有1個基本資料元素和物件
    ####  經由包含來實作has a關系
-   例如員工有一個姓名
+   例如員工有一個（has a）姓名、 一個電話號碼， 那你可以讓姓名、電話號碼 成為員工 類別的資料成員
+   #### 在萬不得已時經由private實作has a關係
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjgyMzY3NiwyMTExOTYyMDAyLC0xOD
+eyJoaXN0b3J5IjpbLTM1MzA5MTYyNywyMTExOTYyMDAyLC0xOD
 AyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4
 MTIsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMD
 k4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5
