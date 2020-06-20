@@ -92,13 +92,15 @@
    * 每一個資料成員而言他應該對衍生類別可見嗎
    下面來詳細解釋如何考慮這些事項
    #### 用public 繼承來實作一個s a關係
-   使用 繼承 來建立新類別時， 是在表明這個新類別是現有類別的特殊版本， 基底類別會對衍生類別作什麼有所期待， 也做出了限制， 因此如果衍生類別無法完全遵守基底類別定義的介面契約時，
+   使用 繼承 來建立新類別時， 是在表明這個新類別是現有類別的特殊版本， 基底類別會對衍生類別作什麼有所期待， 也做出了限制， 因此如果衍生類別無法完全遵守基底類別定義的介面契約時， 繼承就不是一個正確的實作技術 ，請改用包含的方式
+   #### 要使用繼承就要進行詳細說明， 否則不要使用，因為繼承是一個危險、增加複雜度的技術
+####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNzU4NDQ4LC0xNzM0MjMyODMwLDIwMD
-EyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1
-NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLT
-Y2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2
-MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOT
-U5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3
-XX0=
+eyJoaXN0b3J5IjpbODA4NTMwMTU0LDU0Mjc1ODQ0OCwyMDAxMj
+Y1MjQyLDE2NDAxMDg5MzUsMjExMTk2MjAwMiwtMTgwMjA0NTc3
+LC05OTc5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02Nj
+M3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAy
+LDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OT
+c5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDQsMTU0ODY2ODc0N119
+
 -->
