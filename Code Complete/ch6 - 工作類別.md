@@ -61,12 +61,14 @@
    一個子程式只使用公開的子程式就把他公開不是一個重要的考慮因素， 而是該考慮提供介面時有沒有需要公開這個程式
    #### 讓閱讀程式碼比編寫程式碼更方便
    在開發時通常閱讀程式碼的時間會比編寫程式碼時間還要長， 因此可讀性非常重要， 在一個類別中當有一子程式並非完全符合這個類別， 但是可能會讓開發更方便， 我們必須避免這個狀況以免影響可閱讀性。
-   #### 
+   #### 要格外警惕從語意上破壞封裝性
+   破壞封裝性可以從語義上或者是從語法上， 語法上可以輕易地透過private解決，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3Nz
-ExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0
-MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOTU5Nzk0MiwyMzU2NT
-c5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3LDIxNDcyMjY2OTks
-MTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00NzAzNTk3MDgsLTQxMT
-E4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDc2ODQ1NDksLTE5ODA3Nzk4MTIsLT
+Y2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2
+MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOT
+U5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3
+LDIxNDcyMjY2OTksMTA3MjUwNjMzNSwtNzM1NjQyNjIzLC00Nz
+AzNTk3MDgsLTQxMTE4NjY4NiwxOTk1MjE5MTU2LDEwNDI4NzQ3
+OTVdfQ==
 -->
