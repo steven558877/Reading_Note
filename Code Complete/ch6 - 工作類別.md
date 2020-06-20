@@ -151,7 +151,7 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 
 #### 減少類別所呼叫的不同子程式的數量
 
-#### 對於 其他類別的子程式的間接呼叫要盡可能地少。
+#### 對於其他類別的子程式的間接呼叫要盡可能地少。
 
 例如account.ContactPerson().FaytimeContractInfo()越少越好
 
@@ -164,11 +164,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 -   呼叫由其他物件回傳之物件的子城市的數量
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDAxNzMwMiwxMzQ2NDgwNzkzLDU0Mj
-c1ODQ0OCwyMDAxMjY1MjQyLDE2NDAxMDg5MzUsMjExMTk2MjAw
-MiwtMTgwMjA0NTc3LC05OTc5NTE5MTksODAwNDkzODE4LC0xOT
-gwNzc5ODEyLC02NjM3NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0
-OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMsMTA2NDEyMTcwMywzND
-k4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkwLDE2MDE0MjI3NDRd
-fQ==
+eyJoaXN0b3J5IjpbLTE5OTUyMzA2OTgsMTM0NjQ4MDc5Myw1ND
+I3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIw
+MDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMT
+k4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYy
+NDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMz
+Q5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0
+XX0=
 -->
