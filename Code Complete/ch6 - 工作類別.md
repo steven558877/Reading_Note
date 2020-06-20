@@ -99,13 +99,15 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 #### 確保只繼承需要繼承的部分
 衍生類別可以只繼承函式成員的介面和實作也可以介面與實作都繼承。 當你選擇透過繼承的方式實作一個新類別時，請針對每一個子程式仔細考慮你所希望繼承的方式。 如果你只想使用一個類別的實作而不是介面， 那就應該採用包含的方式而不該用繼承。
 #### 不要覆寫一個不可覆寫的 成員函式
-例如 一個函式在基底類別是private， 折騎乘後不該取一個相同名稱的函式，因為閱讀者會以為你是在覆寫他，但其實
+例如 一個函式在基底類別是private， 折騎乘後不該取一個相同名稱的函式，因為閱讀者會以為你是在覆寫他，但其實只是剛好同名而已。
+#### 把共用的介面、資料及操作放在繼承樹中盡可能高的位置
+如果你發現一個子程式移到更高的後會破壞該層物件的抽象性
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUwNTg2MjIsNTQyNzU4NDQ4LDIwMD
-EyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1
-NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLT
-Y2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2
-MDIsMTQ3MjQ5Nzk0MywxMDY0MTIxNzAzLDM0OTg2Njc5LDYxOT
-U5Nzk0MiwyMzU2NTc5OTAsMTYwMTQyMjc0NCwxNTQ4NjY4NzQ3
-XX0=
+eyJoaXN0b3J5IjpbMTYwMzA4ODQ2MCw1NDI3NTg0NDgsMjAwMT
+I2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3
+NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNj
+YzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYw
+MiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMzQ5ODY2NzksNjE5NT
+k3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0LDE1NDg2Njg3NDdd
+fQ==
 -->
