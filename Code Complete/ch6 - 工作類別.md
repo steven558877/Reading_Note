@@ -40,11 +40,11 @@
  #### (???)盡可能讓介面可程式化， 而不是表達語義
  (???) 可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
   #### 謹防在修改時破壞介面的抽象
-  #### 不要添加於介面抽象不一致的公用成員
+  #### 不要添加與介面抽象不一致的公用成員
   #### 同時考慮抽象性和內聚性
-  通常有良好的抽象性時該類別都有良好的 內聚性， 因此當你發現某個類別的內聚性很弱 但又不知道怎麼改時， 可以改問自己這個類別是否表現一致的頭像。
+  通常有良好的抽象性時該類別都有良好的 內聚性， 因此當你發現某個類別的內聚性很弱 但又不知道怎麼改時， 可以改問自己這個類別是否表現一致的抽象。
   ### 良好的封裝
-  封裝相比於抽象， 封裝是強制阻止你看到細節怎麼實作， 而抽象只是可以讓你 忽略實作。 作者的經驗來說只要沒有封裝抽象往往很容易被打破， 因此這兩個通常會一起都有
+  封裝相比於抽象， 封裝是強制阻止你看到細節怎麼實作， 而抽象只是可以讓你 忽略實作。 作者的經驗來說只要沒有封裝，抽象往往很容易被打破， 因此這兩個通常會一起都有
   #### 盡可能的限制類別和成員的 可存取性
   有一個 判斷標準是 採用哪種方式最能保護介面抽象的完整性， 以此去判斷要使用public, protect還是private。
   #### 不要公開暴露成員資料
@@ -163,11 +163,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 -   呼叫由其他物件回傳之物件的子城市的數量
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjU3MDc4OCwtMTk5NTIzMDY5OCwxMz
-Q2NDgwNzkzLDU0Mjc1ODQ0OCwyMDAxMjY1MjQyLDE2NDAxMDg5
-MzUsMjExMTk2MjAwMiwtMTgwMjA0NTc3LC05OTc5NTE5MTksOD
-AwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3MzAsNzcxMTQ5
-MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMsMT
-A2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkw
-XX0=
+eyJoaXN0b3J5IjpbLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMT
+M0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4
+OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LD
+gwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0
+OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLD
+EwNjQxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5
+MF19
 -->
