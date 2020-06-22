@@ -37,8 +37,8 @@
  #### 提供成對的服務
  大多數操作都有何其相應及相等或是相反的操作， 因此在建立類別的公用 子程式時， 要決定是否需要另外一個與之 相補的操作
  #### 把不相關的資訊移到其他類別中
- #### 盡可能讓介面可程式化， 而不是表達語義
-  可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
+ #### (???)盡可能讓介面可程式化， 而不是表達語義
+ (???) 可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
   #### 謹防在修改時破壞介面的抽象
   #### 不要添加於介面抽象不一致的公用成員
   #### 同時考慮抽象性和內聚性
@@ -85,13 +85,13 @@
    在某些狀況你發現無法把一個物件當作另外一個物件的成員來實作包含關係， 一些專家建議可以使用private繼承來實作has a， 這麼做的原因是要讓包含那邊能夠存取被包含類別的protected成員， 但這個做法會造成衍生類別與基底類別形成一種過於緊密的關係而破壞封裝性。
    #### 警惕有超過約7個資料成員的類別
    
-   ### 繼承是一個s a關係
+   ### 繼承是一個is a關係
    繼承的概念是說某一個類別是另外一個類別的特殊化。 其目的在於透過一個基底類別來定義出兩個或多個衍生類別 並提供共有元素
    從決定使用騎乘時你必須要做一下決策
    * 對於每一個成員函數而言他應該對衍生類別可見嗎？ 他應該有預設的實作嗎？ 這個預設的實作能被複寫嗎？
    * 每一個資料成員而言他應該對衍生類別可見嗎
    下面來詳細解釋如何考慮這些事項
-   #### 用public 繼承來實作一個s a關係
+   #### 用public 繼承來實作一個is a關係
    使用 繼承 來建立新類別時， 是在表明這個新類別是現有類別的特殊版本， 基底類別會對衍生類別作什麼有所期待， 也做出了限制， 因此如果衍生類別無法完全遵守基底類別定義的介面契約時， 繼承就不是一個正確的實作技術 ，請改用包含的方式
    #### 要使用繼承就要進行詳細說明， 否則不要使用，因為繼承是一個危險、增加複雜度的技術
 #### 遵循LISKOV替代原則
@@ -105,7 +105,6 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 #### 只有一個實例的類別是值得懷疑的
 
 只需要一個實例 可能代表設計中把物件和類別混為一談， 考慮一下能否指建立一個新物件而非一個新類別， 衍生類別中的差異能否改用資料而非新類別來表達。
-
 #### 只有一個衍生類別的基底類別也值得懷疑
 
 這可能是開發者為了未來的開發而提前設計， 但是最好的方法並非如此， 而是讓眼下的工作成果盡可能清晰簡單 直接了當， 也就是說不要建立任何並非絕對必要的繼承結構
@@ -164,11 +163,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 -   呼叫由其他物件回傳之物件的子城市的數量
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyMzA2OTgsMTM0NjQ4MDc5Myw1ND
-I3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIw
-MDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMT
-k4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOSwxMTIzOTYy
-NDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQxMjE3MDMsMz
-Q5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5MCwxNjAxNDIyNzQ0
+eyJoaXN0b3J5IjpbLTkwMjU3MDc4OCwtMTk5NTIzMDY5OCwxMz
+Q2NDgwNzkzLDU0Mjc1ODQ0OCwyMDAxMjY1MjQyLDE2NDAxMDg5
+MzUsMjExMTk2MjAwMiwtMTgwMjA0NTc3LC05OTc5NTE5MTksOD
+AwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3MzAsNzcxMTQ5
+MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMsMT
+A2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5NDIsMjM1NjU3OTkw
 XX0=
 -->
