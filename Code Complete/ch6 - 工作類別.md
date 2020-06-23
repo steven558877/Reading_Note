@@ -75,7 +75,7 @@
    * 在基底類別中把資料宣告為private而非protected， 以正的衍生類別和基底類別之間的耦合程度
    * 避免在類別的公開 界面中 暴露成員資料
    * 對於從語義上破壞封裝性保持警惕
-   * 察覺6-3節講的Demeter法則
+   * （？？？）察覺6-3節講的Demeter法則
    ##  有關設計和實作的議題
    ### 包含（has a ......的關係）
    包含（containment） 表示的是一個類別含有1個基本資料元素和物件
@@ -163,11 +163,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 -   呼叫由其他物件回傳之物件的子城市的數量
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMT
-M0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4
-OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LD
-gwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0
-OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLD
-EwNjQxMjE3MDMsMzQ5ODY2NzksNjE5NTk3OTQyLDIzNTY1Nzk5
-MF19
+eyJoaXN0b3J5IjpbLTIwODE2MjYxMSwtMTEyMzU3MzIxMSwtMT
+k5NTIzMDY5OCwxMzQ2NDgwNzkzLDU0Mjc1ODQ0OCwyMDAxMjY1
+MjQyLDE2NDAxMDg5MzUsMjExMTk2MjAwMiwtMTgwMjA0NTc3LC
+05OTc5NTE5MTksODAwNDkzODE4LC0xOTgwNzc5ODEyLC02NjM3
+NTI3MzAsNzcxMTQ5MjE5LDExMjM5NjI0OTEsMjA5ODA2NjAyLD
+E0NzI0OTc5NDMsMTA2NDEyMTcwMywzNDk4NjY3OSw2MTk1OTc5
+NDJdfQ==
 -->
