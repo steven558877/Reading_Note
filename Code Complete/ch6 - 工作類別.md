@@ -192,10 +192,8 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 如果一個類別只包含資料但不包含行為 那應該要想想他真的是一個類別嗎， 同時思考要不要把這個類別降級
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
-## 與具體程式語言相關的問題
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzM1MzQyOCwxNzMyMzc4OTgxLC0xMz
+eyJoaXN0b3J5IjpbMTU1NjQ0NjMyNSwxNzMyMzc4OTgxLC0xMz
 g3NDEzMjAzLC0yMDgxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUy
 MzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0Mi
 wxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3
