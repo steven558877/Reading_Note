@@ -166,9 +166,10 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 #### 同一個類別只會有單一實例時，用私用的方式把建構函式隱藏起來
 建構函式隱藏起來後 使用一個公開的函式 去取得這個實例
 #### 優先採用deep copy, 除非論證可行才使用shallow copy
-深層拷貝是指
+深層拷貝是指物件複製時是member-wise copy
+而淺層拷貝通常都只是指向或是參考某一實例。 淺層拷貝 或許能提高效能
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE4MTU0OTEsLTEzODc0MTMyMDMsLT
+eyJoaXN0b3J5IjpbLTIwNzcxNTY1OTIsLTEzODc0MTMyMDMsLT
 IwODE2MjYxMSwtMTEyMzU3MzIxMSwtMTk5NTIzMDY5OCwxMzQ2
 NDgwNzkzLDU0Mjc1ODQ0OCwyMDAxMjY1MjQyLDE2NDAxMDg5Mz
 UsMjExMTk2MjAwMiwtMTgwMjA0NTc3LC05OTc5NTE5MTksODAw
