@@ -161,9 +161,9 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 -   實例化物件的種類數量
 -   （？？？）在被實例化物件上直接呼叫的不同的子程式的數量
 -   呼叫由其他物件回傳之物件的子城市的數量
-
+### 建構函式
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjIyNjc1MywtMjA4MTYyNjExLC0xMT
+eyJoaXN0b3J5IjpbMTkyNjgyMjE0MywtMjA4MTYyNjExLC0xMT
 IzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4
 NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC
 0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3
