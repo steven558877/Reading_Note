@@ -169,9 +169,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 深層拷貝是指物件複製時是member-wise copy
 而淺層拷貝通常都只是指向或是參考某一實例。 淺層拷貝或許能提高效能 但是需要完全確保能提高效能 否則只是提高程式碼的複雜度是沒有益處的
 ## 建立類別的原因
+### 為現實世界中的物件建模
+###  為抽象的物件建模
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDExMjA2LC0xMzg3NDEzMjAzLC0yMD
+eyJoaXN0b3J5IjpbODg4MjEzMzc5LC0xMzg3NDEzMjAzLC0yMD
 gxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4
 MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LD
 IxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5
