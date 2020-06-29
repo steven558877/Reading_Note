@@ -182,13 +182,15 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 如果你需要使用全域資料就可以把它實作的細節隱藏到某個類別的介面背後。 透過 存取 子程式來操控全域資料有許多好處， 你可以監控這些資料的存取 並且使用存取子程式的方式可以促使你去思考有關資料是否就應該是全域的。 通常 全域資料其實只不過是物件資料而已
 ### 讓參數傳的更順暢
 ###  建立中心控制點
+只用一個地方來控制一項任務是個好主意
+### 讓程式碼更易於重用
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAyNTIwLC0xMzg3NDEzMjAzLC0yMD
-gxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4
-MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LD
-IxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5
-MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOS
-wxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQx
-MjE3MDNdfQ==
+eyJoaXN0b3J5IjpbMTczMjM3ODk4MSwtMTM4NzQxMzIwMywtMj
+A4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0
+ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNS
+wyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0
+OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3NzExNDkyMT
+ksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0
+MTIxNzAzXX0=
 -->
