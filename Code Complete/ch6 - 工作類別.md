@@ -174,13 +174,16 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 降低複雜度
 建立一個類別來把資訊隱藏起來就可以無須再去考慮他們
 ### 隔離複雜度
-無論複雜度表現為何種型態 只要他還在類別的 局部 而未擴散到整個 程式碼 ，想要找到他就會比較容易
+無論複雜度表現為何種型態 只要發生錯誤還在類別的 局部 而未擴散到整個 程式碼 ，想要找到他就會比較容易， 並且只要介面沒替換就可以換 裡頭的實作
+### 隱藏實作細節
+###  限制變動的影響範圍 
+把容易變動的部分隔離開來，這樣就能把變動所帶來的影響限制在一個或少數幾個類別的範圍內
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE1ODkyNDksLTEzODc0MTMyMDMsLT
-IwODE2MjYxMSwtMTEyMzU3MzIxMSwtMTk5NTIzMDY5OCwxMzQ2
-NDgwNzkzLDU0Mjc1ODQ0OCwyMDAxMjY1MjQyLDE2NDAxMDg5Mz
-UsMjExMTk2MjAwMiwtMTgwMjA0NTc3LC05OTc5NTE5MTksODAw
-NDkzODE4LC0xOTgwNzc5ODEyLC02NjM3NTI3MzAsNzcxMTQ5Mj
-E5LDExMjM5NjI0OTEsMjA5ODA2NjAyLDE0NzI0OTc5NDMsMTA2
-NDEyMTcwM119
+eyJoaXN0b3J5IjpbLTU5ODAzODAxMCwtMTM4NzQxMzIwMywtMj
+A4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0
+ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNS
+wyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0
+OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3NzExNDkyMT
+ksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0
+MTIxNzAzXX0=
 -->
