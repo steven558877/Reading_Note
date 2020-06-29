@@ -177,13 +177,14 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 無論複雜度表現為何種型態 只要發生錯誤還在類別的 局部 而未擴散到整個 程式碼 ，想要找到他就會比較容易， 並且只要介面沒替換就可以換 裡頭的實作
 ### 隱藏實作細節
 ###  限制變動的影響範圍 
-把容易變動的部分隔離開來，這樣就能把變動所帶來的影響限制在一個或少數幾個類別的範圍內
+把容易變動的部分隔離開來，這樣就能把變動所帶來的影響限制在一個或少數幾個類別的範圍內。 把容易變動的部分設計成容易修改
+###  隱藏全域資料
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODAzODAxMCwtMTM4NzQxMzIwMywtMj
-A4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0
-ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNS
-wyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0
-OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3NzExNDkyMT
-ksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0
-MTIxNzAzXX0=
+eyJoaXN0b3J5IjpbOTYwMDU5ODk1LC0xMzg3NDEzMjAzLC0yMD
+gxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4
+MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LD
+IxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5
+MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOS
+wxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQx
+MjE3MDNdfQ==
 -->
