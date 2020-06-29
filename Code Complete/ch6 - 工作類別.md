@@ -179,9 +179,9 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ###  限制變動的影響範圍 
 把容易變動的部分隔離開來，這樣就能把變動所帶來的影響限制在一個或少數幾個類別的範圍內。 把容易變動的部分設計成容易修改
 ###  隱藏全域資料
-如果你需要使用全域資料就可以把它時做的細節隱藏到某個類別的介面背後
+如果你需要使用全域資料就可以把它實作的細節隱藏到某個類別的介面背後。 透過 存取 子程式來操控全域資料有許多好處， 你可以監控這些資料的存取 並且使用存取子程式的方式可以促使你去思考有關資料是否就應該是全域的。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDUxNTk4NywtMTM4NzQxMzIwMywtMj
+eyJoaXN0b3J5IjpbLTYwNzkyNzY1MywtMTM4NzQxMzIwMywtMj
 A4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0
 ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNS
 wyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0
