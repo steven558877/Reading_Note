@@ -11,7 +11,8 @@ eyJoaXN0b3J5IjpbMTA2MjE0NDgwMl19
 Effictive C++
 More Effictive C++
 Primer C++
+The Pragmatic Programmer 20週年紀念版 (The Pragmatic Programmer, 20th Anniversary Edition)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTg2ODc5NV19
+eyJoaXN0b3J5IjpbLTExNDU0NDk4NDhdfQ==
 -->
