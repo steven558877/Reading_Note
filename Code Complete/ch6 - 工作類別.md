@@ -179,13 +179,16 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ###  限制變動的影響範圍 
 把容易變動的部分隔離開來，這樣就能把變動所帶來的影響限制在一個或少數幾個類別的範圍內。 把容易變動的部分設計成容易修改
 ###  隱藏全域資料
-如果你需要使用全域資料就可以把它實作的細節隱藏到某個類別的介面背後。 透過 存取 子程式來操控全域資料有許多好處， 你可以監控這些資料的存取 並且使用存取子程式的方式可以促使你去思考有關資料是否就應該是全域的。
+如果你需要使用全域資料就可以把它實作的細節隱藏到某個類別的介面背後。 透過 存取 子程式來操控全域資料有許多好處， 你可以監控這些資料的存取 並且使用存取子程式的方式可以促使你去思考有關資料是否就應該是全域的。 通常 全域資料其實只不過是物件資料而已
+### 讓參數傳的更順暢
+###  建立中心控制點
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzkyNzY1MywtMTM4NzQxMzIwMywtMj
-A4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0
-ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNS
-wyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0
-OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3NzExNDkyMT
-ksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3MjQ5Nzk0MywxMDY0
-MTIxNzAzXX0=
+eyJoaXN0b3J5IjpbLTEzMDAyNTIwLC0xMzg3NDEzMjAzLC0yMD
+gxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4
+MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LD
+IxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5
+MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0OTIxOS
+wxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcyNDk3OTQzLDEwNjQx
+MjE3MDNdfQ==
 -->
