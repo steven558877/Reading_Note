@@ -165,9 +165,10 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 #### 如果可以盡可能在所有 建構函式 中初始化所有資料成員
 #### 同一個類別只會有單一實例時，用私用的方式把建構函式隱藏起來
 建構函式隱藏起來後 使用一個公開的函式 去取得這個實例
-#### 優先採用deep copy, 除非論證可行才使用shallow x
+#### 優先採用deep copy, 除非論證可行才使用shallow copy
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTY1NTAxNSwtMTM4NzQxMzIwMywtMj
+eyJoaXN0b3J5IjpbLTcyNjQ2NjU3OCwtMTM4NzQxMzIwMywtMj
 A4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0
 ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNS
 wyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0
