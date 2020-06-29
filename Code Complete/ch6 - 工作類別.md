@@ -187,13 +187,17 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 把相關操作包裝到一起
 ## 應該避免的類別
 ### 避免建立萬能類別
-像是一個類別使用get及set 取向其他類別所取資料 深入到其他類別的工作中並告訴他們該如何做
+像是一個類別使用get及set 取向其他類別所取資料 深入到其他類別的工作中並告訴他們該如何做， 那應該思考把這些功能放到其他類別而不是使用萬能類別
+###  消除無關緊要的類別
+如果一個類別只包含資料但不包含行為 那應該要想想他真的是一個類別嗎， 同時思考要不要把這個類別降級
+### 避免用動詞命名的類別
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM5NjMwMDAsMTczMjM3ODk4MSwtMT
-M4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1
-MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyND
-IsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5
-Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1Mj
-czMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4MDY2MDIsMTQ3
-MjQ5Nzk0M119
+eyJoaXN0b3J5IjpbMTM4OTIzNzgwMCwxNzMyMzc4OTgxLC0xMz
+g3NDEzMjAzLC0yMDgxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUy
+MzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0Mi
+wxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3
+OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNz
+MwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcy
+NDk3OTQzXX0=
 -->
