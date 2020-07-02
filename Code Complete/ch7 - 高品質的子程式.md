@@ -17,8 +17,10 @@
 # 在子程式上的設計
 我們的目標是把你的子程式只完成一件事
  也就是說要 讓子程式 有高內聚力
+ 不過下面幾項是不太好的內聚力
+ -  順序內聚力
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MzE5MDIsLTQ4OTQ4MjI2NSwtNjIyMz
-M3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwMTU1NTMxMjQsLTQ4OTQ4MjI2NSwtNj
+IyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
 -->
