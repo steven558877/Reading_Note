@@ -6,7 +6,12 @@
 ###  避免程式碼 重複
 ### 幫助子類別的設計
 對一個簡短而工整的子程式需要進行複寫時會比覆寫冗長而邋遢的子程式更容易並且犯錯的機率更小
+### 隱藏 順序
+###  隱藏指標操作
+### 提高可移植性
+### 簡化複雜的布林判斷
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAwNjI5ODgsLTE5MTAxNzE3NDIsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTkzNzM4MTYzLC0xOTEwMTcxNzQyLC0yMD
+g4NzQ2NjEyXX0=
 -->
