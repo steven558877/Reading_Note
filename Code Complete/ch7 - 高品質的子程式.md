@@ -31,10 +31,11 @@
   - 邏輯內聚力
  例如一個名為輸入全部資料的程式 包含了輸入客戶姓名以及員工出行資訊等等不太相關的程式時 就被稱為邏輯內聚力 這個問題的解法 應該要使用不同的子程式去完成這些任務
  - 巧合的內聚力
- 
+ 指的是一個子程式內有多個不相關的功能
+上述不好的內聚力應該要改寫成由更好的內聚力組成
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MDgwNzgzLDE5MjgwOTQ5MDUsLTE4OT
-Y5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5
-MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLT
-E5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMT
+g5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIx
+MTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMi
+wtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
 -->
