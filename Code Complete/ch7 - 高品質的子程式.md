@@ -21,9 +21,10 @@
  -  順序內聚力
   指的是一個子程式內在執行時會用到先前的的結果當作Input，要改善這個狀態可以將相依的子程式碼拆成其他子程式，讓這個子程式去呼叫他們。
   - 通訊內聚力
+  指的是在一個子程式內對相同的資料做不同處理， 解決的方法是將它們拆成不同的子程式
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA2MTE5MjgsLTEyOTIzNTE5ODMsLT
+eyJoaXN0b3J5IjpbLTE4OTY5NjQwMjksLTEyOTIzNTE5ODMsLT
 k3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMiwtNDg5NDgy
 MjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIwODg3NDY2MT
 JdfQ==
