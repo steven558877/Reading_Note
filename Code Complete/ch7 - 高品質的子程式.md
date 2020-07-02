@@ -16,8 +16,9 @@
 通常會糾結在為一些簡單 的判斷 將他寫成字程式 這個問題的最佳解法通常都是真的把他寫成子程式 尤其是那些經常會使用的簡單計算， 並且對提高程式的可讀性有很大的效果
 # 在子程式上的設計
 我們的目標是把你的子程式只完成一件事
-
+ 也就是說要 讓子程式 有高內聚力
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU2NTM5NzgsLTQ4OTQ4MjI2NSwtNj
-IyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzU5MzE5MDIsLTQ4OTQ4MjI2NSwtNjIyMz
+M3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
 -->
