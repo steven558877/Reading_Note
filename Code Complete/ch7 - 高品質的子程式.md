@@ -15,8 +15,9 @@
 ### 似乎過於簡單而沒必要寫成子程式的操作
 通常會糾結在為一些簡單 的判斷 將他寫成字程式 這個問題的最佳解法通常都是真的把他寫成子程式 尤其是那些經常會使用的簡單計算， 並且對提高程式的可讀性有很大的效果
 # 在子程式上的設計
+我們的目標是把你的子程式只完成一件事
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjIwNDg2OSwtNDg5NDgyMjY1LC02Mj
-IzMzc3MDIsLTE5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExOTU2NTM5NzgsLTQ4OTQ4MjI2NSwtNj
+IyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
 -->
