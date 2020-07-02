@@ -12,8 +12,9 @@
 ### 簡化複雜的布林判斷
 ### 改善效能
 ###  子程式不一定要很短
-###
+### 似乎過於簡單而沒必要寫成子程式的操作
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIzMjIxMjMsLTE5MTAxNzE3NDIsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTYyMjMzNzcwMiwtMTkxMDE3MTc0MiwtMj
+A4ODc0NjYxMl19
 -->
