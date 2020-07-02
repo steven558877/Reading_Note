@@ -27,9 +27,10 @@
   除了這上面的內聚力以外其他的內聚力都是不可取的 他會導致程式碼混亂並且難以修改
   下面指的是不好的內聚力
   -  程式內聚力
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODA5NDkwNSwtMTg5Njk2NDAyOSwtMT
-I5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMzOTA4
-NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0Mi
-wtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4OTY1MzMzODgsMTkyODA5NDkwNSwtMT
+g5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIx
+MTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMi
+wtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
 -->
