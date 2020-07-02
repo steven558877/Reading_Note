@@ -19,9 +19,9 @@
  也就是說要 讓子程式 有高內聚力
  不過下面幾項是不太好的內聚力
  -  順序內聚力
-## 
+## 指的是一個子程式內在呼叫其他程式時會用到先前的資料有的結果當作Input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM5MDg2MTIsLTEwMTU1NTMxMjQsLT
-Q4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTg3NTM1MjEzMiwtMTMzMzkwODYxMiwtND
+g5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIwODg3
+NDY2MTJdfQ==
 -->
