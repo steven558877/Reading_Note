@@ -10,8 +10,10 @@
 ###  隱藏指標操作
 ### 提高可移植性
 ### 簡化複雜的布林判斷
-
+### 改善效能
+###  子程式不一定要很短
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzM4MTYzLC0xOTEwMTcxNzQyLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NzIzMjIxMjMsLTE5MTAxNzE3NDIsLT
+IwODg3NDY2MTJdfQ==
 -->
