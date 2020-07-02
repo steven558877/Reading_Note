@@ -27,10 +27,11 @@
   除了這上面的內聚力以外其他的內聚力都是不可取的 他會導致程式碼混亂並且難以修改
   下面指的是不好的內聚力
   -  程式內聚力
-  - 
+  指的是 一組會依照固定順序執行程式放在同一個模組中 例如1個函式檢查檔案的權限然後開啟檔案， 解決方法是把他們的功能畫成不同的子程式然後個別呼叫
+  - 邏輯內聚力
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY1MzMzODgsMTkyODA5NDkwNSwtMT
-g5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIx
-MTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMi
-wtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjA1ODMyNDEwLDE5MjgwOTQ5MDUsLTE4OT
+Y5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5
+MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLT
+E5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
 -->
