@@ -19,9 +19,9 @@
  也就是說要 讓子程式 有高內聚力
  不過下面幾項是不太好的內聚力
  -  順序內聚力
-  指的是一個子程式內的子程式在執行時會用到先前的資料有的結果當作Input
+  指的是一個子程式內的子程式在執行時會用到先前的執行的的結果當作Input，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4OT
-Q4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMTA3NTI0MDU4LDQwMjIxMTkwLC0xMzMzOT
+A4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0
+MiwtMjA4ODc0NjYxMl19
 -->
