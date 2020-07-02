@@ -16,12 +16,12 @@
 通常會糾結在為一些簡單 的判斷 將他寫成字程式 這個問題的最佳解法通常都是真的把他寫成子程式 尤其是那些經常會使用的簡單計算， 並且對提高程式的可讀性有很大的效果
 # 在子程式上的設計
 我們的目標是把你的子程式只完成一件事
- 也就是說要 讓子程式 有高內聚力
+ 也就是說要 讓子程式 有高內聚力，最好能達到功能內聚力，讓子程式只專心做一件事，並
  不過下面幾項是不太好的內聚力
  -  順序內聚力
-  指的是一個子程式內的子程式在執行時會用到先前的執行的的結果當作Input，
+  指的是一個子程式內的子程式在執行時會用到先前的執行的的結果當作Input，要改善這個狀態有
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTI0MDU4LDQwMjIxMTkwLC0xMzMzOT
-A4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0
-MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5ODkxMDk2MzUsNDAyMjExOTAsLTEzMz
+M5MDg2MTIsLTQ4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcx
+NzQyLC0yMDg4NzQ2NjEyXX0=
 -->
