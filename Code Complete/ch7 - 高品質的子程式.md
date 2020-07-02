@@ -29,9 +29,10 @@
   -  程式內聚力
   指的是 一組會依照固定順序執行程式放在同一個模組中 例如1個函式檢查檔案的權限然後開啟檔案， 解決方法是把他們的功能畫成不同的子程式然後個別呼叫
   - 邏輯內聚力
+ 例如一個名為輸入全部資料的程式 包含了輸入客戶姓名以及員工出行資訊等等不太相關的程式時 就被稱為邏輯內聚力 這個的應該要使用不同的子程式去完成這些任務
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODMyNDEwLDE5MjgwOTQ5MDUsLTE4OT
-Y5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5
-MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLT
-E5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDY4ODU5MDAsMTkyODA5NDkwNSwtMT
+g5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIx
+MTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMi
+wtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
 -->
