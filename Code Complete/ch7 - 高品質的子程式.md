@@ -19,8 +19,9 @@
  也就是說要 讓子程式 有高內聚力
  不過下面幾項是不太好的內聚力
  -  順序內聚力
- 
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU1NTMxMjQsLTQ4OTQ4MjI2NSwtNj
-IyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzMzM5MDg2MTIsLTEwMTU1NTMxMjQsLT
+Q4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4
+NzQ2NjEyXX0=
 -->
