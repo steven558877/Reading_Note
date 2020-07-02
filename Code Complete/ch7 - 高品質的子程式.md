@@ -19,9 +19,9 @@
  也就是說要 讓子程式 有高內聚力，最好能達到功能內聚力，讓子程式只專心做一件事，並
  不過下面幾項是不太好的內聚力
  -  順序內聚力
-  指的是一個子程式內的子程式在執行時會用到先前的執行的的結果當作Input，要改善這個狀態有
+  指的是一個子程式內的子程式在執行時會用到先前的的結果當作Input，要改善這個狀態有
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkxMDk2MzUsNDAyMjExOTAsLTEzMz
-M5MDg2MTIsLTQ4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcx
-NzQyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk3OTc0Nzk0NiwtMTk4OTEwOTYzNSw0MD
+IyMTE5MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3
+MDIsLTE5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
 -->
