@@ -25,10 +25,11 @@
   - 暫時的內聚力
   指的是因為一些因素需要一起執行才放在一起的子程式，像是startup()，他會去執行一堆只有這時候才會聚集在一起的子程式，此時應該要讓他呼叫其他子程式去完成任務而非自己實作。
   除了這上面的內聚力以外其他的內聚力都是不可取的 他會導致程式碼混亂並且難以修改
-  
+  下面指的是不好的內聚力
+  -  程式內聚力
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDIyMTE1LC0xODk2OTY0MDI5LC0xMj
-kyMzUxOTgzLC05Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2
-MTIsLTQ4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTkyODA5NDkwNSwtMTg5Njk2NDAyOSwtMT
+I5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMzOTA4
+NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0Mi
+wtMjA4ODc0NjYxMl19
 -->
