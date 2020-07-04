@@ -63,11 +63,12 @@ ggg.id.get()
 ### 在介面中對參數的假定加以說明
 使用註解把參數說明清楚
 ### 把子程式的參數限制在大約7個以內
-如果你發現自己一直需要 傳遞 很多參數，
+如果你發現自己一直需要 傳遞 很多參數， 這代表 子程式之間的耦合太過緊密，應該要重新設計這些子程式降低耦合度
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDAzNTA4MSwtOTQ4Mjk3NDY5LC0xNT
-IwNTMxMjMxLDE4OTc3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5
-NDkwNSwtMTg5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OT
-Q2LDQwMjIxMTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYy
-MjMzNzcwMiwtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2NzE5Mjg4MTQsLTk0ODI5NzQ2OSwtMT
+UyMDUzMTIzMSwxODk3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5Mjgw
+OTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nz
+k0Niw0MDIyMTE5MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02
+MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
 -->
