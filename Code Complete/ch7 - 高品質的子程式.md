@@ -50,11 +50,11 @@ aaa()
 ggg.id.get()
 這些都是取得id的方法，應要以統一的方式實作
 ##  子程式可以寫多長
-
+長度及錯誤率其實不一定相關， 有看你子程式的內聚力、巢狀深度、變數的數量或是決策點的數量等等因素來決定比較好，也就是說根據
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTk1MzM1OSwtMTUyMDUzMTIzMSwxOD
-k3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5
-NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MC
-wtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5
-MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDU2NTg3NjAzLC0xNTIwNTMxMjMxLDE4OT
+c3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2
+NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC
+0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkx
+MDE3MTc0MiwtMjA4ODc0NjYxMl19
 -->
