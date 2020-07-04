@@ -37,11 +37,12 @@
 #### 描述此程式所做的所有事情
 如果你所做的事情會讓子程式的名稱非常冗長， 那應該要換一種寫程式的方式以不產生副作用的方式來解決問題
 #### 避免使用無意義 模糊或表述不清 的動詞
+#### 根據需要，確定子程式的名稱的長度
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Nzc5NzA4NiwtMjA4MTQ2MDQ3MiwxOT
-I4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOTgzLC05Nzk3
-NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4OTQ4MjI2NS
-wtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
-
+eyJoaXN0b3J5IjpbNTAyMTE2MjM5LDE4OTc3OTcwODYsLTIwOD
+E0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2NDAyOSwtMTI5MjM1
+MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMzOTA4NjEyLC
+00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0MiwtMjA4
+ODc0NjYxMl19
 -->
