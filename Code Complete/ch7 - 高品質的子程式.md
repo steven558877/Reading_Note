@@ -67,11 +67,12 @@ ggg.id.get()
 如果你經常將相同的資料傳給多個子程式， 那應該要將這些子程式編成一個類別， 並將這些資料轉為類別內部的資料
 ### 考慮對稱數採用表示輸入修改輸出的命名規則
 ### 為子程式傳的用以維持其介面抽象的變數和物件
-
+當一個物件要將其資料傳遞給子成事實
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcxNTU4MjYsLTk0ODI5NzQ2OSwtMT
-UyMDUzMTIzMSwxODk3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5Mjgw
-OTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nz
-k0Niw0MDIyMTE5MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02
-MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTQ0MTc2MjkyLC0xODk3MTU1ODI2LC05ND
+gyOTc0NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4NiwtMjA4MTQ2
+MDQ3MiwxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOT
+gzLC05Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4
+OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4Nz
+Q2NjEyXX0=
 -->
