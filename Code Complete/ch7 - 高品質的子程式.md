@@ -38,11 +38,11 @@
 如果你所做的事情會讓子程式的名稱非常冗長， 那應該要換一種寫程式的方式以不產生副作用的方式來解決問題
 #### 避免使用無意義 模糊或表述不清 的動詞
 #### 根據需要，確定子程式的名稱的長度
-
+變數通常最佳長度是9到15個字， 子程式的通常比變數更複雜， 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMTE2MjM5LDE4OTc3OTcwODYsLTIwOD
-E0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2NDAyOSwtMTI5MjM1
-MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMzOTA4NjEyLC
-00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0MiwtMjA4
-ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTc3MjA0ODk2MCwxODk3Nzk3MDg2LC0yMD
+gxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIz
+NTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMi
+wtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIw
+ODg3NDY2MTJdfQ==
 -->
