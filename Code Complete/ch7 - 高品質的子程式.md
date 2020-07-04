@@ -64,9 +64,12 @@ ggg.id.get()
 使用註解把參數說明清楚
 ### 把子程式的參數限制在大約7個以內
 如果你發現自己一直需要 傳遞 很多參數， 這代表 子程式之間的耦合太過緊密，應該要重新設計這些子程式降低耦合度
-如果你經常將相同的資料傳給多個子程式， 那應該要將這些子程式編成一個類別，
+如果你經常將相同的資料傳給多個子程式， 那應該要將這些子程式編成一個類別， 並將這些資料轉為類別內部的資料
+### 考慮對稱數採用表示輸入修改輸出的命名規則
+### 為子程式傳的用以維持其介面抽象的變數和物件
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI4NjI1NDYsLTk0ODI5NzQ2OSwtMT
+eyJoaXN0b3J5IjpbLTE4OTcxNTU4MjYsLTk0ODI5NzQ2OSwtMT
 UyMDUzMTIzMSwxODk3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5Mjgw
 OTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nz
 k0Niw0MDIyMTE5MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02
