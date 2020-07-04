@@ -40,11 +40,13 @@
 #### 根據需要，確定子程式的名稱的長度
 變數通常最佳長度是9到15個字， 子程式的通常比變數更複雜， 而在類別的子程式有類別名稱提供了一部分的名稱， 所以子程式的長度可長可短一切都看需求。
 #### 給程序命名時使用語氣強烈的動詞加受詞的形式
-Prin
+PrintDocument等等
+#### 準確使用反義詞
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTc2Mjk5MiwxODk3Nzk3MDg2LC0yMD
-gxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIz
-NTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMi
-wtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIw
-ODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NzM3NTM0MTIsMTg5Nzc5NzA4NiwtMj
+A4MTQ2MDQ3MiwxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjky
+MzUxOTgzLC05Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2MT
+IsLTQ4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0y
+MDg4NzQ2NjEyXX0=
 -->
