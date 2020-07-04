@@ -38,9 +38,11 @@
 如果你所做的事情會讓子程式的名稱非常冗長， 那應該要換一種寫程式的方式以不產生副作用的方式來解決問題
 #### 避免使用無意義 模糊或表述不清 的動詞
 #### 根據需要，確定子程式的名稱的長度
-變數通常最佳長度是9到15個字， 子程式的通常比變數更複雜， 
+變數通常最佳長度是9到15個字， 子程式的通常比變數更複雜， 而在類別的子程式有類別名稱提供了一部分的名稱， 所以子程式的長度可長可短一切都看需求。
+#### 給程序命名時使用語氣強烈的動詞加受詞的形式
+Prin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjA0ODk2MCwxODk3Nzk3MDg2LC0yMD
+eyJoaXN0b3J5IjpbMTYxOTc2Mjk5MiwxODk3Nzk3MDg2LC0yMD
 gxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIz
 NTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMi
 wtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIw
