@@ -68,13 +68,12 @@ ggg.id.get()
 ### 考慮對稱數採用表示輸入修改輸出的命名規則
 ### 為子程式傳的用以維持其介面抽象的變數和物件
 當一個物件要將其資料傳遞給子程式時， 到底要將整個物件傳遞過去還是只傳遞有需要的部分， 這個問題的關鍵應該要思考說子程式的介面要表達哪種抽象。 如果要表達的抽像是子程式期望的三項特定資料， 只不過這三項資料都恰巧由同一個物件提供， 那就應該只單獨傳遞這三項資料。 如果子程式的介面要表達的抽像是一直擁有某個特定物件， 那就應該要傳遞整個物件
-## 使用函式時要特別考慮的問題
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTExMzQ2MzcsLTE4OTcxNTU4MjYsLT
-k0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3MDg2LC0yMDgx
-NDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIzNT
-E5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMiwt
-NDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMzA3OTY5MDQ1LC0xODk3MTU1ODI2LC05ND
+gyOTc0NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4NiwtMjA4MTQ2
+MDQ3MiwxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOT
+gzLC05Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4
+OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4Nz
+Q2NjEyXX0=
 -->
