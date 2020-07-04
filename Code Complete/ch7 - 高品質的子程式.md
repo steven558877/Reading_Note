@@ -61,11 +61,12 @@ ggg.id.get()
 ### 不要把子程式的參數當作工作用的變數
 如果要使用參數， 則應該要用另外一個變數來複製一份，然後 用新的變數來操作，在c++中能在參數使用const reference來避免修改
 ### 在介面中對參數的假定加以說明
-
+使用註解把參數說明清楚
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mjc4NDc1MywtOTQ4Mjk3NDY5LC0xNT
-IwNTMxMjMxLDE4OTc3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5
-NDkwNSwtMTg5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OT
-Q2LDQwMjIxMTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYy
-MjMzNzcwMiwtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTAyMjIxMDM3LC05NDgyOTc0NjksLTE1Mj
+A1MzEyMzEsMTg5Nzc5NzA4NiwtMjA4MTQ2MDQ3MiwxOTI4MDk0
+OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOTgzLC05Nzk3NDc5ND
+YsNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4OTQ4MjI2NSwtNjIy
+MzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEyXX0=
 -->
