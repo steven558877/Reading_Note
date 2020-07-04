@@ -70,9 +70,10 @@ ggg.id.get()
 當一個物件要將其資料傳遞給子程式時， 到底要將整個物件傳遞過去還是只傳遞有需要的部分， 這個問題的關鍵應該要思考說子程式的介面要表達哪種抽象。 如果要表達的抽像是子程式期望的三項特定資料， 只不過這三項資料都恰巧由同一個物件提供， 那就應該只單獨傳遞這三項資料。 如果子程式的介面要表達的抽像是一直擁有某個特定物件， 那就應該要傳遞整個物件
 ## macro及inline子程式
 ### 把macro運算包在小括號內
-
+### 把含有多條述句的macro用大括號刮起來
+不過不是良好使用macro的方法
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDk2MzAzOSwzMDc5NjkwNDUsLTE4OT
+eyJoaXN0b3J5IjpbMjAxMDMxMTQ1NywzMDc5NjkwNDUsLTE4OT
 cxNTU4MjYsLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3
 MDg2LC0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMj
 ksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMz
