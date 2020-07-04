@@ -53,11 +53,12 @@ ggg.id.get()
 長度及錯誤率其實不一定相關， 有看你子程式的內聚力、巢狀深度、變數的數量或是決策點的數量等等因素來決定比較好，也就是說根據複雜度來決定子程式的長度。 不過子程式盡量不要超過200行， 超過200行後就會影響可讀性
 ## 如何使用子程式參數
 ### 按照輸入修改輸出的順序來排列參數
+### 如果幾個子程式都使用了類似的參數，那就讓他們這些參數排列順序保持一致
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MDM0ODYzLC0xNTIwNTMxMjMxLDE4OT
-c3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2
-NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC
-0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkx
-MDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTcxMDA0ODM1MSwtMTUyMDUzMTIzMSwxOD
+k3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5
+NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MC
+wtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5
+MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
 -->
