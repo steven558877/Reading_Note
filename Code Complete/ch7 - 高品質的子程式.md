@@ -54,9 +54,10 @@ ggg.id.get()
 ## 如何使用子程式參數
 ### 按照輸入修改輸出的順序來排列參數
 ### 如果幾個子程式都使用了類似的參數，那就讓他們這些參數排列順序保持一致
+###  使用所有參數
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDA0ODM1MSwtMTUyMDUzMTIzMSwxOD
+eyJoaXN0b3J5IjpbMjExNzE2OTQ5NSwtMTUyMDUzMTIzMSwxOD
 k3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5
 NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MC
 wtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5
