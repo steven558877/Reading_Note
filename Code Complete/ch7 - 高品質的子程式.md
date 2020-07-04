@@ -33,9 +33,13 @@
  - 巧合的內聚力
  指的是一個子程式內有多個不相關的功能
 上述不好的內聚力應該要改寫成由更好的內聚力組成
+##  好的程式名稱
+#### 描述此程式所做的所有事情
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMT
-g5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIx
-MTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMi
-wtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjEzODQ3NTkxLC0yMDgxNDYwNDcyLDE5Mj
+gwOTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0
+Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC
+02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
+
 -->
