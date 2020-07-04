@@ -59,12 +59,12 @@ ggg.id.get()
 ### 把指出狀態和錯誤的變數擺在最後
 他們都是輸出所以擺最後
 ### 不要把子程式的參數當作工作用的變數
-如果要使用參數， 則應該要用另外一個變數來複製一份，然後 用新的變數來操作
-### 
+如果要使用參數， 則應該要用另外一個變數來複製一份，然後 用新的變數來操作，在c++中能在參數使用const reference來避免修改
+### 在介面中對參數的假定加以說明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxODc0NDE1LC0xNTIwNTMxMjMxLDE4OT
-c3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2
-NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC
-0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkx
-MDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxOD
+k3Nzk3MDg2LC0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5
+NjQwMjksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MC
+wtMTMzMzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5
+MTAxNzE3NDIsLTIwODg3NDY2MTJdfQ==
 -->
