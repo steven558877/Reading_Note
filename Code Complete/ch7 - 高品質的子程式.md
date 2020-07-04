@@ -72,13 +72,14 @@ ggg.id.get()
 ### 把macro運算包在小括號內
 ### 把含有多條述句的macro用大括號刮起來
 不過多條述句不是良好使用macro的方法要盡量少用
-### 
+### 如果Macro展開後如同子程式，那就應該要為他以子程式命名的方法命名
+這樣能夠在為來將macro替換成子程式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMDk5Mzk2LDMwNzk2OTA0NSwtMTg5Nz
-E1NTgyNiwtOTQ4Mjk3NDY5LC0xNTIwNTMxMjMxLDE4OTc3OTcw
-ODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2NDAyOS
-wtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMz
-OTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MT
-c0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExNjk1NjAyOSwzMDc5NjkwNDUsLTE4OT
+cxNTU4MjYsLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3
+MDg2LC0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMj
+ksLTEyOTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMz
+MzkwODYxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNz
+E3NDIsLTIwODg3NDY2MTJdfQ==
 -->
