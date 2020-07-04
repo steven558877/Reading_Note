@@ -44,9 +44,13 @@ PrintDocument等等
 #### 準確使用反義詞
 get/set, add/del等等
 #### 為常用操作卻麗命名規則
-
+employee.id()
+qqq.getid()
+aaa()
+ggg.id.get()
+這些都是取得id的方法，應要以統一的方式實作
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzg3Nzk1NywxODk3Nzk3MDg2LC0yMD
+eyJoaXN0b3J5IjpbLTQzNzA1Njc1MSwxODk3Nzk3MDg2LC0yMD
 gxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEyOTIz
 NTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwODYxMi
 wtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIsLTIw
