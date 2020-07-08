@@ -65,8 +65,8 @@ ggg.id.get()
 ### 把子程式的參數限制在大約7個以內
 如果你發現自己一直需要 傳遞 很多參數， 這代表 子程式之間的耦合太過緊密，應該要重新設計這些子程式降低耦合度
 如果你經常將相同的資料傳給多個子程式， 那應該要將這些子程式編成一個類別， 並將這些資料轉為類別內部的資料
-### 考慮對稱數採用表示輸入修改輸出的命名規則
-### 為子程式傳的用以維持其介面抽象的變數和物件
+### 考慮對參數採用表示輸入修改輸出的命名規則
+### 為子程式傳遞用以維持其介面抽象的變數和物件
 當一個物件要將其資料傳遞給子程式時， 到底要將整個物件傳遞過去還是只傳遞有需要的部分， 這個問題的關鍵應該要思考說子程式的介面要表達哪種抽象。 如果要表達的抽像是子程式期望的三項特定資料， 只不過這三項資料都恰巧由同一個物件提供， 那就應該只單獨傳遞這三項資料。 如果子程式的介面要表達的抽像是一直擁有某個特定物件， 那就應該要傳遞整個物件
 ## macro及inline子程式
 #### 把macro運算包在小括號內
@@ -79,10 +79,10 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODc2NzI3LDMwNzk2OTA0NSwtMTg5Nz
-E1NTgyNiwtOTQ4Mjk3NDY5LC0xNTIwNTMxMjMxLDE4OTc3OTcw
-ODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2NDAyOS
-wtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMz
-OTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MT
-c0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEyNTkxNTU4NzUsLTI0ODc2NzI3LDMwNz
+k2OTA0NSwtMTg5NzE1NTgyNiwtOTQ4Mjk3NDY5LC0xNTIwNTMx
+MjMxLDE4OTc3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNS
+wtMTg5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQw
+MjIxMTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNz
+cwMiwtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
 -->
