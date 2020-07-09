@@ -22,7 +22,7 @@
 作業系統的檔案系統就像是一個adt 你對檔案進行操作 會使用複製貼上的功能 而這就是ADt 因為檔案 檔案在硬碟內要用磁盤跟指針去尋找 而你不會操作到這些控制 這就是一個adt的例子
 #### 簡單的事物也可以當作ADT
  像開關燈的操作 雖然簡單但也可以使用ADT 因為這會讓程式碼 提高 自我說明能力 並且讓程式碼更容易修改
- #### 不要讓adt依賴於他的儲存介質
+ #### 不要讓adt依賴於他的儲存介質（？？？）
  如果你把一個 ADT取名為RateFile並使用讀取read()的函式時會將檔案從硬碟中讀出，但是如果ADT的讀取 功能改成由記憶體讀取 則ratefile就不正確，因此在為類別取名時要避免他與儲存方式相關。
  ### 在非物件導向環境中用ADT處理多份資料的實例 
  如果 使用 非物件導向的語言並想應用adt的概念，參考書中p133
@@ -193,11 +193,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjQ0NjMyNSwxNzMyMzc4OTgxLC0xMz
-g3NDEzMjAzLC0yMDgxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUy
-MzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0Mi
-wxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3
-OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNz
-MwLDc3MTE0OTIxOSwxMTIzOTYyNDkxLDIwOTgwNjYwMiwxNDcy
-NDk3OTQzXX0=
+eyJoaXN0b3J5IjpbNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMj
+M3ODk4MSwtMTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTcz
+MjExLC0xOTk1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LD
+IwMDEyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAy
+MDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MT
+IsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4
+MDY2MDJdfQ==
 -->
