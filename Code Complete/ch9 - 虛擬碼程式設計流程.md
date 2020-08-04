@@ -25,7 +25,10 @@
 * 不要管目標語言，以虛擬碼描述解決方法的原意
 * 虛擬碼要在足夠低的層次上撰寫，以便由他來近乎自動地產生程式碼。如果不夠低，會有些問題細節被忽略。
 * 必須要不斷精煉，直到看起來很容易能寫出程式碼為止
-* 
+## 透過PPP建立子程式
+### 設計子程式
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk5MDgxOSw2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbLTIzNjc1MDMwMywtMTExOTkwODE5LDYwMz
+A0NzQ1NV19
 -->
