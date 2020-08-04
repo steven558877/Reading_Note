@@ -45,8 +45,9 @@
 * 檢查虛擬碼
 	* 想想你如何向別人解釋虛擬碼
 * 在虛擬碼中試驗想法，並且留下最好的結果(迭代)
-	* 反覆的修改虛擬碼描述的子程式，找到幾乎能直接從虛擬碼轉換成程式碼的版本，如果層次太高就分解他，持續精煉。
+	* 反覆的修改虛擬碼描述的子程式，找到幾乎能直接從虛擬碼轉換成程式碼的版本，如果層次太高就分解他，持續精煉，直到你覺得不寫程式碼是在浪費時間為止。
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ4MjY0NjIsODgxNzIyNjQwLC0xMT
+eyJoaXN0b3J5IjpbLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC0xMT
 E5OTA4MTksNjAzMDQ3NDU1XX0=
 -->
