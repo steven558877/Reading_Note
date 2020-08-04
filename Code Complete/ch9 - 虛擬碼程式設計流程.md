@@ -41,8 +41,11 @@
 * 編寫虛擬碼
 做完上述需求就可以開始寫虛擬碼了
 * 考慮資料
-	* 如果資料的操作是該子程式的重點，則值得在考慮子程式的邏輯前先搞清楚
+	* 如果資料的操作是該子程式的重點，則值得在考慮子程式的邏輯前先搞清楚資料，把資料定義好。
+* 檢查虛擬碼
+	* 想想你如何向別人解釋虛擬碼
+* 在虛擬碼中試驗想法，並且留下最好的結果()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQwMTY0NSw4ODE3MjI2NDAsLTExMT
+eyJoaXN0b3J5IjpbMTUwNTkwOTc3MCw4ODE3MjI2NDAsLTExMT
 k5MDgxOSw2MDMwNDc0NTVdfQ==
 -->
