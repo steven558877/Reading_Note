@@ -34,7 +34,8 @@
 * 決定如何測試你的子程式
 * 使用standard library
 * 考慮錯誤處理
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODUwODMwMiwtMTExOTkwODE5LDYwMz
+eyJoaXN0b3J5IjpbLTg0MzM3MTU3OCwtMTExOTkwODE5LDYwMz
 A0NzQ1NV19
 -->
