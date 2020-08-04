@@ -32,7 +32,9 @@
 * 定義子程式要解決的問題
 * 為子程式命名
 * 決定如何測試你的子程式
+* 使用standard library
+* 考慮錯誤處理
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNjMxMzQ0LC0xMTE5OTA4MTksNjAzMD
-Q3NDU1XX0=
+eyJoaXN0b3J5IjpbMTQzODUwODMwMiwtMTExOTkwODE5LDYwMz
+A0NzQ1NV19
 -->
