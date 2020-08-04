@@ -21,7 +21,9 @@
 				└--------------------------------->完成
 ```	
 ## 如何寫好pseudocode
-* 避免使用目標程式語言的語法，虛擬碼可以讓你在一個比較高的層是
+* 避免使用目標程式語言的語法，虛擬碼可以讓你在一個比較高的層次進行設計。
+* 不要管目標語言，以虛擬碼描述解決方法的原意
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NzQyMTU5LDYwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbNjI1MDY4MTMwLDYwMzA0NzQ1NV19
 -->
