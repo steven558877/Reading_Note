@@ -24,7 +24,8 @@
 * 避免使用目標程式語言的語法，虛擬碼可以讓你在一個目標語言略高的層次進行設計。
 * 不要管目標語言，以虛擬碼描述解決方法的原意
 * 虛擬碼要在足夠低的層次上撰寫，以便由他來近乎自動地產生程式碼。如果不夠低，會有些問題細節被忽略。
-* 必須要不斷精煉，直到看起來很容易能寫出
+* 必須要不斷精煉，直到看起來很容易能寫出程式碼為止
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMxNjEzOTMsNjAzMDQ3NDU1XX0=
+eyJoaXN0b3J5IjpbLTExMTk5MDgxOSw2MDMwNDc0NTVdfQ==
 -->
