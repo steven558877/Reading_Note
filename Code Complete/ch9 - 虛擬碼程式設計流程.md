@@ -40,7 +40,9 @@
 * 研究演算法及資料類型
 * 編寫虛擬碼
 做完上述需求就可以開始寫虛擬碼了
+* 考慮資料
+	* 如果資料的操作是該子程式的重點，則值得在考慮子程式的邏輯前先搞清楚
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzIyNjQwLC0xMTE5OTA4MTksNjAzMD
-Q3NDU1XX0=
+eyJoaXN0b3J5IjpbLTMyNTQwMTY0NSw4ODE3MjI2NDAsLTExMT
+k5MDgxOSw2MDMwNDc0NTVdfQ==
 -->
