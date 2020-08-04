@@ -27,8 +27,9 @@
 * 必須要不斷精煉，直到看起來很容易能寫出程式碼為止
 ## 透過PPP建立子程式
 ### 設計子程式
-* 檢查先決條件，
+* 檢查先決條件，檢查該子程式是否以定義好要做的工作並且是否與整體設計匹配
+* 定義子程式要解決的問題
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjk1ODU2MywtMTExOTkwODE5LDYwMz
+eyJoaXN0b3J5IjpbMTQ1MDYwMTIxNSwtMTExOTkwODE5LDYwMz
 A0NzQ1NV19
 -->
