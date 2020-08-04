@@ -36,8 +36,9 @@
 * 考慮錯誤處理
 * 考慮效率問題
 	* 不是說每個程式都要有很高的效率，是說你要為了未來能夠將程式碼提高效率而設計，像是要有良好的抽象及封裝，未來可以換成其他效率更高的演算法。
-	* 
+	* 通常要改善效率應該先著重在高層次的設計，除非你能證明子程式無法滿足效率標準，不然去改善只是浪費力氣。
+* 研究演算法及資料類型
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDE3NTc5NSwtMTExOTkwODE5LDYwMz
+eyJoaXN0b3J5IjpbMTYxNjc3NjYzMywtMTExOTkwODE5LDYwMz
 A0NzQ1NV19
 -->
