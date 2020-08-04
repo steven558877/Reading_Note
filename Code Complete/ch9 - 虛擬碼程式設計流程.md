@@ -20,6 +20,8 @@
 		複審並測試程式碼 <---> 編寫子程式的程式碼  
 				└--------------------------------->完成
 ```	
+## 如何寫好pseudocode
+* 避免使用目標程式語言的語法，虛擬碼可以讓你在一個比較高的層是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODUxNjA5MSw2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbNjc1NzQyMTU5LDYwMzA0NzQ1NV19
 -->
