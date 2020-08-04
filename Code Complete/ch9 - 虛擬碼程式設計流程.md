@@ -34,8 +34,10 @@
 * 決定如何測試你的子程式
 * 使用standard library
 * 考慮錯誤處理
-* 
+* 考慮效率問題
+	* 不是說每個程式都要有很高的效率，是說你要為了未來能夠將程式碼提高效率而設計，像是要有良好的抽象及封裝，未來可以換成其他效率更高的演算法。
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzM3MTU3OCwtMTExOTkwODE5LDYwMz
+eyJoaXN0b3J5IjpbMTk5MDE3NTc5NSwtMTExOTkwODE5LDYwMz
 A0NzQ1NV19
 -->
