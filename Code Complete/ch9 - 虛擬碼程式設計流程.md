@@ -28,9 +28,11 @@
 ## 透過PPP建立子程式
 ### 設計子程式
 * 檢查先決條件，檢查該子程式是否以定義好要做的工作並且是否與整體設計匹配
-	* 也要檢查進入及離開子程式時的需求是否達成()
+	* 也要檢查進入及離開子程式時的需求是否達成(資料位於合法範圍、檔案已打開/關閉、緩衝區填滿/清空)
 * 定義子程式要解決的問題
+* 為子程式命名
+* 決定如何測試你的子程式
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcyNDcyODAsLTExMTk5MDgxOSw2MD
-MwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbODIyNjMxMzQ0LC0xMTE5OTA4MTksNjAzMD
+Q3NDU1XX0=
 -->
