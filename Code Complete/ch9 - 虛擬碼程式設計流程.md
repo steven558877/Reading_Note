@@ -50,8 +50,11 @@
 * 寫宣告
 * 將虛擬碼轉成註解
 * 為每條註解寫程式
-* 檢查
+* 檢查程式是否需要分解
+	* 如果程式太大，則重構成另外一個子程式，並且也使用ppp設計
+	* 如果沒有要拆，可以在為那些有點數量的程式編寫虛擬碼。
+* 檢查程式碼
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI2NzYzMzEsLTE2MjI3NTQ4NjYsOD
-gxNzIyNjQwLC0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
+eyJoaXN0b3J5IjpbNjI4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MT
+cyMjY0MCwtMTExOTkwODE5LDYwMzA0NzQ1NV19
 -->
