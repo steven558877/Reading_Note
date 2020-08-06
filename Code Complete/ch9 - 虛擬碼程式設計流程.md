@@ -74,8 +74,9 @@
 * 重構
 * design by contract
 	* 程式具有前置條件、後置條件
+	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTY1NTE0NCwtMTk4NjQyMDg4Myw2Mj
+eyJoaXN0b3J5IjpbLTY3MzYxNTc3NywtMTk4NjQyMDg4Myw2Mj
 g5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC0xMTE5OTA4
 MTksNjAzMDQ3NDU1XX0=
 -->
