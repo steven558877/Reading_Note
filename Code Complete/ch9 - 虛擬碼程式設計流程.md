@@ -65,12 +65,12 @@
 		* 一個子程式只做一件是
 		* 子程式間低耦合
 		* 具有防禦性程式設計
-		* 檢查變數
-			* 是否有合適的變數名稱、沒使用到的物件
-			* 檢查ㄌㄨㄛ
-			* 
+	* 檢查變數
+		* 是否有合適的變數名稱、沒使用到的物件
+		* 檢查邏輯，是否有off-by-one的問題、
+	* 刪除不需要的註解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg3MDY4NDUsLTE5ODY0MjA4ODMsNj
-I4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkw
-ODE5LDYwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbNDg0OTQxNTM0LC0xOTg2NDIwODgzLDYyOD
+kzNjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgx
+OSw2MDMwNDc0NTVdfQ==
 -->
