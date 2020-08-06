@@ -57,8 +57,10 @@
 	* 如果不知道為什麼需要這段程式碼的話就想辦法去理解，做實驗或是跟別人討論等等
 * 測試程式碼
 	* 可以使用用測試資料來呼叫子程式的一套測試控管子程式或是一些提供你的子程式呼叫的木樁
+* 消除程式中的錯誤
+	* ㄖㄨ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg1ODAzOTUsLTE5ODY0MjA4ODMsNj
-I4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkw
-ODE5LDYwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbODgxMjg1OTEsLTE5ODY0MjA4ODMsNjI4OT
+M2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5
+LDYwMzA0NzQ1NV19
 -->
