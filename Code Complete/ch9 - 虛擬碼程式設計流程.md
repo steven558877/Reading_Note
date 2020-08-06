@@ -55,9 +55,10 @@
 	* 如果沒有要拆，可以在為那些有點數量的程式編寫虛擬碼。
 * 檢查程式碼
 	* 如果不知道為什麼需要這段程式碼的話就想辦法去理解，做實驗或是跟別人討論等等
-* 
+* 測試程式碼
+	* 可以使用用測試資料來呼叫子程式的一套測試控管子程式或是一些提供你的子程式呼叫的木樁
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY0MjA4ODMsNjI4OTM2MjcxLC0xNj
-IyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LDYwMzA0NzQ1
-NV19
+eyJoaXN0b3J5IjpbLTEwNzg1ODAzOTUsLTE5ODY0MjA4ODMsNj
+I4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkw
+ODE5LDYwMzA0NzQ1NV19
 -->
