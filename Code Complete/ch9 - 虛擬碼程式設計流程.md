@@ -54,9 +54,10 @@
 	* 如果程式太大，則重構成另外一個子程式，並且也使用ppp設計
 	* 如果沒有要拆，可以在為那些有點數量的程式編寫虛擬碼。
 * 檢查程式碼
-	* b
+	* 如果不知道為什麼需要這段程式碼的話就想辦法去理解，做實驗或是跟別人討論等等
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mzc0NjcxNyw2Mjg5MzYyNzEsLTE2Mj
-I3NTQ4NjYsODgxNzIyNjQwLC0xMTE5OTA4MTksNjAzMDQ3NDU1
-XX0=
+eyJoaXN0b3J5IjpbLTE5ODY0MjA4ODMsNjI4OTM2MjcxLC0xNj
+IyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LDYwMzA0NzQ1
+NV19
 -->
