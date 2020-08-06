@@ -58,9 +58,15 @@
 * 測試程式碼
 	* 可以使用用測試資料來呼叫子程式的一套測試控管子程式或是一些提供你的子程式呼叫的木樁
 * 消除程式中的錯誤
-	* ㄖㄨ
+	* 如果程式中漏洞百出，就重寫吧，重寫出一個找不出漏洞的程式會比修補來得好
+* 收尾
+	* 檢查子程式的介面
+	* 檢查品質
+		* 一個子程式只做一件是
+		* 子程式間低耦合
+		* 具有防禦性程式設計
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMjg1OTEsLTE5ODY0MjA4ODMsNjI4OT
-M2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5
-LDYwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbLTI5MzE1NDE5NiwtMTk4NjQyMDg4Myw2Mj
+g5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC0xMTE5OTA4
+MTksNjAzMDQ3NDU1XX0=
 -->
