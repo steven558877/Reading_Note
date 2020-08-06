@@ -69,8 +69,13 @@
 		* 是否有合適的變數名稱、沒使用到的物件
 		* 檢查邏輯，是否有off-by-one的問題、
 	* 刪除不需要的註解
+## PPP的替代方案
+* TDD
+* 重構
+* design by contract
+	* 程式具有前置條件、後置條件
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0OTQxNTM0LC0xOTg2NDIwODgzLDYyOD
-kzNjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgx
-OSw2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbMTI1MTY1NTE0NCwtMTk4NjQyMDg4Myw2Mj
+g5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC0xMTE5OTA4
+MTksNjAzMDQ3NDU1XX0=
 -->
