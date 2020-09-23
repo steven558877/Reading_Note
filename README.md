@@ -13,6 +13,7 @@ More Effictive C++
 Primer C++
 The Pragmatic Programmer 20週年紀念版 (The Pragmatic Programmer, 20th Anniversary Edition)
 
+雜談的能力
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU0NDk4NDhdfQ==
+eyJoaXN0b3J5IjpbMTkxMjg1NTc1LC0xMTQ1NDQ5ODQ4XX0=
 -->
