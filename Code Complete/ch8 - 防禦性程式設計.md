@@ -108,7 +108,7 @@
 	需要時包含，不需要時可移除
 * 如果程式語言沒有提供前置處理器，自己寫一個
 * 使用除錯木樁
-	* 指的是開發時用一個function去執行耗時的操作，可能是安全性檢查，當要編譯為產品時則將此function直接return一個值或是類似不耗損效能的事。
+	* 指的是開發時有一個function會去執行耗時的操作，可能是安全性檢查，而當要編譯為產品時修改此function，讓他直接return一個值或是類似不耗損效能的事。
 ### 決定在產品程式碼中該保留多少防禦性程式碼
 防禦性程式碼在開發時需要明顯的表現出來，而在變成產品時反而需要安靜，下面可以幫助你決定如何選擇留那些。
 * 保留檢查重要錯誤的程式碼
@@ -123,11 +123,11 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgxODM1NDEsLTUwMjg4MzQ2MSwtMT
-gxMzg1NjcwOSwtMjUzNzc3MDc0LC0yMDc2MzkxMzEzLC03NTc2
-NjkyMjUsMTk2NjIwMDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMz
-gsNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcx
-ODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMy
-wtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIy
-MjM2NjUwXX0=
+eyJoaXN0b3J5IjpbLTExNTA1MzMxMDUsLTE3ODgxODM1NDEsLT
+UwMjg4MzQ2MSwtMTgxMzg1NjcwOSwtMjUzNzc3MDc0LC0yMDc2
+MzkxMzEzLC03NTc2NjkyMjUsMTk2NjIwMDg1MCw4NDM3NDA5Mj
+EsLTEyNDU4NjUwMzgsNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2
+NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMj
+EsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4
+MjcwMTEzOV19
 -->
