@@ -66,7 +66,7 @@
 * 避免使用空的catch述句
 	* 即捕捉到例外後不做任何事，這有兩種意義，一個事代表try裡的程式碼有錯，無故拋出一個例外，另一種事catch沒處裡一個有效的例外。如果真的必須有這種空catch的程式碼也需要標註清楚為什麼可行，或者是將錯誤寫進log裡。
 * 瞭解所用的函式庫可能拋出的例外
-	* 當子程式沒有捕捉到函式庫拋出的例外或導致程式崩潰，如果函式庫沒有說明會拋出那些例外則可以寫一些protoype程式找可能會有哪些。
+	* 當子程式沒有捕捉到函式庫拋出的例外會導致程式崩潰，如果函式庫沒有說明會拋出那些例外則可以寫一些protoype程式找可能會有哪些。
 * 考慮建立一個集中的例外報告機制
 	* 建立集中的例外處理程式能夠確保例外處理的一致性
 * 把專案中對例外的使用標準化
@@ -123,10 +123,10 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mzc3NzA3NCwtMjA3NjM5MTMxMywtNz
-U3NjY5MjI1LDE5NjYyMDA4NTAsODQzNzQwOTIxLC0xMjQ1ODY1
-MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYsLTk3Mj
-A3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MDIzNDEz
-MTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDExMzksMT
-AyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbLTE4MTM4NTY3MDksLTI1Mzc3NzA3NCwtMj
+A3NjM5MTMxMywtNzU3NjY5MjI1LDE5NjYyMDA4NTAsODQzNzQw
+OTIxLC0xMjQ1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03ND
+c1NjY0MjYsLTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3
+MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LD
+ExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
 -->
