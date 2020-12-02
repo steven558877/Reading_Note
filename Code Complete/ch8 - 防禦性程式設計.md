@@ -16,7 +16,7 @@
 	int fun(int K)
 	```
 	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則為fun 回傳的值有沒有達到條件。
-4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P.195)
+4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P.195) -> 對同樣的變數先做一次 assert，在
 
 ## 錯誤處理技術
 當我們預期會遇到錯誤時能夠適當的選擇下列手段單獨或合併使用:
@@ -123,9 +123,9 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjIwMDg1MCw4NDM3NDA5MjEsLTEyND
-U4NjUwMzgsNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwt
-OTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMj
-M0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEz
-OSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
+eyJoaXN0b3J5IjpbMTE4NTc1NTg5NiwxOTY2MjAwODUwLDg0Mz
+c0MDkyMSwtMTI0NTg2NTAzOCw0MTY2MDY2OSwxNjk2MzUyOSwt
+NzQ3NTY2NDI2LC05NzIwNzE4NzQsLTEyNzIyODM4MzEsLTkwMj
+Y1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0
+NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
 -->
