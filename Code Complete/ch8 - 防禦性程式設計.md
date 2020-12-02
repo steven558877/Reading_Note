@@ -102,10 +102,10 @@
 * 用ant或是make這種工具
 	* ant能夠使用一套原始碼產生不同版本的程式，而make可以設定要包不包含除錯程式碼
 * 使用內建的前置處理器
-```C++
-#define DEBUG
-```
-需要時包含，不需要時可移除
+	```C++
+	#define DEBUG
+	```
+	需要時包含，不需要時可移除
 * 如果程式語言沒有提供前置處理器，自己寫一個
 * 使用除錯木樁
 	* 指的是開發時用一個function去執行耗時的操作，可能是安全性檢查，當要編譯為產品時則將此function直接return一個值或是類似不耗損效能的事。
@@ -123,11 +123,11 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjg4MzQ2MSwtMTgxMzg1NjcwOSwtMj
-UzNzc3MDc0LC0yMDc2MzkxMzEzLC03NTc2NjkyMjUsMTk2NjIw
-MDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMzgsNDE2NjA2NjksMT
-Y5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgz
-ODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMC
-wtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0
-NTEwOF19
+eyJoaXN0b3J5IjpbLTE3ODgxODM1NDEsLTUwMjg4MzQ2MSwtMT
+gxMzg1NjcwOSwtMjUzNzc3MDc0LC0yMDc2MzkxMzEzLC03NTc2
+NjkyMjUsMTk2NjIwMDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMz
+gsNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcx
+ODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMy
+wtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIy
+MjM2NjUwXX0=
 -->
