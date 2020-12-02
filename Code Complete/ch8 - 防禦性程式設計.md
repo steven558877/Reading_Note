@@ -35,7 +35,7 @@
 	* 可以設定並回傳狀態值
 	* 也可以使用語言內建的例外處理
 * 呼叫錯誤處理子程式
-	* 優點在於能將所有錯誤集中處理，缺點在於攻擊者可能可以修改此程式，再引發錯誤，導致程式不再安全
+	* 優點在於能將所有錯誤集中處理，缺點在於整個城市都需要這個集中點攻擊者可能可以修改此程式，再引發錯誤，導致程式不再安全
 * 顯示錯誤訊息
 	* 但要調整適當的資訊量
 * 用最妥當的方式局部處理錯誤
@@ -123,9 +123,10 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzY2OTIyNSwxOTY2MjAwODUwLDg0Mz
-c0MDkyMSwtMTI0NTg2NTAzOCw0MTY2MDY2OSwxNjk2MzUyOSwt
-NzQ3NTY2NDI2LC05NzIwNzE4NzQsLTEyNzIyODM4MzEsLTkwMj
-Y1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEwOTMwLC01OTM0NjY0
-NywxMTgyNzAxMTM5LDEwMjIyMzY2NTAsMjA2NTQ1MTA4XX0=
+eyJoaXN0b3J5IjpbMTcwMTk3NzAxLC03NTc2NjkyMjUsMTk2Nj
+IwMDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMzgsNDE2NjA2Njks
+MTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0LC0xMjcyMj
+gzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkz
+MCwtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNj
+U0NTEwOF19
 -->
