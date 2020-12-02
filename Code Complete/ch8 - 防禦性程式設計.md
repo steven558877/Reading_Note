@@ -77,10 +77,10 @@
 	* 考慮是否要採用集中的錯誤報告機制
 	* 規定是否允許在建構/解構函式中使用例外
 * 考慮例外的替代方案
-	* 在處理錯誤時有很多方案，局部處理、傳遞錯誤碼、在日誌中紀錄、關閉系統等等，而非是因為語言提供例外處理就只使用他，變成為用而用、「用語言的現有環境來創造程式」。我們應以「用程式去創造合適的環境」為主。兩者的差別可看4.3節及34.4節
+	* 在處理錯誤時有很多方案，局部處理、傳遞錯誤碼、在日誌中紀錄、關閉系統等等，而非是因為語言提供例外處理就只使用他，變成為用而用、變成「用語言的現有環境來創造程式」。我們應以「用程式去創造合適的環境」為主。兩者的差別可看4.3節及34.4節
 最後是在使用例外處理時要想清楚是否真的需要，是否是對錯誤處理最佳的方法。
 ## 隔離程式，使之包容由錯誤造成的傷害
-透過某些專職於處理骯髒資料的子程式(格欄)，讓其他子程式只須面對乾淨資料即可。或是類別中的公用function可以假設資料是不安全的，他們要負責處理，而私用function則可以假設他接收的資料是乾淨的。
+透過某些專職於處理骯髒資料的子程式(被稱作隔欄)，讓其他子程式只須面對乾淨資料即可。或是類別中的公用function可以假設資料是不安全的，他們要負責處理，而私用function則可以假設他接收的資料是乾淨的。
 
 ### 隔欄及斷言的關係
 在隔欄外部的資料都要假定是不安全的，應該使用錯誤處理的技術。隔欄內部的資瞭都是假定是安全的，那在內部出錯時就是程式出錯而非資料。
@@ -123,10 +123,11 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM4NTY3MDksLTI1Mzc3NzA3NCwtMj
-A3NjM5MTMxMywtNzU3NjY5MjI1LDE5NjYyMDA4NTAsODQzNzQw
-OTIxLC0xMjQ1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03ND
-c1NjY0MjYsLTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3
-MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LD
-ExODI3MDExMzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbLTUwMjg4MzQ2MSwtMTgxMzg1NjcwOSwtMj
+UzNzc3MDc0LC0yMDc2MzkxMzEzLC03NTc2NjkyMjUsMTk2NjIw
+MDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMzgsNDE2NjA2NjksMT
+Y5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0LC0xMjcyMjgz
+ODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0MDIxMDkzMC
+wtNTkzNDY2NDcsMTE4MjcwMTEzOSwxMDIyMjM2NjUwLDIwNjU0
+NTEwOF19
 -->
