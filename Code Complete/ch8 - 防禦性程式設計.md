@@ -15,8 +15,7 @@
 	```C++
 	int fun(int K)
 	```
-	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則
-		為fun 回傳的值有沒有達到條件。
+	他的前置條件為K，就是說K要合法，可能是 0 < K < 100。而後置條件則為fun 回傳的值有沒有達到條件。
 4. 對於高健全的程式碼，應該先使用斷言在使用錯誤處理，通常這兩個不會同時使用，但是在大型程式碼中可以使用(這段看不太懂，參考書中P.195)
 
 ## 錯誤處理技術
@@ -124,9 +123,9 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU5MTc0ODgsODQzNzQwOTIxLC0xMj
-Q1ODY1MDM4LDQxNjYwNjY5LDE2OTYzNTI5LC03NDc1NjY0MjYs
-LTk3MjA3MTg3NCwtMTI3MjI4MzgzMSwtOTAyNjU3MTIxLDE0MD
-IzNDEzMTMsLTE0NDAyMTA5MzAsLTU5MzQ2NjQ3LDExODI3MDEx
-MzksMTAyMjIzNjY1MCwyMDY1NDUxMDhdfQ==
+eyJoaXN0b3J5IjpbMTk2NjIwMDg1MCw4NDM3NDA5MjEsLTEyND
+U4NjUwMzgsNDE2NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwt
+OTcyMDcxODc0LC0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMj
+M0MTMxMywtMTQ0MDIxMDkzMCwtNTkzNDY2NDcsMTE4MjcwMTEz
+OSwxMDIyMjM2NjUwLDIwNjU0NTEwOF19
 -->
