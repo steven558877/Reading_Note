@@ -46,7 +46,7 @@
 健全性是指寧願回傳回一個不那麼正確的資料也要回傳，正確性是指寧願停止程式也不要回傳不正確的資料
 
 ### 高層程式設計對錯誤處理方式的影響
-有這麼多錯誤處理方式的選擇，整個程式內應要採取一致的方式處理。一但採用了某方法就要貫徹執行。例如你決定再高層處理錯誤，低層只回報錯誤那就要嚴格執行，確保高層真的有處理錯誤。記得再你覺得不會覺不會發生錯誤的地方加入錯誤偵測，這是防禦性程式設計的核心概念- 防禦你曾未料的錯誤。
+有這麼多錯誤處理方式的選擇，整個程式內應要採取一致的方式處理。一但採用了某方法就要貫徹執行。例如你決定再高層處理錯誤，低層只回報錯誤那就要嚴格執行，確保高層真的有處理錯誤。記得再你覺得不會發生錯誤的地方加入錯誤偵測，這是防禦性程式設計的核心概念- 防禦你曾未料的錯誤。
 ## 例外(Exceptions)
 對出錯的前因後果的程式碼可以把控制權及錯誤丟給系統，系統能更好的理解錯誤。但草率的使用例外會導致與繼承一樣的問題，會導致程式難以理解。
 ### 使用例外的訣竅
@@ -123,7 +123,7 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEzNzM5ODUsLTc1NzY2OTIyNSwxOT
+eyJoaXN0b3J5IjpbLTIwNzYzOTEzMTMsLTc1NzY2OTIyNSwxOT
 Y2MjAwODUwLDg0Mzc0MDkyMSwtMTI0NTg2NTAzOCw0MTY2MDY2
 OSwxNjk2MzUyOSwtNzQ3NTY2NDI2LC05NzIwNzE4NzQsLTEyNz
 IyODM4MzEsLTkwMjY1NzEyMSwxNDAyMzQxMzEzLC0xNDQwMjEw
