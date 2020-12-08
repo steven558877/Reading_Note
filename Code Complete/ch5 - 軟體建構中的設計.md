@@ -46,9 +46,10 @@
 * 標準技術
 	* 依賴外在、奇怪的東西愈多別人就愈難理解，盡量使用標準化、常用的方法
 ### 設計的層次
-軟體系統首先
+軟體系統首先先被切割成子系統，子系統進一步分解成類別，類別在切分成子程式跟資料，最後是子程式內的設計
+* 軟體系統
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTM4ODU3MSwyMDE4MDg0MjQ3LDE2MT
-kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
-OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbNTAyMzEwMjUxLDIwMTgwODQyNDcsMTYxOT
+IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
+LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
