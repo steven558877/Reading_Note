@@ -18,9 +18,12 @@
 設計不是說突然從誰的頭腦中直接蹦出來， 而是不斷的再設計評估、 非正式討論、 寫試驗程式碼及修改試驗程式碼中演化出來。
 ## 關鍵的設計概念
 ### 軟體的首要技術使命： 管理複雜度
-* 
+* 如何處理複雜度問題
+	* 讓任何人同一時間需要處理的複雜度減到最少
+	* 不要讓附屬的複雜度無限制地增長
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1Nz
-IwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4
-OV19
+eyJoaXN0b3J5IjpbMTQyNDgyMDQxOCwxNjE5MjE4MjE3LDEzND
+A2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEw
+NjgsNjYwNDYzNTg5XX0=
 -->
