@@ -76,9 +76,11 @@
 	* 確定物件那些是 public 哪些是 private
 	* 定義 public interface
 ### 形成一致的抽象
-* 抽象指的是關注某一概念時
+* 抽象指的是關注某一概念時能夠放心地忽略其細節
+* 基底類別也是一種抽象，讓你知道其衍生類別的共同特性
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDE1MjgwMCw1NzkyMTY5NDgsMjAxOD
-A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
-LC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbLTEyODc3NjgwMjMsNTc5MjE2OTQ4LDIwMT
+gwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5
+MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
