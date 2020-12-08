@@ -42,9 +42,12 @@
 * 精簡性
 	* 縮減到不能再縮減就是好的
 * 層次性
-	* 意味著
+	* 意味著保持系統各層的層次性，在高層不需要去看低層的 code
+* 標準技術
+	* 依賴外在、奇怪的東西愈多別人就愈難理解，盡量使用標準化、常用的方法
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI1NzkwNTAsMjAxODA4NDI0NywxNj
+eyJoaXN0b3J5IjpbLTIwNTQ2MDg1MDMsMjAxODA4NDI0NywxNj
 E5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0
 MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
