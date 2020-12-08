@@ -29,9 +29,14 @@
 * 易於維護
 	* 時時想著未來要維護這段 code 的人是否易於閱讀
 * loose coupling
-	* 透過類別中優良的
+	* 透過類別中優良的抽象及封裝性及資訊隱藏來達成
+* 可擴充性
+	* 可更動某部分而不會影響其他部分
+* 可重用性
+* 高 fan-in
+	* 大量類別使用某個特定的類別，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzMDQ3MCwyMDE4MDg0MjQ3LDE2MT
+eyJoaXN0b3J5IjpbMTQ2ODI3MjcxNiwyMDE4MDg0MjQ3LDE2MT
 kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
 OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
