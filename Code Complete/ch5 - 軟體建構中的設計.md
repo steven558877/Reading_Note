@@ -50,9 +50,9 @@
 * 軟體系統
 	* 設計整體系統時，有些人為直接思考類別，但是在這階段應該要先思考的是切分子系統
 * 子系統或套件
-	* 
+	* 確認如何將程式拆分為多個子系統，並定義他們之間如何使用。如果每個子系統都能跟提他子系統通訊就失去了拆分的意義，應該要進行限制，讓子系統的存在更有意義
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcyMTM1MjAsMjAxODA4NDI0NywxNj
+eyJoaXN0b3J5IjpbLTEyMjEyNjUzMjQsMjAxODA4NDI0NywxNj
 E5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0
 MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
