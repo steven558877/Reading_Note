@@ -72,12 +72,13 @@
 	* 辨識物件及其屬性，屬性代表 method 及 data
 	* 確定可以對各個物件操作
 	* 確定各個物件可以對其他物件操作
-		* 指的是物件的包ㄏㄢ
+		* 指的是物件的包含及繼承的關係
 	* 確定物件那些是 public 哪些是 private
 	* 定義 public interface
-	* 
+### 形成一致的抽象
+* 抽象指的是關注某一概念時
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0ODI0MjE3LDU3OTIxNjk0OCwyMDE4MD
-g0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIs
-LTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTMyNDE1MjgwMCw1NzkyMTY5NDgsMjAxOD
+A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
+LC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
