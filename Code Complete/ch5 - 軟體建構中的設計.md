@@ -64,9 +64,10 @@
 	* 可能在設計時會在這層以及類別那層來來回回重複思考怎麼設計比較好
 * 子程式內部設計
 	* 沒說什麼
-
+## 設計構造塊，啟發式方法
+* 對如何思考問題提出一些方法
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzY0MDM4OCw1NzkyMTY5NDgsMjAxOD
-A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
-LC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbOTYzOTc2MDgwLDU3OTIxNjk0OCwyMDE4MD
+g0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIs
+LTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
