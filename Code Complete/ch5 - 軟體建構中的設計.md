@@ -48,8 +48,11 @@
 ### 設計的層次
 軟體系統首先先被切割成子系統，子系統進一步分解成類別，類別在切分成子程式跟資料，最後是子程式內的設計
 * 軟體系統
+	* 設計整體系統時，有些人為直接思考類別，但是在這階段應該要先思考的是切分子系統
+* 子系統或套件
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMzEwMjUxLDIwMTgwODQyNDcsMTYxOT
-IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
-LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbLTEyNjcyMTM1MjAsMjAxODA4NDI0NywxNj
+E5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0
+MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
