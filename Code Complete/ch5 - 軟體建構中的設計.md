@@ -61,9 +61,12 @@
 * 分解為類別
 	* 沒說什麼
 * 分解成子程式
-	* 
+	* 可能在設計時會在這層以及類別那層來來回回重複思考怎麼設計比較好
+* 子程式內部設計
+	* 沒說什麼
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjE1MDgxLDU3OTIxNjk0OCwyMDE4MD
-g0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIs
-LTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbMTA2NzY0MDM4OCw1NzkyMTY5NDgsMjAxOD
+A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
+LC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
