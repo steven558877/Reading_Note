@@ -79,9 +79,11 @@
 * 抽象指的是關注某一概念時能夠放心地忽略其細節
 * 基底類別也是一種抽象，讓你知道其衍生類別的共同特性，並在基底類別層次上忽略他們的差異
 * 一個好的介面能讓你專注於他的介面而非他的運作細節
-* 
+* 好的程式設計是會在各種介面(子程式、類別、套件)上注意他們的抽象
+### 封裝實作細節
+### ㄉㄤ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzA5MDM4MCw1NzkyMTY5NDgsMjAxOD
-A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
-LC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbNzE1ODE5NTEsNTc5MjE2OTQ4LDIwMTgwOD
+QyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5Miwt
+NDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
