@@ -52,9 +52,13 @@
 * 子系統或套件
 	* 確認如何將程式拆分為多個子系統，並定義他們之間如何使用。如果每個子系統都能跟提他子系統通訊就失去了拆分的意義，應該要進行限制，讓子系統的存在更有意義
 	* 切割的方法可以依照下面的方式思考
-		* 一個開發人員需要理解多少系統中不同的部分才能在圖形子系統中
+		* 一個開發人員需要理解多少系統中不同的部分才能在圖形子系統中進行修改?
+		* 當你想在另一個子系統中試圖使用業務規則會發生甚麼事
+		* 當你想在系統中加入一套新的使用者介面會發生什麼事
+		* 當你想把資料儲存放在遠端機器上會發生甚麼事
+	* 思考ㄕ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mjk2NTI0MywyMDE4MDg0MjQ3LDE2MT
+eyJoaXN0b3J5IjpbMjE0MzQ3MTQ1MywyMDE4MDg0MjQ3LDE2MT
 kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
 OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
