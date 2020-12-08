@@ -56,9 +56,10 @@
 		* 當你想在另一個子系統中試圖使用業務規則會發生甚麼事
 		* 當你想在系統中加入一套新的使用者介面會發生什麼事
 		* 當你想把資料儲存放在遠端機器上會發生甚麼事
-	* 思考ㄕ
+	* 思考時可以想當你把子系統跟其連接的子系統切斷關係後，會需要多少工作量去處理，通常愈少事愈好。
+	* 所以當子系統確實需要了解其他子系統時才將它們簽上關係
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzQ3MTQ1MywyMDE4MDg0MjQ3LDE2MT
-kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
-OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbNTM3OTcyNzI0LDIwMTgwODQyNDcsMTYxOT
+IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
+LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
