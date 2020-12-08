@@ -21,9 +21,11 @@
 * 如何處理複雜度問題
 	* 讓任何人同一時間需要處理的複雜度減到最少
 	* 不要讓附屬的複雜度無限制地增長
-
+### 理想設計的特徵
+* 下面列出特徵，能夠達成全部是最理想的，但是其中有相互競爭的條件，能做出一套折衷方案是最好的
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDgyMDQxOCwxNjE5MjE4MjE3LDEzND
+eyJoaXN0b3J5IjpbMTk3ODI0NTM2MSwxNjE5MjE4MjE3LDEzND
 A2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEw
 NjgsNjYwNDYzNTg5XX0=
 -->
