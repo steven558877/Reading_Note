@@ -66,8 +66,12 @@
 	* 沒說什麼
 ## 設計構造塊，啟發式方法
 * 對如何思考問題提出一些方法
+### 找出現實世界中的物件
+* 指的是物件導向的設計方法
+* 設計的步驟為:
+	* 辨識物件及其屬性，屬性代表 ㄩ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzOTc2MDgwLDU3OTIxNjk0OCwyMDE4MD
+eyJoaXN0b3J5IjpbMzk3MDY3ODg0LDU3OTIxNjk0OCwyMDE4MD
 g0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIs
 LTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
