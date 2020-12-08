@@ -34,9 +34,13 @@
 	* 可更動某部分而不會影響其他部分
 * 可重用性
 * 高 fan-in
-	* 大量類別使用某個特定的類別，
+	* 大量類別使用某個特定的類別，表示設計出的系統善用了較低層次的「工具」
+* 低 fan-out
+	* 少量的類別在類別中使用其他類別，使用七個以上會被稱為高 fan-out
+* 可移植性
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODI3MjcxNiwyMDE4MDg0MjQ3LDE2MT
-kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
-OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTExNzc5NDg4ODIsMjAxODA4NDI0NywxNj
+E5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0
+MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
