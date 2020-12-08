@@ -45,9 +45,10 @@
 	* 意味著保持系統各層的層次性，在高層不需要去看低層的 code
 * 標準技術
 	* 依賴外在、奇怪的東西愈多別人就愈難理解，盡量使用標準化、常用的方法
-	
+### 設計的層次
+軟體系統首先
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ2MDg1MDMsMjAxODA4NDI0NywxNj
-E5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0
-MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbMTcxOTM4ODU3MSwyMDE4MDg0MjQ3LDE2MT
+kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
+OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
