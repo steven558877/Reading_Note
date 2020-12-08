@@ -26,8 +26,12 @@
 * 最小的複雜度
 	* 避免做出聰明到難以理解的設計。
 	* 如果做出的方案無法讓你專注於程式的一小部分，則是沒什麼作用的方案
+* 易於維護
+	* 時時想著未來要維護這段 code 的人是否易於閱讀
+* loose coupling
+	* 透過類別中優良的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzND
-A2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEw
-NjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbLTE2ODkzMDQ3MCwyMDE4MDg0MjQ3LDE2MT
+kyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQy
+OSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
