@@ -38,9 +38,13 @@
 * 低 fan-out
 	* 少量的類別在類別中使用其他類別，使用七個以上會被稱為高 fan-out
 * 可移植性
-	* 
+	* 可以方便的移植到其他環境
+* 精簡性
+	* 縮減到不能再縮減就是好的
+* 層次性
+	* 意味著
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc5NDg4ODIsMjAxODA4NDI0NywxNj
+eyJoaXN0b3J5IjpbLTExNDI1NzkwNTAsMjAxODA4NDI0NywxNj
 E5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0
 MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
