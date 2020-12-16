@@ -116,11 +116,15 @@
 * 好的程式設計最重要的挑戰就是適應變化，目標是把不穩定的區域隔離出來，讓變化限制在子程式、類別內。下面是面對各種變化的措施:
 	1. 找出看起來容易變化的項目
 	2. 把看起來容易變化的項目分離出來
-	3. 把看起來容易變化的項目格ㄌㄧ出來
+	3. 把看起來容易變化的項目隔離開來
+		* 讓變化影響範圍只限定在該項目
+* 下面是容易變化的區域
+	* 業務規則
+		* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ5NDY3MTcsOTg3MjA2MjcxLDE4OT
+eyJoaXN0b3J5IjpbLTEyNzIzNDI0MjEsOTg3MjA2MjcxLDE4OT
 c0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgs
 MjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3Mj
 A5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5
