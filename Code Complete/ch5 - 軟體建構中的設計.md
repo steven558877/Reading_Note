@@ -131,11 +131,12 @@
 	* 狀態變數
 		* 不要使用 boolean，用列舉替代，因為常常會發生需要增加狀態的狀況
 		* 不要直接存取狀態變數取的他的狀態，而是透過一個子程式去做，這能做到判斷更複雜的 case
-	* y xul4
+	* 資料量的限制
+		* 當你使用了寫死100個元素的陣列時透漏了需要隱藏起來的資訊，應該定義 MAX_XXX等等的常數去定義他。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mzk3NTIzMywxMTk2MzQ4NTQ2LDk4Nz
+eyJoaXN0b3J5IjpbLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4Nz
 IwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYs
 NTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNj
 IzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4
