@@ -87,11 +87,13 @@
 * 衍生出封裝及模組化的概念
 	#### 隱私和秘密權
 	* 當某段程式隱藏起來時，它引發的錯誤不會給其他部分的程式帶來太大的損失
-	* 
+	* 類別的介面應盡可能的不暴露內部的工作機制
+	* 介面的設計是一個迭代的過程，會不斷地改進
+* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUwOTM5OTcsNTcxMDYyMDgyLC01NT
+eyJoaXN0b3J5IjpbLTE2MTI2NDc0NDQsNTcxMDYyMDgyLC01NT
 g2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3
 LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2ND
 U0NjEwNjgsNjYwNDYzNTg5XX0=
