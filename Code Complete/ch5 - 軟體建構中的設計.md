@@ -124,11 +124,13 @@
 	* 對硬體的依賴
 		* 把依賴隔離在硬體的子系統，這樣有發生錯誤或是想用軟體模擬時才能實現。
 	* 輸入和輸出
-		* 
+	* 非標準的語言特性
+		* 必須把這種用法隔離在類別內，以便在變化環境時修改
+	* 困難的建構及設計區域
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjI5Njg5MCw5ODcyMDYyNzEsMTg5Nz
+eyJoaXN0b3J5IjpbMTE5NjM0ODU0Niw5ODcyMDYyNzEsMTg5Nz
 Q5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OCwy
 MDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMD
 k4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODld
