@@ -86,12 +86,13 @@
 * 資訊隱藏是減少重夫工作的技術
 * 衍生出封裝及模組化的概念
 	#### 隱私和秘密權
-	
+	* 當某段程式隱藏起來時，它引發的錯誤不會給其他部分的程式帶來太大的損失
+	* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMTU4Mjc3LDU3MTA2MjA4MiwtNTU4Nj
-cxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywx
-MzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1ND
-YxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbLTEwNzUwOTM5OTcsNTcxMDYyMDgyLC01NT
+g2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3
+LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2ND
+U0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
