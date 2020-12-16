@@ -102,11 +102,13 @@
 		* 資訊過度分散
 			* 例如全域變數的使用，會讓修改時需要修改大量使用到的地方
 		* 循環依賴
-		* 
+			* A 依賴B, B也依賴A
+		* 把類別內的資料當作全域資料
+			* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzYyNDkwNCw1NzEwNjIwODIsLTU1OD
+eyJoaXN0b3J5IjpbMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1OD
 Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
 MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
 Q2MTA2OCw2NjA0NjM1ODldfQ==
