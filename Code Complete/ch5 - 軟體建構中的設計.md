@@ -90,12 +90,14 @@
 	* 類別的介面應盡可能的不暴露內部的工作機制
 	* 介面的設計是一個迭代的過程，會不斷地改進
 	#### 資訊隱藏的例子
-	* 用全域變數 g_maxId 去取ㄑㄩ
+	* 用全域變數 g_maxId 去取得目前的 maxid，如果要加新 id 則要寫出 int id = ++g_maxId 這種寫法
+	* 這樣的問題是如果想要修改取得 id 的方式時，要去改變所有使用到他的地方
+	* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgyOTQ2ODUsNTcxMDYyMDgyLC01NT
-g2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3
-LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2ND
-U0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbMzk3OTcxMzc1LDU3MTA2MjA4MiwtNTU4Nj
+cxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywx
+MzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1ND
+YxMDY4LDY2MDQ2MzU4OV19
 -->
