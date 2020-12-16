@@ -97,10 +97,14 @@
 	#### 資訊隱藏所指的兩種秘密
 	* 隱藏複雜度
 	* 隱藏變化源: 將影響限縮到局部範圍內
+	#### 資訊隱藏的障礙
+	* 少數情況下資訊無法被隱藏，而大多數情況是某些技術導致的心理障礙
+		* 資源過度分散
+			* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDY4NjgxMyw1NzEwNjIwODIsLTU1OD
+eyJoaXN0b3J5IjpbLTQwMTY4Mzc5Nyw1NzEwNjIwODIsLTU1OD
 Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
 MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
 Q2MTA2OCw2NjA0NjM1ODldfQ==
