@@ -89,12 +89,13 @@
 	* 當某段程式隱藏起來時，它引發的錯誤不會給其他部分的程式帶來太大的損失
 	* 類別的介面應盡可能的不暴露內部的工作機制
 	* 介面的設計是一個迭代的過程，會不斷地改進
-	#### 
+	#### 資訊隱藏的例子
+	* 用全域變數 g_maxId 去取ㄑㄩ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjYxNTM5MCw1NzEwNjIwODIsLTU1OD
-Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
-MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
-Q2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTEyNTgyOTQ2ODUsNTcxMDYyMDgyLC01NT
+g2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3
+LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2ND
+U0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
