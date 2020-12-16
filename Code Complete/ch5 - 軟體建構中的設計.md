@@ -104,11 +104,12 @@
 		* 循環依賴
 			* A 依賴B, B也依賴A
 		* 把類別內的資料當作全域資料
-			* 指的是把直接操作全域資料的缺點當作在操作類別資料時也會發生，但是類別有區分好的話，相比於全域資料你不知道誰在使用他
+			* 指的是把直接操作全域資料的缺點當作在操作類別資料時也會發生，但是類別有區分好的話，相比於全域資料你不知道誰在使用他，操作類別資料你知道有那些函數會使用他，所以是類別資料是可以拿來操作的。
+	* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTcwOTM3NCwxODk3NDk3MTU0LDU3MT
+eyJoaXN0b3J5IjpbLTgzNzAzMjk1MiwxODk3NDk3MTU0LDU3MT
 A2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcs
 MTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMD
 U2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
