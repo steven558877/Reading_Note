@@ -111,13 +111,15 @@
 	* 物件導向程式設計在處理上去 ID 的問題時，他不會去想可不可以用 typedef 把 int 隱藏起來，反而是去思考他能不能當作物件，如果可以，那就要寫一堆類別的設計，如果不行那就是用 int。而資訊隱藏的想法則是用簡單的 typedef 就解決隱藏資訊的問題。
 	* 在思考時除了物件導向式的思考，也可以按造資訊隱藏的源則想想
 	* 思考類別要隱藏甚麼的方法是，在不犧牲該類別的隱密性的狀況下去增加公開的介面及資料。
-	* 關鍵的思考是，我該將什麼資訊ㄧ
+	* 關鍵的思考是，我該將什麼資訊隱藏起來。
+### 找出容易改變的區域
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1OTU1MzA4LDk4NzIwNjI3MSwxODk3ND
-k3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIw
-MTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOT
-g5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbNjQ3OTA5OTEsOTg3MjA2MjcxLDE4OTc0OT
+cxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAx
+ODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5OD
+kyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 
 -->
