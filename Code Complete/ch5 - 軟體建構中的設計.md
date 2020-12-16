@@ -113,13 +113,16 @@
 	* 思考類別要隱藏甚麼的方法是，在不犧牲該類別的隱密性的狀況下去增加公開的介面及資料。
 	* 關鍵的思考是，我該將什麼資訊隱藏起來。
 ### 找出容易改變的區域
-* 好的程式設計最重要的挑戰就是適應變化，目標是把不穩定的
+* 好的程式設計最重要的挑戰就是適應變化，目標是把不穩定的區域隔離出來，讓變化限制在子程式、類別內。下面是面對各種變化的措施:
+	1. 找出看起來容易變化的項目
+	2. 把看起來容易變化的項目分離出來
+	3. 把看起來容易變化的項目格ㄌㄧ出來
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDE2MTQzNCw5ODcyMDYyNzEsMTg5Nz
-Q5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OCwy
-MDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMD
-k4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODld
-fQ==
+eyJoaXN0b3J5IjpbLTE3MTQ5NDY3MTcsOTg3MjA2MjcxLDE4OT
+c0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgs
+MjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3Mj
+A5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5
+XX0=
 -->
