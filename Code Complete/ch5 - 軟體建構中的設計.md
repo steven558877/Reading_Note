@@ -83,12 +83,15 @@
 ### 封裝實作細節
 ### 繼承能簡化設計時就繼承
 ### 隱藏秘密(資訊隱藏)
-* 
+* 資訊隱藏是減少重夫工作的技術
+* 衍生出封裝及模組化的概念
+	#### 隱私和秘密權
+	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQ2NjgzOSw1NzEwNjIwODIsLTU1OD
-Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
-MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
-Q2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbMzgzMTU4Mjc3LDU3MTA2MjA4MiwtNTU4Nj
+cxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywx
+MzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1ND
+YxMDY4LDY2MDQ2MzU4OV19
 -->
