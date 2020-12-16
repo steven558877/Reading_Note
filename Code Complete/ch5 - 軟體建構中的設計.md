@@ -81,13 +81,14 @@
 * 一個好的介面能讓你專注於他的介面而非他的運作細節
 * 好的程式設計是會在各種介面(子程式、類別、套件)上注意他們的抽象
 ### 封裝實作細節
+### 繼承能簡化設計時就繼承
 ### 隱藏秘密(資訊隱藏)
 * 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
-Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
-ODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwND
-YzNTg5XX0=
+eyJoaXN0b3J5IjpbMTExNTQ2NjgzOSw1NzEwNjIwODIsLTU1OD
+Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
+MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
+Q2MTA2OCw2NjA0NjM1ODldfQ==
 -->
