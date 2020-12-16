@@ -122,13 +122,15 @@
 	* 業務規則
 		* 遵循"資訊隱藏"的規則，可以讓變化時所需的修改降到最小
 	* 對硬體的依賴
-		* 把依賴隔離在硬體的子系統
+		* 把依賴隔離在硬體的子系統，這樣有發生錯誤或是想用軟體模擬時才能實現。
+	* 輸入和輸出
+		* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA5OTU0MTQsOTg3MjA2MjcxLDE4OT
-c0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgs
-MjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3Mj
-A5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5
-XX0=
+eyJoaXN0b3J5IjpbMTYyMjI5Njg5MCw5ODcyMDYyNzEsMTg5Nz
+Q5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OCwy
+MDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMD
+k4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODld
+fQ==
 -->
