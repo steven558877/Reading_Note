@@ -93,11 +93,14 @@
 	* 用全域變數 g_maxId 去取得目前的 maxid，如果要加新 id 則要寫出 int id = ++g_maxId 這種寫法
 	* 這樣的問題是如果想要修改取得 id 的方式時，要去改變所有使用到他的地方
 	* 應該要把它封裝起來，讓取得 id 變成一個物件的函數，這樣只要修改函數就好，不會影響其他使用到他的地方
-	* 並且 int id 這樣寫也不好，如果 id 要改型態也需要去變動所有用到的地方，因此需要用 typedef TypeId這種方法定義
+	* 並且 int id 這樣寫也不好，如果 id 要改型態也需要去變動所有用到的地方，因此需要用 typedef IdType int 這種方法定義，以後要修改只要改這裡就好
+	#### 資訊隱藏所指的兩種秘密
+	* 隱藏複雜度
+	* 隱藏變化源: 將影響限縮到局部範圍內
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Njg4ODQ2OCw1NzEwNjIwODIsLTU1OD
+eyJoaXN0b3J5IjpbMTczNDY4NjgxMyw1NzEwNjIwODIsLTU1OD
 Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
 MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
 Q2MTA2OCw2NjA0NjM1ODldfQ==
