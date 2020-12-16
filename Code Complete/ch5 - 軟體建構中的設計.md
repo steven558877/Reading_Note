@@ -108,13 +108,15 @@
 	#### 隱藏資訊的價值
 	* 好修改
 	* 能夠激發出有效率的設計方案
-	* 物件導向程式設計在處理上去 ID 的問題時，他不會去想可不可以用 typedef 把 int 隱藏起來，反而是去思考他能不能當作物件，如果可以。
+	* 物件導向程式設計在處理上去 ID 的問題時，他不會去想可不可以用 typedef 把 int 隱藏起來，反而是去思考他能不能當作物件，如果可以，那就要寫一堆類別的設計，如果不行那就是用 int。而資訊隱藏的想法則是用簡單的 typedef 就解決隱藏資訊的問題。
+	* 在思考時除了物件導向式的思考，也可以按造資訊隱藏的源則想想
+	* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDUwOTUwNCw5ODcyMDYyNzEsMTg5Nz
-Q5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OCwy
-MDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMD
-k4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODld
-fQ==
+eyJoaXN0b3J5IjpbLTEyNDg3MDE5NDksOTg3MjA2MjcxLDE4OT
+c0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgs
+MjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3Mj
+A5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5
+XX0=
 -->
