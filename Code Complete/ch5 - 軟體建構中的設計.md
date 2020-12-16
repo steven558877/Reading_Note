@@ -130,12 +130,14 @@
 		* 可能會因為設計很差而重作
 	* 狀態變數
 		* 不要使用 boolean，用列舉替代，因為常常會發生需要增加狀態的狀況
+		* 不要直接存取狀態變數取的他的狀態，而是透過一個子程式去做，這能做到判斷更複雜的 case
+	* y xul4
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAxNzM1NzAsMTE5NjM0ODU0Niw5OD
-cyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2
-LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MD
-YyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2
-OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbMTM2Mzk3NTIzMywxMTk2MzQ4NTQ2LDk4Nz
+IwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYs
+NTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNj
+IzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4
+LDY2MDQ2MzU4OV19
 -->
