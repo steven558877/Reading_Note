@@ -92,12 +92,13 @@
 	#### 資訊隱藏的例子
 	* 用全域變數 g_maxId 去取得目前的 maxid，如果要加新 id 則要寫出 int id = ++g_maxId 這種寫法
 	* 這樣的問題是如果想要修改取得 id 的方式時，要去改變所有使用到他的地方
-	* 
+	* 應該要把它封裝起來，讓取得 id 變成一個物件的函數，這樣只要修改函數就好，不會影響其他使用到他的地方
+	* 並且 int id 這樣寫也不好，如果 id 要改型態也需要去變動所有用到的地方，因此需要用 typedef TypeId這種方法定義
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3OTcxMzc1LDU3MTA2MjA4MiwtNTU4Nj
-cxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywx
-MzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1ND
-YxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbMTU4Njg4ODQ2OCw1NzEwNjIwODIsLTU1OD
+Y3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcs
+MTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NT
+Q2MTA2OCw2NjA0NjM1ODldfQ==
 -->
