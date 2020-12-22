@@ -145,11 +145,12 @@
 		* 可見性:
 			* 指的是模組間連接的清楚性，像是全域變數讓多個類別使用就是可見性低的方法
 		* 靈活性:
-			* 是多種耦合特性組合起來的性質，向
+			* 是多種耦合特性組合起來的性質，當你使用一個類別，無法透過介面得知如何使用，需要去看裏頭的實作，這就是不好的靈活性。
+	* 總結來說，一個模組愈容易被別人使用，則他的耦合性就愈低
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNjgwNDkzLC0zMTUzMzQ3MDgsMTE5Nj
-M0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIs
-LTU1ODY3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMT
-gyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwt
-MTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbMTQzMzI4MTg0NiwtMzE1MzM0NzA4LDExOT
+YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
+LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
+E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
+LTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
