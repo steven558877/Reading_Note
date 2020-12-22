@@ -197,9 +197,12 @@
 ### 自上而下或反之的設計方法
 * 這兩種方法都有其說法，下面是兩種的 argument
 * 自上而下
-	* 自上而下能夠透過分而治之及迭代的方法去將系統分解，每次分解完後檢驗是否滿足，直到
+	* 自上而下能夠透過分而治之及迭代的方法去將系統分解，每次分解完後檢驗是否滿足，直到最後實作比較容易時停止
+	* 這個做法主要是針對大腦無法同時間關注所有東西，因此一步一步拆分細節就可以避免這個狀況
+* 自下而上
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjE5NzEzOSw4MTA2ODIyMzEsLTE3OT
+eyJoaXN0b3J5IjpbMTA0NDYwNTYzNiw4MTA2ODIyMzEsLTE3OT
 U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
 LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
 Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
