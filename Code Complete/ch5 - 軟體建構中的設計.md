@@ -159,9 +159,10 @@
 		* 上面的寫法很危險，無法被編譯器偵測出來，且會讓除錯非常困難
 		* 鬆散耦合的關鍵在，一個模組除了完成功能的抽象外，他應該要在產生一層可以容易使用的介面，就可以降低整體複雜度
 	#### 查閱常用的設計模式
-	* 
+	* 設計模式透過現成的抽象來減少複雜度
+		* 在解釋時，提到這段程式碼是使用XXX設計模式產生的，對方就可以瞬間ㄌㄧ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzM1Nzg1NiwtMzE1MzM0NzA4LDExOT
+eyJoaXN0b3J5IjpbLTg2MDc2MTE3MCwtMzE1MzM0NzA4LDExOT
 YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
 LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
 E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
