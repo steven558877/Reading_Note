@@ -148,9 +148,10 @@
 			* 是多種耦合特性組合起來的性質，當你使用一個類別，無法透過介面得知如何使用，需要去看裏頭的實作，這就是不好的靈活性。
 	* 總結來說，一個模組愈容易被別人使用，則他的耦合性就愈低，建構時按照「盡可能縮減相互連接」為目標。
 	* 耦合的種類:
-		* 簡單資料參數耦合: 兩個類別傳遞資料
+		* 簡單資料參數耦合: 兩個類別透過參數傳遞資料，並且都是簡單資料參數(primitive data type, e.g., int, float .etc)，這個是可以被接受的
+		* 簡單物件耦合: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgxNzY1NzUsLTMxNTMzNDcwOCwxMT
+eyJoaXN0b3J5IjpbLTExNzM3ODQyOTIsLTMxNTMzNDcwOCwxMT
 k2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4
 MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOT
 IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
