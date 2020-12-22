@@ -164,9 +164,10 @@
 		* 設計模式透過常見的解決方案的細節予以制度化以減少出錯
 			* 你可以自創一套方法去解決問題，但是你無法保證他是完全正確的。用以存在的設計模式可以避免這個問題
 		* 設計模式讓人與人的溝通提高層次來簡化交流
+![enter image description here](https://i.imgur.com/ATnYoTR.jpg)
 		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTQ5MTExNiwtMzE1MzM0NzA4LDExOT
+eyJoaXN0b3J5IjpbLTE3OTU0OTkxNSwtMzE1MzM0NzA4LDExOT
 YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
 LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
 E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
