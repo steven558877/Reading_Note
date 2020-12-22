@@ -165,9 +165,12 @@
 			* 你可以自創一套方法去解決問題，但是你無法保證他是完全正確的。用以存在的設計模式可以避免這個問題
 		* 設計模式讓人與人的溝通提高層次來簡化交流
 ![enter image description here](https://i.imgur.com/ATnYoTR.jpg)
-	* 
+	#### 其他啟發式方法
+	下面是不太常用，但是也值得一提的方法
+	* 高內聚力
+		*  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM2NjE1NzEsLTE3OTU0OTkxNSwtMz
+eyJoaXN0b3J5IjpbLTEwNjYzNDgzNzcsLTE3OTU0OTkxNSwtMz
 E1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcx
 NTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxOD
 A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
