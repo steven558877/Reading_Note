@@ -138,9 +138,10 @@
 		* 最可能發生變化的地方應要讓他好修改且影響最小
 		* 反之只有幾乎不可能發生的變化可以影響整體系統
 	#### 保持鬆散耦合
-	* 目標是建立ㄒ
+	* 目標是建立小、直接、清晰的類別或子程式，讓他與其他元件保持靈活
+	* 盡量使你建立的模組ㄅ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjA4OTQ4MywtMzE1MzM0NzA4LDExOT
+eyJoaXN0b3J5IjpbLTEwOTYzNDMxMywtMzE1MzM0NzA4LDExOT
 YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
 LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
 E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
