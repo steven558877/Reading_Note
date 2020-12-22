@@ -157,11 +157,11 @@
 			* module1 的介面要求他的 init() 必須在 routine() 前被呼叫，而 module2 知道呼叫 module1 的 routine() 就會呼叫其 init()，所以直接呼叫 module1 的 routine()
 			* module1 傳遞 obj 給 module，且他知道 module2 只會使用其中的某些值，因此只出初始化那些
 		* 上面的寫法很危險，無法被編譯器偵測出來，且會讓除錯非常困難
-		* 
+		* 鬆散耦合的關鍵在，一個模組除了完成功能的抽象外，他應該要在產生一層可以容易使用的介面，就可以降低整體複雜度
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk3MjkwNDcsLTMxNTMzNDcwOCwxMT
-k2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4
-MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOT
-IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
-LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbMTA1MDU5NDE5LC0zMTUzMzQ3MDgsMTE5Nj
+M0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIs
+LTU1ODY3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMT
+gyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwt
+MTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
