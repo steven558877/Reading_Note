@@ -193,12 +193,14 @@
 * 設計是一個迭代的過程，並非只會從 A 到 B，也有可能會從 A 到 B 後在回到 A
 * 從高層設計在低層，再回到高層，這樣的方法能夠相比於單純的從上到下或反之得到更好的穩定性
 * 當設計好一個方法後不要停止，去思考第二種方法，你會因為第一種方法的經驗而得到更好的解法
-### 分而治之
+### 分而治之(Divide and conquer)
+### 自上而下或反之的設計方法
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM4NDIxODUsODEwNjgyMjMxLC0xNz
-k1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3
-MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5Mj
-E2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMz
-LDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MD
-Q2MzU4OV19
+eyJoaXN0b3J5IjpbMTAyMzE5MzU5Niw4MTA2ODIyMzEsLTE3OT
+U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
+LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
+Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
+ODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwND
+YzNTg5XX0=
 -->
