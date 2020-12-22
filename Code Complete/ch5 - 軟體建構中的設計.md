@@ -201,9 +201,12 @@
 	* 這個做法主要是針對大腦無法同時間關注所有東西，因此一步一步拆分細節就可以避免這個狀況
 * 自下而上
 	* 你需要一個系統時一定會知道你要那些東西，從那些開始一步一步建構出系統是不那麼抽象的實作方法。
-* ㄑㄧ
+* 其實兩種方法沒有爭議
+	* 自上而下是分解策略，而自下而上是組合策略
+	* 自上而下很簡單，且可以延後建構細節
+	* 自下而上的弱項是很難單獨使用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDc3MjUyNiw4MTA2ODIyMzEsLTE3OT
+eyJoaXN0b3J5IjpbMTk3ODg0NjQzMSw4MTA2ODIyMzEsLTE3OT
 U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
 LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
 Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
