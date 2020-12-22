@@ -143,11 +143,13 @@
 	* 衡量耦合的標準:
 		* 規模: 模組與模組間的連接度，連接度指的像是一個類別的函數使用到其他類別的參數，如果參數個數少則連接度低，耦合較鬆散
 		* 可見性:
-			* 指的是用清楚的方式表現出模組間共用的
+			* 指的是模組間連接的清楚性，像是全域變數讓多個類別使用就是可見性低的方法
+		* 靈活性:
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNjg3MDkxLC0zMTUzMzQ3MDgsMTE5Nj
-M0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIs
-LTU1ODY3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMT
-gyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwt
-MTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTE3NjI1Nzk3ODksLTMxNTMzNDcwOCwxMT
+k2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4
+MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOT
+IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
+LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 -->
