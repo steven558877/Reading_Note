@@ -207,12 +207,14 @@
 	* 自下而上的弱項是很難單獨使用，很難將小任務合併成大任務
 	* 總體而言自上而下是比較容易的
 ### 建立試驗性原型
-* 有時在了解時作細節時
+* 有時在了解實作細節時，很難了解設計方法是否有效
+* 應建立一個用於回答設計問題，數量最少且可隨時拋棄的程式碼
+* 設計問題要夠具體
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTQ4ODkyOSw4MTA2ODIyMzEsLTE3OT
-U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
-LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
-Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
-ODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwND
-YzNTg5XX0=
+eyJoaXN0b3J5IjpbLTE0MzcxNjI3NjMsODEwNjgyMjMxLC0xNz
+k1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3
+MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5Mj
+E2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMz
+LDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MD
+Q2MzU4OV19
 -->
