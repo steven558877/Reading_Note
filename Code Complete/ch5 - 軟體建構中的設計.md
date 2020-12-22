@@ -141,9 +141,10 @@
 	* 目標是建立小、直接、清晰的類別或子程式，讓他與其他元件保持靈活
 	* 盡量使你建立的模組不依賴其他的
 	* 衡量耦合的標準:
-		* 規模: 模組與模組間的ㄌㄧㄢ
+		* 規模: 模組與模組間的連接度，連接度指的像是一個類別的函數使用到其他類別的參數，如果參數個數少則連接度低，耦合較鬆散
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjE5MTk1MiwtMzE1MzM0NzA4LDExOT
+eyJoaXN0b3J5IjpbLTQzNjY2MTUwMCwtMzE1MzM0NzA4LDExOT
 YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
 LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
 E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
