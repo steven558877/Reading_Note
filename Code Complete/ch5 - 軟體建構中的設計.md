@@ -215,12 +215,13 @@
 ### 要做多少設計才夠
 ![enter image description here](https://i.imgur.com/ekP1DqN.jpg)
 
-* 
+* 如果開始寫 code 前還不能確定設計的是否足夠，那寧願在多設計一點
+* 設計的關鍵在於對你認為簡單的部分也要充分設計，因為你心理的因素可能會對簡單的部分產生疏忽
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDk3NTE4NSw4MTA2ODIyMzEsLTE3OT
-U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
-LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
-Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
-ODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwND
-YzNTg5XX0=
+eyJoaXN0b3J5IjpbLTE0MTYwMTk4ODQsODEwNjgyMjMxLC0xNz
+k1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3
+MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5Mj
+E2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMz
+LDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MD
+Q2MzU4OV19
 -->
