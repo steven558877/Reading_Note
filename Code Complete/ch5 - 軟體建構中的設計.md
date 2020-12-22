@@ -150,9 +150,10 @@
 	* 耦合的種類:
 		* 簡單資料參數耦合: 兩個類別透過參數傳遞資料，並且都是簡單資料參數(primitive data type, e.g., int, float .etc)，這個是可以被接受的
 		* 簡單物件耦合: 一個類別實例化一個物件，這就是簡單物件耦合，這種關係很好
-		* 物件參數耦合: 如果 obj1 要求 obj2 傳遞 obj
+		* 物件參數耦合: 如果 obj1 要求 obj2 傳遞 obj3 給他，這就是物件參數耦合，會比第一種耦合進緊密一點，因為 obj1 要求 obj2 要理解 obj3
+		* 語義上的耦合: 最難ㄔ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTQ3Mjg3NiwtMzE1MzM0NzA4LDExOT
+eyJoaXN0b3J5IjpbMTQ2NTY4OTA5MSwtMzE1MzM0NzA4LDExOT
 YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
 LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
 E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
