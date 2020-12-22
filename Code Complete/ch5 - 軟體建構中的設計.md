@@ -206,9 +206,10 @@
 	* 自上而下很簡單，將大任務拆分成小任務對人來說是容易的，且可以延後建構細節
 	* 自下而上的弱項是很難單獨使用，很難將小任務合併成大任務
 	* 總體而言自上而下是比較容易的
-
+### 建立試驗性原型
+* 有時在了解時作細節時
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjczNzE3MSw4MTA2ODIyMzEsLTE3OT
+eyJoaXN0b3J5IjpbLTkwOTQ4ODkyOSw4MTA2ODIyMzEsLTE3OT
 U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
 LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
 Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
