@@ -158,10 +158,12 @@
 			* module1 傳遞 obj 給 module，且他知道 module2 只會使用其中的某些值，因此只出初始化那些
 		* 上面的寫法很危險，無法被編譯器偵測出來，且會讓除錯非常困難
 		* 鬆散耦合的關鍵在，一個模組除了完成功能的抽象外，他應該要在產生一層可以容易使用的介面，就可以降低整體複雜度
+	#### 查閱常用的設計模式
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDU5NDE5LC0zMTUzMzQ3MDgsMTE5Nj
-M0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIs
-LTU1ODY3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMT
-gyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwt
-MTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTQ3NzM1Nzg1NiwtMzE1MzM0NzA4LDExOT
+YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
+LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
+E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
+LTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
