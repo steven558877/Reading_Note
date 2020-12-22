@@ -220,9 +220,11 @@
 ### 紀錄設計成果
 * 把設計文件插入到程式碼中
 * 建立適當的 UML 圖
-*
+### 對流行的設計方法的評論
+* 做非常大量的設計以及完全不做設計，這兩個極端
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTYwMDYxMiw4MTA2ODIyMzEsLTE3OT
+eyJoaXN0b3J5IjpbMTI4NzA5MDU4Niw4MTA2ODIyMzEsLTE3OT
 U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
 LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
 Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
