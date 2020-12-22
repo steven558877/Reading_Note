@@ -188,9 +188,11 @@
 	* 執行計畫，如果當下解不出來，先放著，等到之後有經驗之後再回來
 	* 回顧
 ## 設計實踐
-上面說的是你希望完成設計後會變成甚麼樣子的討論，而這節講解一些時常可以帶來良好效果的實踐ㄈㄤ
+上面說的是你希望完成設計後會變成甚麼樣子的討論，而這節講解一些時常可以帶來良好效果的實踐方法
+### 迭代
+* 設計是一個迭代的過程，並非只會從 A 到 B，也有可能會從 A 到 B C.4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUxMDY3OSw4MTA2ODIyMzEsLTE3OT
+eyJoaXN0b3J5IjpbLTM4MzI5NzI1MSw4MTA2ODIyMzEsLTE3OT
 U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
 LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
 Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
