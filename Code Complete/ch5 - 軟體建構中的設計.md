@@ -177,11 +177,13 @@
 	* 有意識的為變數選擇綁定時間
 		* 變數早綁通常程式碼比較簡單，但是靈活性較差，思考早綁及晚綁會有那些好處跟壞處
 	* 建立中央控制點
-		* 
+		* 向是類別、子程式、前置處理器巨集、include都是，這樣可以降低複雜度，且修改起來安全也較容易
+	* 使用暴力法不一定不好
+		* 優雅的方法很花時間則可以考慮報
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDA0OTA0LC0xNzk1NDk5MTUsLTMxNT
-MzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0
-LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwOD
-QyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5Miwt
-NDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbLTE4MzA5NTY5MzksLTE3OTU0OTkxNSwtMz
+E1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcx
+NTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxOD
+A4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODky
+LC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
