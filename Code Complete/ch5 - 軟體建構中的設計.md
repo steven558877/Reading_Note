@@ -200,9 +200,10 @@
 	* 自上而下能夠透過分而治之及迭代的方法去將系統分解，每次分解完後檢驗是否滿足，直到最後實作比較容易時停止
 	* 這個做法主要是針對大腦無法同時間關注所有東西，因此一步一步拆分細節就可以避免這個狀況
 * 自下而上
-	* 
+	* 你需要一個系統時一定會知道你要那些東西，從那些開始一步一步建構出系統是不那麼抽象的實作方法。
+* ㄑㄧ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDYwNTYzNiw4MTA2ODIyMzEsLTE3OT
+eyJoaXN0b3J5IjpbLTMwMDc3MjUyNiw4MTA2ODIyMzEsLTE3OT
 U0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mjcx
 LDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMT
 Y5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMs
