@@ -183,10 +183,13 @@
 	* 畫圖
 	* 保持設計的模組化
 	#### 啟發是方法的使用原則
-		* 先理解問題，先確認對問題的有足夠的理解
-		* 擬訂計畫，找出解決
+	* 先理解問題，先確認對問題的有足夠的理解
+	* 擬訂計畫，找出解決問題的方法。如果問題太大，能否細分，能否先完成部分功能等等等
+	* 執行計畫，如果當下解不出來，先放著，等到之後有經驗之後再回來
+	* 回顧
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgzNDU2NTcsODEwNjgyMjMxLC0xNz
+eyJoaXN0b3J5IjpbLTE4MTczMTIxNDEsODEwNjgyMjMxLC0xNz
 k1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3
 MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5Mj
 E2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMz
