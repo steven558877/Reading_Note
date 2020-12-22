@@ -155,9 +155,11 @@
 			* module1 向 module2 傳遞 control flag, 這表示 module1 對 module2 的內部工作細節有所了解。
 			* module2 在 module1 使用某個全域變數後接著使用。
 			* module1 的介面要求他的 init() 必須在 routine() 前被呼叫，而 module2 知道呼叫 module1 的 routine() 就會呼叫其 init()，所以直接呼叫 module1 的 routine()
-			* module1 傳遞 obj 給 module，且他知道 module
+			* module1 傳遞 obj 給 module，且他知道 module2 只會使用其中的某些值，因此只出初始化那些
+		* 上面的寫法很危險，無法被編譯器偵測出來，且會讓除錯非常困難
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMxMjI3ODMsLTMxNTMzNDcwOCwxMT
+eyJoaXN0b3J5IjpbLTEyMzk3MjkwNDcsLTMxNTMzNDcwOCwxMT
 k2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4
 MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOT
 IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
