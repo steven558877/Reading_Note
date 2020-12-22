@@ -153,11 +153,12 @@
 		* 物件參數耦合: 如果 obj1 要求 obj2 傳遞 obj3 給他，這就是物件參數耦合，會比第一種耦合進緊密一點，因為 obj1 要求 obj2 要理解 obj3
 		* 語義上的耦合: 最難纏的耦合，一個模組不僅使用另一模組的語法元素(syntactic element)，還使用了其內部工作細節的語意知識(semantic knowledge)，如下例子:
 			* module1 向 module2 傳遞 control flag, 這表示 module1 對 module2 的內部工作細節有所了解。
-			* module2
+			* module2 在 module1 使用某個全域變數後接著使用。
+			* module1 的介面要求他的 init() 必須在 routine()前被呼叫
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1OTUzNjQsLTMxNTMzNDcwOCwxMT
-k2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4
-MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOT
-IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
-LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbLTIyMjU2MDMyOCwtMzE1MzM0NzA4LDExOT
+YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
+LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
+E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
+LTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
