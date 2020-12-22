@@ -163,9 +163,10 @@
 		* 在解釋時，提到這段程式碼是使用XXX設計模式產生的，對方就可以瞬間理解
 		* 設計模式透過常見的解決方案的細節予以制度化以減少出錯
 			* 你可以自創一套方法去解決問題，但是你無法保證他是完全正確的。用以存在的設計模式可以避免這個問題
-		* 設計模式ㄖㄤ
+		* 設計模式讓人與人的溝通提高層次來簡化交流
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjUyNTU5MCwtMzE1MzM0NzA4LDExOT
+eyJoaXN0b3J5IjpbLTY3MTQ5MTExNiwtMzE1MzM0NzA4LDExOT
 YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
 LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
 E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
