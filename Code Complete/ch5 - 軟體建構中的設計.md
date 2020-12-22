@@ -149,11 +149,12 @@
 	* 總結來說，一個模組愈容易被別人使用，則他的耦合性就愈低，建構時按照「盡可能縮減相互連接」為目標。
 	* 耦合的種類:
 		* 簡單資料參數耦合: 兩個類別透過參數傳遞資料，並且都是簡單資料參數(primitive data type, e.g., int, float .etc)，這個是可以被接受的
-		* 簡單物件耦合: 
+		* 簡單物件耦合: 一個類別實例化一個物件，這就是簡單物件耦合，這種關係很好
+		* 物件參數耦合: 如果 obj1 要求 obj2 傳遞 obj
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM3ODQyOTIsLTMxNTMzNDcwOCwxMT
-k2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4
-MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOT
-IxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5
-LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbLTI2OTQ3Mjg3NiwtMzE1MzM0NzA4LDExOT
+YzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgy
+LC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5Mj
+E4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyLC00MTIwNTY0Mjks
+LTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 -->
