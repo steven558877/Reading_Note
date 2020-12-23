@@ -47,8 +47,9 @@
 		* 業務規則
 			* 如果架構依賴特定業務規則，則應該描述他們並描述對系統的影響
 		* 使用者介面設計
-			* 
+			* 應該要在需求階段完成，也可以在架構階段作
+			* 此架構應該模組化，讓替換新介面時不會影響業務規則及程式輸出
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjA1MzUxOCwtMjA5MDA5NTM5OSwtMj
+eyJoaXN0b3J5IjpbLTkwNjk3MDc4OSwtMjA5MDA5NTM5OSwtMj
 E0NjA1NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
