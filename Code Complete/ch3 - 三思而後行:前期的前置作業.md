@@ -49,7 +49,13 @@
 		* 使用者介面設計
 			* 應該要在需求階段完成，也可以在架構階段作
 			* 此架構應該模組化，讓替換新介面時不會影響業務規則及程式輸出
+		* 資源管理
+			* 架構應描述資源管理數量的限制
+		* 安全性
+			* 應描述設計層面及程式碼層面的安全性方法
+			* 要建立威脅性模型
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjk3MDc4OSwtMjA5MDA5NTM5OSwtMj
-E0NjA1NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbLTE1NjQ5MjQ3ODksLTIwOTAwOTUzOTksLT
+IxNDYwNTQ1MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
 -->
