@@ -43,8 +43,9 @@
 			* 也需要紀錄其他類別的設計方案跟最終選擇的原因
 		* 資料設計
 			* 架構應詳細說明主要檔案和資料表的設計
-			* 也要記錄選擇的理由，這樣在後續維護及建構可以洞察設
+			* 也要記錄選擇的理由，這樣在後續維護及建構可以洞察設計思維
+		* 業務規則
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDM0ODIzMSwtMjE0NjA1NDUxNiwtMT
-QwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbLTIwOTAwOTUzOTksLTIxNDYwNTQ1MTYsLT
+E0MDk3MjYwMzksMTY2MzY0NDYzNV19
 -->
