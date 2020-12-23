@@ -30,8 +30,9 @@
 	### 典型的架構組成部分
 	* 如果你開發的是已經存在的專案，則要考慮以下的架構 components:
 		* 程式組織
-			* 指的是系統的由那些子系統組成、某個類別在系統中的作用等等
-			* 如果
+			* 指的是系統的由那些子系統組成、某個類別在系統中的定位等等
+			* 找出設計緣由，你才能知道修改程式碼的用意是甚麼
+			* 架構應該定義出主程式的主要構造塊(building block)，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIxMzA5MzAsMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbNDMzOTgxNjMwLDE2NjM2NDQ2MzVdfQ==
 -->
