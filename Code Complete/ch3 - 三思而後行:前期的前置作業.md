@@ -26,6 +26,7 @@
 * 架構軟體設計的高層次設計，她支撐了更細部的設計。
 * 架構當作前置作業的原因是他決定了整體系統的概念完整性
 * 一個謹慎考慮過的架構為「從頂層到底層維護系統的概念完整性」提供了必備的結構跟體系
+* 他為程式設計師提供指引，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTY4OTY3OF19
+eyJoaXN0b3J5IjpbLTExNzU2ODQxNjVdfQ==
 -->
