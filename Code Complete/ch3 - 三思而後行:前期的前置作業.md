@@ -37,7 +37,8 @@
 			* 每個構造塊應該要盡可能的獨立
 			* 明確定義構造塊間的溝通模式
 		* 主要的類別
-			* 
+			* 與
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbNjk5MTQ4ODM2LC0xNDA5NzI2MDM5LDE2Nj
+M2NDQ2MzVdfQ==
 -->
