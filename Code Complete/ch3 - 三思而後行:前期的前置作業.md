@@ -37,8 +37,11 @@
 			* 每個構造塊應該要盡可能的獨立
 			* 明確定義構造塊間的溝通模式
 		* 主要的類別
-			* 與
+			* 架構應詳細定義主要類別的責任，以及他如何與其他類別互動
+			* 應該要包含繼承、狀態轉換、物件持久畫等描述
+		* 資料設計
+			* 架構應ㄒ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MTQ4ODM2LC0xNDA5NzI2MDM5LDE2Nj
-M2NDQ2MzVdfQ==
+eyJoaXN0b3J5IjpbMTUxMDg2ODc3MywtMTQwOTcyNjAzOSwxNj
+YzNjQ0NjM1XX0=
 -->
