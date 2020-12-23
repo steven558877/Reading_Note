@@ -40,10 +40,11 @@
 		* 主要的類別
 			* 架構應詳細定義主要類別的責任，以及他如何與其他類別互動
 			* 應該要包含繼承、狀態轉換、物件持久畫等描述
+			* 也需要紀錄其他類別的設計方案跟最終選擇的原因
 		* 資料設計
 			* 架構應詳細說明主要檔案和資料表的設計
-			* 
+			* 也要記錄選擇的理由，這樣在後續維護及建構可以洞察設
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYwNTQ1MTYsLTE0MDk3MjYwMzksMT
-Y2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbMTM2NDM0ODIzMSwtMjE0NjA1NDUxNiwtMT
+QwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
