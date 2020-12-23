@@ -30,7 +30,7 @@
 	### 典型的架構組成部分
 	* 如果你開發的是已經存在的專案，則要考慮以下的架構 components:
 		* 程式組織
-			* 
+			* 只ㄉ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbMjAzMDczODA3NiwxNjYzNjQ0NjM1XX0=
 -->
