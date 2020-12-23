@@ -45,7 +45,10 @@
 			* 架構應詳細說明主要檔案和資料表的設計
 			* 也要記錄選擇的理由，這樣在後續維護及建構可以洞察設計思維
 		* 業務規則
+			* 如果架構依賴特定業務規則，則應該描述他們並描述對系統的影響
+		* 使用者介面設計
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAwOTUzOTksLTIxNDYwNTQ1MTYsLT
-E0MDk3MjYwMzksMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbMTA3NjA1MzUxOCwtMjA5MDA5NTM5OSwtMj
+E0NjA1NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
