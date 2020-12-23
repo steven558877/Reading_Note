@@ -36,12 +36,14 @@
 			* 每一個條列在 spec 中的 feature 至少都要有一個構造塊
 			* 每個構造塊應該要盡可能的獨立
 			* 明確定義構造塊間的溝通模式
+			* 應該要記錄考慮過的架構方案以及選用目前價購的理由
 		* 主要的類別
 			* 架構應詳細定義主要類別的責任，以及他如何與其他類別互動
 			* 應該要包含繼承、狀態轉換、物件持久畫等描述
 		* 資料設計
-			* 架構應ㄒ
+			* 架構應詳細說明主要檔案和資料表的設計
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDg2ODc3MywtMTQwOTcyNjAzOSwxNj
-YzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbLTIxNDYwNTQ1MTYsLTE0MDk3MjYwMzksMT
+Y2MzY0NDYzNV19
 -->
