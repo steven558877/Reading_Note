@@ -24,7 +24,8 @@
 (以上包含問題、規格的先決條件)
 ## 架構的先決條件
 * 架構軟體設計的高層次設計，她支撐了更細部的設計。
+* 架構當作前置作業的原因是他決定了整體系統的概念完整性
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MDg2ODAzXX0=
+eyJoaXN0b3J5IjpbMjA2NTAyMTg5NF19
 -->
