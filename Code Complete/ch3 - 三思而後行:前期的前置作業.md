@@ -54,8 +54,8 @@
 		* 安全性
 			* 應描述設計層面及程式碼層面的安全性方法
 			* 要建立威脅性模型
-			* 
+			* 牢記制定出來的程式碼規範，包含處理緩衝區的方法、處裡非受信任的資料的規則及錯誤訊息的細緻呈ㄨ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ5MjQ3ODksLTIwOTAwOTUzOTksLT
-IxNDYwNTQ1MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbMTI2NjM1NzM3OCwtMjA5MDA5NTM5OSwtMj
+E0NjA1NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
