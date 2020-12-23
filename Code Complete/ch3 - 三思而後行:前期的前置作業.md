@@ -33,6 +33,8 @@
 			* 指的是系統的由那些子系統組成、某個類別在系統中的定位等等
 			* 找出設計緣由，你才能知道修改程式碼的用意是甚麼
 			* 架構應該定義出主程式的主要構造塊(building block)，可能是單一類別，也有可能是有多個類別的子系統
+			* 每一個條列在 spec 中的 feature 至少都要有一個構造塊
+			* 每個構造塊應該要
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MjA1NzYsMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbNDUxMTcyNzkyLDE2NjM2NDQ2MzVdfQ==
 -->
