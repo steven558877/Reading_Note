@@ -30,7 +30,8 @@
 	### 典型的架構組成部分
 	* 如果你開發的是已經存在的專案，則要考慮以下的架構 components:
 		* 程式組織
-			* 只ㄉ
+			* 指的是系統的由那些子系統組成、某個類別在系統中的作用等等
+			* 如果
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDczODA3NiwxNjYzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbLTEyMjIxMzA5MzAsMTY2MzY0NDYzNV19
 -->
