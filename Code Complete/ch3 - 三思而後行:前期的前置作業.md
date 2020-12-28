@@ -55,7 +55,12 @@
 			* 應描述設計層面及程式碼層面的安全性方法
 			* 要建立威脅性模型
 			* 牢記制定出來的程式碼規範，包含處理緩衝區的方法、處裡非受信任的資料的規則及錯誤訊息的細緻程度、保護記憶體中的資料
+		* 效能
+			* 如果對效能有需求也需要在架構中寫出
+		* Scalability
+			* 未來對硬體、資ㄌ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMT
-Q2MDU0NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTY4MzU4MjYsODcwNzU0ODE5LC0yMD
+kwMDk1Mzk5LC0yMTQ2MDU0NTE2LC0xNDA5NzI2MDM5LDE2NjM2
+NDQ2MzVdfQ==
 -->
