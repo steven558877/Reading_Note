@@ -84,9 +84,11 @@
 			* 優良的架構書在於討論了系統類別，每個類別背後隱藏的資訊、採納及棄用那些設計方案的根本理由
 			* 在架構的開發過程多的多個變更方式應該要乾淨地融入整體概念
 			* 架構應描述所有決策的動機，而不是靠直覺或是慣例，因為慣例可能不是和現在的架構
-			* 架構要盡可能獨立於環境
+			* 架構要盡可能獨立於環境，在建構中對環境的處裡會比在架構中考慮好
+			*  架構不應該對某些部分偏心，而去損害其他部分
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgyNTQ2NDAsMTIwNTI2OTk2MSwxMT
+eyJoaXN0b3J5IjpbLTE3NTE2MzM3MDMsMTIwNTI2OTk2MSwxMT
 MwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1
 NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
