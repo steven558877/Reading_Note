@@ -63,9 +63,10 @@
 		* 輸入/輸出
 			* 架構應定義讀取策略、並且描述要在哪一層檢查i/o錯誤，在欄位、紀錄、串流、或是檔案層次
 		* 錯誤處理
-			* 
+			* 錯誤處理是要檢測還是修復，檢測倒是繼續執行還是停止，重點是要通知使用者
+			* 錯誤處理是主動還是被動，主動式檢查輸入，被動是偵測
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODkxMDMxNiwxMTMwMTc3Mjc2LDg3MD
+eyJoaXN0b3J5IjpbLTQ2MjgwMzM5NCwxMTMwMTc3Mjc2LDg3MD
 c1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1NDUxNiwtMTQwOTcy
 NjAzOSwxNjYzNjQ0NjM1XX0=
 -->
