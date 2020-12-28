@@ -88,10 +88,11 @@
 			*  架構不應該對某些部分偏心，而去損害其他部分
 			* 架構應明確標示出風險，並解釋為甚麼有風險及考慮了那些使風險最小化
 			* 架構應要包含多個視角幫助程式設計師完整理解系統
-		![enter image description here](https://i.imgur.com/hpLnQdJ.jpg)
-
+![enter image description here](https://i.imgur.com/hpLnQdJ.jpg)
+## 花費在前期的前置作業的時間長度
+* 大約會投入 10\~20%的工作量及20\~30%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMwMTE1NDIsMTIwNTI2OTk2MSwxMT
-MwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1
-NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbMjIyOTAxNDkyLDEyMDUyNjk5NjEsMTEzMD
+E3NzI3Niw4NzA3NTQ4MTksLTIwOTAwOTUzOTksLTIxNDYwNTQ1
+MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
 -->
