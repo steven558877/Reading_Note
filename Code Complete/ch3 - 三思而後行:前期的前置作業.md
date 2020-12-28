@@ -58,9 +58,12 @@
 		* 效能
 			* 如果對效能有需求也需要在架構中寫出
 		* Scalability
-			* 未來對硬體、資ㄌ
+			* 未來對硬體、資料的擴充性也需要在架構中描述出
+		* 國際化/本地化
+		* 輸入/輸出
+			* 架構應定義讀取策略
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY4MzU4MjYsODcwNzU0ODE5LC0yMD
-kwMDk1Mzk5LC0yMTQ2MDU0NTE2LC0xNDA5NzI2MDM5LDE2NjM2
-NDQ2MzVdfQ==
+eyJoaXN0b3J5IjpbMTExNjI4NTI2NSw4NzA3NTQ4MTksLTIwOT
+AwOTUzOTksLTIxNDYwNTQ1MTYsLTE0MDk3MjYwMzksMTY2MzY0
+NDYzNV19
 -->
