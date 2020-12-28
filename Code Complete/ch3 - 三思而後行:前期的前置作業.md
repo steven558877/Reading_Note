@@ -77,9 +77,10 @@
 		* over engineering
 			* 工程師有可能會對自豪的區域有異常的健全姓，但是其他地方只有免強夠健全
 			* 因此架構應該要明確定義出健全的目標，避免 over engineer
+		* 變更的策略
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MTY5NDMxLDEyMDUyNjk5NjEsMTEzMD
-E3NzI3Niw4NzA3NTQ4MTksLTIwOTAwOTUzOTksLTIxNDYwNTQ1
-MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbMTUzODE3ODkyNCwxMjA1MjY5OTYxLDExMz
+AxNzcyNzYsODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMTQ2MDU0
+NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
 -->
