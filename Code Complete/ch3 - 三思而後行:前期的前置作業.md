@@ -61,9 +61,10 @@
 			* 未來對硬體、資料的擴充性也需要在架構中描述出
 		* 國際化/本地化
 		* 輸入/輸出
-			* 架構應定義讀取策略
+			* 架構應定義讀取策略、並且描述要在哪一層檢查i/o錯誤，在欄位、紀錄、串流、或是檔案層次
+		* 錯誤處理
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjI4NTI2NSw4NzA3NTQ4MTksLTIwOT
+eyJoaXN0b3J5IjpbMTEzMDE3NzI3Niw4NzA3NTQ4MTksLTIwOT
 AwOTUzOTksLTIxNDYwNTQ1MTYsLTE0MDk3MjYwMzksMTY2MzY0
 NDYzNV19
 -->
