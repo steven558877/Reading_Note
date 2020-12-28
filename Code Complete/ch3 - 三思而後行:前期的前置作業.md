@@ -80,8 +80,9 @@
 		* 變更的策略
 			* 架構應該要夠彈性，去適應可能變更的變化
 			* 架構要列出已經考慮過、可能會有所增強的功能，並說明最有可能且最容易被實現的增強功能。
+		* 架構的總體品質
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODcyMjE1MSwxMjA1MjY5OTYxLDExMz
-AxNzcyNzYsODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMTQ2MDU0
-NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
+eyJoaXN0b3J5IjpbNjg4NjUxMDk0LDEyMDUyNjk5NjEsMTEzMD
+E3NzI3Niw4NzA3NTQ4MTksLTIwOTAwOTUzOTksLTIxNDYwNTQ1
+MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
 -->
