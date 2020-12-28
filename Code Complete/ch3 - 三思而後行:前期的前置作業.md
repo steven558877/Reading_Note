@@ -68,9 +68,12 @@
 			* 錯誤處理如果沒有一定的規定會使得程式像是混亂的拼貼畫，應該要定義錯誤處理的約定
 			* 架構應規定何時可以拋出例外、在哪裡捕捉例外
 			* 規定在哪裡進行錯誤處理，往上丟?往專門處理的地方都還是就地處理
-			* 每個壘ㄅㄧㄝ
+			* 美個類別在驗證資料的正確性時需要付哪種責任，是類別驗證自己用的資料，還是交由專門的類別負責驗證
+			* 錯誤處理是藥用環境的還是自己建立
+		* 容錯姓
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MTc3Mzg2LDEyMDUyNjk5NjEsMTEzMD
-E3NzI3Niw4NzA3NTQ4MTksLTIwOTAwOTUzOTksLTIxNDYwNTQ1
-MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbLTQyNTk2MDk4NiwxMjA1MjY5OTYxLDExMz
+AxNzcyNzYsODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMTQ2MDU0
+NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
 -->
