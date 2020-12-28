@@ -88,9 +88,10 @@
 			*  架構不應該對某些部分偏心，而去損害其他部分
 			* 架構應明確標示出風險，並解釋為甚麼有風險及考慮了那些使風險最小化
 			* 架構應要包含多個視角幫助程式設計師完整理解系統
-![enter image description here](blob:https://imgur.com/d258f9ed-58ba-483a-bf48-32b4f157c4a7)
+		![enter image description here](https://i.imgur.com/hpLnQdJ.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAxMDI5MjQsMTIwNTI2OTk2MSwxMT
+eyJoaXN0b3J5IjpbLTE2MzMwMTE1NDIsMTIwNTI2OTk2MSwxMT
 MwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1
 NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
