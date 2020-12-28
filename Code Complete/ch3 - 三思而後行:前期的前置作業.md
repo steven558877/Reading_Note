@@ -72,9 +72,12 @@
 			* 錯誤處理是藥用環境的還是自己建立
 		* 容錯姓
 		* 架構的可行性
+			* 架構應證明系統在技術上是可行的
+			* 必須在開始建構前去除不可行的因素
+		* over engineering
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDgxMDI5MSwxMjA1MjY5OTYxLDExMz
+eyJoaXN0b3J5IjpbLTExMzM1MDczNCwxMjA1MjY5OTYxLDExMz
 AxNzcyNzYsODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMTQ2MDU0
 NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
 -->
