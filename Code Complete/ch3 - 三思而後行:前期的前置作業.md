@@ -81,8 +81,10 @@
 			* 架構應該要夠彈性，去適應可能變更的變化
 			* 架構要列出已經考慮過、可能會有所增強的功能，並說明最有可能且最容易被實現的增強功能。
 		* 架構的總體品質
+			* 優良的架構書在於討論了系統類別，每個類別背後隱藏的資訊、採納及棄用那些設計方案的根本理由
+			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NjUxMDk0LDEyMDUyNjk5NjEsMTEzMD
-E3NzI3Niw4NzA3NTQ4MTksLTIwOTAwOTUzOTksLTIxNDYwNTQ1
-MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
+eyJoaXN0b3J5IjpbLTEzNTI1ODc5NiwxMjA1MjY5OTYxLDExMz
+AxNzcyNzYsODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMTQ2MDU0
+NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
 -->
