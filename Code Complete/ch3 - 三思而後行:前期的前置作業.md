@@ -71,9 +71,10 @@
 			* 美個類別在驗證資料的正確性時需要付哪種責任，是類別驗證自己用的資料，還是交由專門的類別負責驗證
 			* 錯誤處理是藥用環境的還是自己建立
 		* 容錯姓
+		* 架構的可行性
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTk2MDk4NiwxMjA1MjY5OTYxLDExMz
+eyJoaXN0b3J5IjpbMTgyNDgxMDI5MSwxMjA1MjY5OTYxLDExMz
 AxNzcyNzYsODcwNzU0ODE5LC0yMDkwMDk1Mzk5LC0yMTQ2MDU0
 NTE2LC0xNDA5NzI2MDM5LDE2NjM2NDQ2MzVdfQ==
 -->
