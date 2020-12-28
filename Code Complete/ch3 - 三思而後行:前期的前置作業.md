@@ -86,9 +86,11 @@
 			* 架構應描述所有決策的動機，而不是靠直覺或是慣例，因為慣例可能不是和現在的架構
 			* 架構要盡可能獨立於環境，在建構中對環境的處裡會比在架構中考慮好
 			*  架構不應該對某些部分偏心，而去損害其他部分
+			* 架構應明確標示出風險，並解釋為甚麼有風險及考慮了那些使風險最小化
+			* 架構應要包含多個視角幫助程式設計師完整理解系統
 			* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE2MzM3MDMsMTIwNTI2OTk2MSwxMT
+eyJoaXN0b3J5IjpbLTE5ODQ5ODQzMDcsMTIwNTI2OTk2MSwxMT
 MwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1
 NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
 -->
