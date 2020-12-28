@@ -67,9 +67,10 @@
 			* 錯誤處理是主動還是被動，主動式檢查輸入，被動是捕捉錯誤
 			* 錯誤處理如果沒有一定的規定會使得程式像是混亂的拼貼畫，應該要定義錯誤處理的約定
 			* 架構應規定何時可以拋出例外、在哪裡捕捉例外
-			* 
+			* 規定在哪裡進行錯誤處理，往上丟?往專門處理的地方都還是就地處理
+			* 每個壘ㄅㄧㄝ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTI2OTk2MSwxMTMwMTc3Mjc2LDg3MD
-c1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1NDUxNiwtMTQwOTcy
-NjAzOSwxNjYzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbNjg3MTc3Mzg2LDEyMDUyNjk5NjEsMTEzMD
+E3NzI3Niw4NzA3NTQ4MTksLTIwOTAwOTUzOTksLTIxNDYwNTQ1
+MTYsLTE0MDk3MjYwMzksMTY2MzY0NDYzNV19
 -->
