@@ -20,7 +20,7 @@
 ### 軟體的首要技術使命： 管理複雜度
 * 如何處理複雜度問題
 	* 讓任何人同一時間需要處理的複雜度減到最少
-	* 不要讓附屬的複雜度無限制地增長
+	* 不要讓附屬的(非必要)複雜度無限制地增長
 ### 理想設計的特徵
 * 下面列出特徵，能夠達成全部是最理想的，但是其中有相互競爭的條件，能做出一套折衷方案是最好的
 * 最小的複雜度
@@ -226,10 +226,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMDY4MjMsMTk0MjMzMzQ4LDgxMDY4Mj
-IzMSwtMTc5NTQ5OTE1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5
-ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MT
-U2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0
-MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MT
-A2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTEyNzMyNTA4NzYsOTIzMDY4MjMsMTk0Mj
+MzMzQ4LDgxMDY4MjIzMSwtMTc5NTQ5OTE1LC0zMTUzMzQ3MDgs
+MTE5NjM0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNj
+IwODIsLTU1ODY3MTU2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2
+MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1Nj
+QyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
 -->
