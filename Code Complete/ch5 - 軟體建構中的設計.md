@@ -129,7 +129,7 @@
 		* 業務規則
 			* 遵循"資訊隱藏"的規則，可以讓變化時所需的修改降到最小
 		* 對硬體的依賴
-			* 把依賴隔離在硬體的子系統，這樣有發生錯誤或是想用軟體模擬時才能實現。
+			* 把依賴隔離在硬體(鍵盤、滑鼠)自身的子系統，這樣有發生錯誤或是想用軟體模擬時才能實現。
 		* 輸入和輸出
 		* 非標準的語言特性
 			* 必須把這種用法隔離在類別內，以便在變化環境時修改
@@ -233,11 +233,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUxNjE5MDYsLTI5NjA4MTQ4LDkyMz
-A2ODIzLC0xMjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEs
-LTE3OTU0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3Mj
-A2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1
-NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2Mj
-MwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjhd
-fQ==
+eyJoaXN0b3J5IjpbLTY4NjEyOTUxLC0xNjI1MTYxOTA2LC0yOT
+YwODE0OCw5MjMwNjgyMywtMTI3MzI1MDg3NiwxOTQyMzMzNDgs
+ODEwNjgyMjMxLC0xNzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2Mz
+Q4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4Miwt
+NTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxOD
+IxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5XX0=
+
 -->
