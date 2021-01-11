@@ -18,6 +18,10 @@
 設計不是說突然從誰的頭腦中直接蹦出來， 而是不斷的再設計評估、 非正式討論、 寫試驗程式碼及修改試驗程式碼中演化出來。
 ## 關鍵的設計概念
 ### 軟體的首要技術使命： 管理複雜度
+* 高代價、低效率的設計源自於:
+	* 用複雜方法處理簡單問題
+	* 用簡單但是錯誤的方法處理複雜問題
+	* 用不恰當的複雜方法
 * 如何處理複雜度問題
 	* 讓任何人同一時間需要處理的複雜度減到最少
 	* 不要讓附屬的複雜度無限制地增長
@@ -226,11 +230,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMDY4MjMsLTEyNzMyNTA4NzYsOTIzMD
-Y4MjMsMTk0MjMzMzQ4LDgxMDY4MjIzMSwtMTc5NTQ5OTE1LC0z
-MTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5Nz
-E1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OCwyMDE4
-MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4NTcyMDk4OT
-IsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTk0MzYwODMwMiw5MjMwNjgyMywtMTI3Mz
+I1MDg3NiwxOTQyMzMzNDgsODEwNjgyMjMxLC0xNzk1NDk5MTUs
+LTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3ND
+k3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIw
+MTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOT
+g5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
 
 -->
