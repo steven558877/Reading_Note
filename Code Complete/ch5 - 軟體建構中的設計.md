@@ -63,6 +63,7 @@
 		* 當你想把資料儲存放在遠端機器上會發生甚麼事
 	* 思考時可以想當你把子系統跟其連接的子系統切斷關係後，會需要多少工作量去處理，通常愈少事愈好。
 	* 所以當子系統確實需要了解其他子系統時才將它們牽上關係事比較好的做法
+	* 如果有疑問，建議事先對子系統間的溝通進行限制，有需要之後再擴充，這樣做會比先允許在限制好做很多
 * 分解為類別
 	* 沒說什麼
 * 分解成子程式
@@ -231,11 +232,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjA4MTQ4LDkyMzA2ODIzLC0xMjczMj
-UwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3OTU0OTkxNSwt
-MzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OT
-cxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAx
-ODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5OD
-kyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
+eyJoaXN0b3J5IjpbLTk2MDY3MDI0LC0yOTYwODE0OCw5MjMwNj
+gyMywtMTI3MzI1MDg3NiwxOTQyMzMzNDgsODEwNjgyMjMxLC0x
+Nzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNj
+I3MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5
+MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMD
+MzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4XX0=
 
 -->
