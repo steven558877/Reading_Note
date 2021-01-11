@@ -13,7 +13,7 @@
 ### 設計師不確定的
 沒有統一的設計電腦的程式方法， 通常會 多達數10種
 ### 設計程序本質上是個啟發式的程序
-最因為設計程是充滿不確定性 因此設計技術也像是啟發式的 根據經驗法則或是嘗試說不定可行的辦法
+正因為設計程是充滿不確定性 因此設計技術也像是啟發式的 根據經驗法則或是嘗試說不定可行的辦法，
 ### 設計是自然而然形成的
 設計不是說突然從誰的頭腦中直接蹦出來， 而是不斷的再設計評估、 非正式討論、 寫試驗程式碼及修改試驗程式碼中演化出來。
 ## 關鍵的設計概念
@@ -226,10 +226,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjMzMzQ4LDgxMDY4MjIzMSwtMTc5NT
-Q5OTE1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMDYyNzEs
-MTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNj
-k0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzMyw4
-NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OCw2NjA0Nj
-M1ODldfQ==
+eyJoaXN0b3J5IjpbOTIzMDY4MjMsMTk0MjMzMzQ4LDgxMDY4Mj
+IzMSwtMTc5NTQ5OTE1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5
+ODcyMDYyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MT
+U2LDU3OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0
+MDYyMzAzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MT
+A2OCw2NjA0NjM1ODldfQ==
 -->
