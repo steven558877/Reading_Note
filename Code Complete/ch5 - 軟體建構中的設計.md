@@ -106,7 +106,7 @@
 	#### 資訊隱藏的障礙
 	* 少數情況下資訊無法被隱藏，而大多數情況是某些技術導致的心理障礙
 		* 資訊過度分散
-			* 例如全域變數的使用，會讓修改時需要修改大量使用到的地方
+			* 例如全域變數的使用，會讓修改時需要修改大量使用到的地方，最ㄏㄠ
 		* 循環依賴
 			* A 依賴B, B也依賴A
 		* 把類別內的資料當作全域資料
@@ -232,11 +232,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODQyMTQyNiwtMjk2MDgxNDgsOTIzMD
-Y4MjMsLTEyNzMyNTA4NzYsMTk0MjMzMzQ4LDgxMDY4MjIzMSwt
-MTc5NTQ5OTE1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMD
-YyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3
-OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMz
-AzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OF19
-
+eyJoaXN0b3J5IjpbLTEwNzQ4NDA5MTUsLTI5NjA4MTQ4LDkyMz
+A2ODIzLC0xMjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEs
+LTE3OTU0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3Mj
+A2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1
+NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2Mj
+MwMzMsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjhd
+fQ==
 -->
