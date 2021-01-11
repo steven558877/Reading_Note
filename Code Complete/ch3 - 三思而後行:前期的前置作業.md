@@ -54,7 +54,7 @@
 			* 架構應描述資源管理數量的限制
 		* 安全性
 			* 應描述設計層面及程式碼層面的安全性方法
-			* 要建立威脅性模型
+			* 要建立威脅模型
 			* 牢記制定出來的程式碼規範，包含處理緩衝區的方法、處裡非受信任的資料的規則及錯誤訊息的細緻程度、保護記憶體中的資料
 		* 效能
 			* 如果對效能有需求也需要在架構中寫出
@@ -93,7 +93,7 @@
 ## 花費在前期的前置作業的時間長度
 * 大約會投入 10\~20%的工作量及20\~30%的時間
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5NTM5MzQsLTEyMjc5MDE4NDUsMT
+eyJoaXN0b3J5IjpbLTE0OTIyMzU3MDUsLTEyMjc5MDE4NDUsMT
 IwNTI2OTk2MSwxMTMwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5
 NTM5OSwtMjE0NjA1NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0Nj
 M1XX0=
