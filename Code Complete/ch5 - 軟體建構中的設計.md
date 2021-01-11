@@ -21,7 +21,7 @@
 * 高代價、低效率的設計源自於:
 	* 用複雜方法處理簡單問題
 	* 用簡單但是錯誤的方法處理複雜問題
-	* 用不恰當的複雜方法
+	* 用不恰當的複雜方法處理複雜問題
 * 如何處理複雜度問題
 	* 讓任何人同一時間需要處理的複雜度減到最少
 	* 不要讓附屬的複雜度無限制地增長
@@ -29,7 +29,7 @@
 * 下面列出特徵，能夠達成全部是最理想的，但是其中有相互競爭的條件，能做出一套折衷方案是最好的
 * 最小的複雜度
 	* 避免做出聰明到難以理解的設計。
-	* 如果做出的方案無法讓你專注於程式的一小部分，則是沒什麼作用的方案
+	* 如果做出的設計無法讓你專注於程式的一小部分，則是沒什麼作用的方案
 * 易於維護
 	* 時時想著未來要維護這段 code 的人是否易於閱讀
 * loose coupling
@@ -230,11 +230,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzYwODMwMiw5MjMwNjgyMywtMTI3Mz
-I1MDg3NiwxOTQyMzMzNDgsODEwNjgyMjMxLC0xNzk1NDk5MTUs
-LTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3ND
-k3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIw
-MTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOT
-g5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4LDY2MDQ2MzU4OV19
+eyJoaXN0b3J5IjpbOTUwNTcxMzI5LDkyMzA2ODIzLC0xMjczMj
+UwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3OTU0OTkxNSwt
+MzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OT
+cxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAx
+ODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5OD
+kyLC00MTIwNTY0MjksLTE2NDU0NjEwNjgsNjYwNDYzNTg5XX0=
 
 -->
