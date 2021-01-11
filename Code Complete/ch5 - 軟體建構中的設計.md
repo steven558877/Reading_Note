@@ -45,6 +45,7 @@
 	* 可以方便的移植到其他環境
 * 精簡性
 	* 縮減到不能再縮減就是好的
+	* 任何多餘的程式碼也需要測試、review
 * 層次性
 	* 意味著保持系統各層的層次性，在高層不需要去看低層的 code
 * 標準技術
@@ -230,7 +231,7 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNTcxMzI5LDkyMzA2ODIzLC0xMjczMj
+eyJoaXN0b3J5IjpbLTI5NjA4MTQ4LDkyMzA2ODIzLC0xMjczMj
 UwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3OTU0OTkxNSwt
 MzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OT
 cxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAx
