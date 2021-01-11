@@ -43,6 +43,7 @@
 			* 也需要紀錄其他類別的設計方案跟最終選擇的原因
 		* 資料設計
 			* 架構應詳細說明主要檔案和資料表的設計
+			* 像是為甚麼用循序存取的列表而非隨機存取的
 			* 也要記錄選擇的理由，這樣在後續維護及建構可以洞察設計思維
 		* 業務規則
 			* 如果架構依賴特定業務規則，則應該描述他們並描述對系統的影響
@@ -92,7 +93,8 @@
 ## 花費在前期的前置作業的時間長度
 * 大約會投入 10\~20%的工作量及20\~30%的時間
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc5MDE4NDUsMTIwNTI2OTk2MSwxMT
-MwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5NTM5OSwtMjE0NjA1
-NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0NjM1XX0=
+eyJoaXN0b3J5IjpbLTEzMjk5NTM5MzQsLTEyMjc5MDE4NDUsMT
+IwNTI2OTk2MSwxMTMwMTc3Mjc2LDg3MDc1NDgxOSwtMjA5MDA5
+NTM5OSwtMjE0NjA1NDUxNiwtMTQwOTcyNjAzOSwxNjYzNjQ0Nj
+M1XX0=
 -->
