@@ -65,7 +65,7 @@
 	* 所以當子系統確實需要了解其他子系統時才將它們牽上關係事比較好的做法
 	* 如果有疑問，建議事先對子系統間的溝通進行限制，有需要之後再擴充，這樣做會比先允許在限制好做很多
 * 分解為類別
-	* 沒說什麼
+	* 靶子系統適當的分解，確保分出來的細節恰到好處，能夠使用單一類別實作
 * 分解成子程式
 	* 可能在設計時會在這層以及類別那層來來回回重複思考怎麼設計比較好
 * 子程式內部設計
@@ -232,11 +232,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDY3MDI0LC0yOTYwODE0OCw5MjMwNj
-gyMywtMTI3MzI1MDg3NiwxOTQyMzMzNDgsODEwNjgyMjMxLC0x
-Nzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNj
-I3MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5
-MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxODIxNywxMzQwNjIzMD
-MzLDg1NzIwOTg5MiwtNDEyMDU2NDI5LC0xNjQ1NDYxMDY4XX0=
+eyJoaXN0b3J5IjpbLTY1NTA1NzAsLTI5NjA4MTQ4LDkyMzA2OD
+IzLC0xMjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3
+OTU0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mj
+cxLDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1Nzky
+MTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMz
+MsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjhdfQ==
 
 -->
