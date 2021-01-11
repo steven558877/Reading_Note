@@ -110,7 +110,7 @@
 		* 循環依賴
 			* A 依賴B, B也依賴A
 			* 很難測試，要測A會用到B，B又會用到A
-		* 把類別內的資料當作全域資料
+		* 把類別內的資料誤當作全域資料
 			* 指的是把直接操作全域資料的缺點當作在操作類別資料時也會發生，但是類別有區分好的話，相比於全域資料你不知道誰在使用他，操作類別資料你知道有那些函數會使用他，所以是類別資料是可以拿來操作的。
 	#### 隱藏資訊的價值
 	* 好修改
@@ -233,7 +233,7 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NDI3MjczLC0yOTYwODE0OCw5MjMwNj
+eyJoaXN0b3J5IjpbLTg0NzU5MDc5LC0yOTYwODE0OCw5MjMwNj
 gyMywtMTI3MzI1MDg3NiwxOTQyMzMzNDgsODEwNjgyMjMxLC0x
 Nzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNj
 I3MSwxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTYsNTc5
