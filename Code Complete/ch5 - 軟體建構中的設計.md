@@ -89,7 +89,7 @@
 ### 封裝實作細節
 ### 繼承能簡化設計時就繼承
 ### 隱藏秘密(資訊隱藏)
-* 資訊隱藏是減少重夫工作的技術
+* 資訊隱藏是減少重j工作的技術
 * 衍生出封裝及模組化的概念
 	#### 隱私和秘密權
 	* 當某段程式隱藏起來時，它引發的錯誤不會給其他部分的程式帶來太大的損失
@@ -232,11 +232,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTA1NzAsLTI5NjA4MTQ4LDkyMzA2OD
-IzLC0xMjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3
-OTU0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2Mj
-cxLDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Niw1Nzky
-MTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3LDEzNDA2MjMwMz
-MsODU3MjA5ODkyLC00MTIwNTY0MjksLTE2NDU0NjEwNjhdfQ==
+eyJoaXN0b3J5IjpbMjA1MTM0OTcxNywtMjk2MDgxNDgsOTIzMD
+Y4MjMsLTEyNzMyNTA4NzYsMTk0MjMzMzQ4LDgxMDY4MjIzMSwt
+MTc5NTQ5OTE1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMD
+YyNzEsMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3
+OTIxNjk0OCwyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMz
+AzMyw4NTcyMDk4OTIsLTQxMjA1NjQyOSwtMTY0NTQ2MTA2OF19
 
 -->
