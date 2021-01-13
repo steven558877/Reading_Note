@@ -170,7 +170,7 @@
 			* module1 向 module2 傳遞 control flag, 這表示 module1 對 module2 的內部工作細節有所了解。
 			* module2 在 module1 使用某個全域變數後接著使用。
 			* module1 的介面要求他的 init() 必須在 routine() 前被呼叫，而 module2 知道呼叫 module1 的 routine() 就會呼叫其 init()，所以直接呼叫 module1 的 routine()
-			* module1 傳遞 obj 給 module，且他知道 module2 只會使用其中的某些值，因此只出初始化那些
+			* module1 傳遞 obj 給 module2，且他知道 module2 只會使用其中的某些值，因此只出初始化那些
 		* 上面的寫法很危險，無法被編譯器偵測出來，且會讓除錯非常困難
 		* 鬆散耦合的關鍵在，一個模組除了完成功能的抽象外，他應該要在產生一層可以容易使用的介面，就可以降低整體複雜度
 	#### 查閱常用的設計模式
@@ -241,10 +241,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNDg0NDgzLDM1NTQ3ODA0OSw3NDkzNz
-M3OCwtNjg2MTI5NTEsLTE2MjUxNjE5MDYsLTI5NjA4MTQ4LDky
-MzA2ODIzLC0xMjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMz
-EsLTE3OTU0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3
-MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Ni
-w1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3XX0=
+eyJoaXN0b3J5IjpbODM0MTE2NTQ5LDUyMjQ4NDQ4MywzNTU0Nz
+gwNDksNzQ5MzczNzgsLTY4NjEyOTUxLC0xNjI1MTYxOTA2LC0y
+OTYwODE0OCw5MjMwNjgyMywtMTI3MzI1MDg3NiwxOTQyMzMzND
+gsODEwNjgyMjMxLC0xNzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2
+MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4Mi
+wtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDddfQ==
 -->
