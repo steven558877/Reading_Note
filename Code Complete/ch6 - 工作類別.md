@@ -110,7 +110,7 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 
 這可能是開發者為了未來的開發而提前設計， 但是最好的方法並非如此， 而是讓眼下的工作成果盡可能清晰簡單 直接了當， 也就是說不要建立任何並非絕對必要的繼承結構
 
-#### 衍生後複寫了某個字程式但是沒有在其中做任何事這也值得懷疑
+#### 衍生後複寫了某個子程式但是沒有在其中做任何事這也值得懷疑
 
 舉例有一個Cat類別，其中有Scatch()這個成員含式，而有些貓無法抓，所以產生一個繼承Cat類別的衍生類別ScatchLessCat，並且對Scatch()覆寫，讓他不做任何事。這有幾個問題
 
@@ -194,11 +194,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAzMjEyNTEsMjEzNjQ4MTE0MiwtNj
-E0ODYzMzcsMTIxMzAwMDk3MiwyMDEwMzM2OCw2ODAwMTM0NTks
-MTU1NjQ0NjMyNSwxNzMyMzc4OTgxLC0xMzg3NDEzMjAzLC0yMD
-gxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4
-MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LD
-IxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5
-MzgxOF19
+eyJoaXN0b3J5IjpbLTUxNjg5NDI1MCwtMTgwMDMyMTI1MSwyMT
+M2NDgxMTQyLC02MTQ4NjMzNywxMjEzMDAwOTcyLDIwMTAzMzY4
+LDY4MDAxMzQ1OSwxNTU2NDQ2MzI1LDE3MzIzNzg5ODEsLTEzOD
+c0MTMyMDMsLTIwODE2MjYxMSwtMTEyMzU3MzIxMSwtMTk5NTIz
+MDY5OCwxMzQ2NDgwNzkzLDU0Mjc1ODQ0OCwyMDAxMjY1MjQyLD
+E2NDAxMDg5MzUsMjExMTk2MjAwMiwtMTgwMjA0NTc3LC05OTc5
+NTE5MTldfQ==
 -->
