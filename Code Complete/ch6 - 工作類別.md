@@ -73,7 +73,7 @@
    通常兩個類別越是losse coupling越好，以下是建議
    * 盡可能限制著類別和成員的可存取性
    * 避免使用友誼類別， 因為他們是緊密耦合的
-   * 在基底類別中把資料宣告為private而非protected， 以正的衍生類別和基底類別之間的耦合程度
+   * 在基底類別中把資料宣告為private而非protected， 以降低的衍生類別和基底類別之間的耦合程度
    * 避免在類別的公開 界面中 暴露成員資料
    * 對於從語義上破壞封裝性保持警惕
    * （？？？）察覺6-3節講的Demeter法則
@@ -194,7 +194,7 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjMzNTg1NSwtNjE0ODYzMzcsMTIxMz
+eyJoaXN0b3J5IjpbLTQ1OTQzODYzNywtNjE0ODYzMzcsMTIxMz
 AwMDk3MiwyMDEwMzM2OCw2ODAwMTM0NTksMTU1NjQ0NjMyNSwx
 NzMyMzc4OTgxLC0xMzg3NDEzMjAzLC0yMDgxNjI2MTEsLTExMj
 M1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0
