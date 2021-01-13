@@ -30,8 +30,8 @@
  要建立 高品質的類別 最重要的一 步跟第一 步就是建立良好的介面 包含透過介面來展現良好的抽象並且確保細節被 隱藏
  ### 良好的抽象
  一個良好的抽象應該是在類別內有相關性 有高度的內聚力， 下面是一些可用於建立類別介面實的 指引
- #### 類別介面應該展現已製的抽象 層次
- 在類別思考時 有一個很好的方法 就是寶把類別看作一種用來實作adt的機制 每一個類別應該是實作一個adt並且只實作這個adt。 如果發現某個類別不只是做一個adt， 則需要重新組織成一個或多個更明確的ADT，可看書中p137的例子
+ #### 類別介面應該展現一致的抽象 層次
+ 在類別思考時 有一個很好的方法 就是把類別看作一種用來實作adt的機制 每一個類別應該是實作一個adt並且只實作這個adt。 如果發現某個類別不只是做一個adt， 則需要重新組織成一個或多個更明確的ADT，可看書中p137的例子
  #### 一定要理解類別所實作的抽像是什麼
  書中舉例作者開發一個 方格 控制項的界面 但是實際上 他是試算表控制項 因此使用 方格控制項的界面包裹試算表控制項， 而因為作者是想開發方格控制項 因此 暴露出來的 子程式只有跟方個控制項有關， 試算表控制項的子程式都被隱藏起來。
  #### 提供成對的服務
@@ -193,11 +193,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYzMTcyNDEsMjAxMDMzNjgsNjgwMD
-EzNDU5LDE1NTY0NDYzMjUsMTczMjM3ODk4MSwtMTM4NzQxMzIw
-MywtMjA4MTYyNjExLC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LD
-EzNDY0ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEw
-ODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOS
-w4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3NzEx
-NDkyMTldfQ==
+eyJoaXN0b3J5IjpbMTIxMzAwMDk3MiwyMDEwMzM2OCw2ODAwMT
+M0NTksMTU1NjQ0NjMyNSwxNzMyMzc4OTgxLC0xMzg3NDEzMjAz
+LC0yMDgxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMT
+M0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4
+OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LD
+gwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0
+OTIxOV19
 -->
