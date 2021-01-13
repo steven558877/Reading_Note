@@ -124,7 +124,8 @@
 		1. 找出看起來容易變化的項目
 		2. 把看起來容易變化的項目分離出來
 		3. 把看起來容易變化的項目隔離開來
-			* 讓變化影響範圍只限定在該項目
+		    * 將容易變化的項目獨立出一個類別
+			* 讓變化影響範圍只限定在該類別中，使用他的人不會察覺
 	* 下面是容易變化的區域
 		* 業務規則
 			* 遵循"資訊隱藏"的規則，可以讓變化時所需的修改降到最小
@@ -233,11 +234,11 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjEyOTUxLC0xNjI1MTYxOTA2LC0yOT
-YwODE0OCw5MjMwNjgyMywtMTI3MzI1MDg3NiwxOTQyMzMzNDgs
-ODEwNjgyMjMxLC0xNzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2Mz
-Q4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4Miwt
-NTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDcsMTYxOTIxOD
-IxNywxMzQwNjIzMDMzLDg1NzIwOTg5MiwtNDEyMDU2NDI5XX0=
+eyJoaXN0b3J5IjpbMTA1NDQ5OTQ2OSwtNjg2MTI5NTEsLTE2Mj
+UxNjE5MDYsLTI5NjA4MTQ4LDkyMzA2ODIzLC0xMjczMjUwODc2
+LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3OTU0OTkxNSwtMzE1Mz
+M0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQs
+NTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4ND
+I0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyXX0=
 
 -->
