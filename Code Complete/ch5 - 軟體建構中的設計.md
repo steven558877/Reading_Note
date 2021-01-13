@@ -140,7 +140,7 @@
 			* 不要使用 boolean，用列舉替代，因為常常會發生需要增加狀態的狀況
 			* 不要直接存取狀態變數取的他的狀態，而是透過一個子程式去做，這能做到判斷更複雜的 case
 		* 資料量的限制
-			* 當你使用了寫死100個元素的陣列時透漏了需要隱藏起來的資訊，應該定義 MAX_XXX等等的常數去定義他。
+			* 當你使用了寫死一個100個元素的陣列時透漏了需要隱藏起來的資訊，應該定義 MAX_XXX等等的常數去定義他。
 
 	* 預料不同程度的變化
 		* 最可能發生變化的地方應要讓他好修改且影響最小
@@ -234,11 +234,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDQ5OTQ2OSwtNjg2MTI5NTEsLTE2Mj
-UxNjE5MDYsLTI5NjA4MTQ4LDkyMzA2ODIzLC0xMjczMjUwODc2
-LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3OTU0OTkxNSwtMzE1Mz
-M0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4OTc0OTcxNTQs
-NTcxMDYyMDgyLC01NTg2NzE1Niw1NzkyMTY5NDgsMjAxODA4ND
-I0NywxNjE5MjE4MjE3LDEzNDA2MjMwMzMsODU3MjA5ODkyXX0=
-
+eyJoaXN0b3J5IjpbNzQ5MzczNzgsLTY4NjEyOTUxLC0xNjI1MT
+YxOTA2LC0yOTYwODE0OCw5MjMwNjgyMywtMTI3MzI1MDg3Niwx
+OTQyMzMzNDgsODEwNjgyMjMxLC0xNzk1NDk5MTUsLTMxNTMzND
+cwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3
+MTA2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyND
+csMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5Ml19
 -->
