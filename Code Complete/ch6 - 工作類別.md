@@ -66,7 +66,8 @@
    * 不去呼叫A類別的Init()，因為你知道在PerformFirstOeration()時就會呼叫過
    * 不在Retrieve(database)前呼叫database.Connect()，因為你知道在裡頭她會去判斷有沒有跟database連線上。
    * 不去呼叫A類別的Terminate()，因為你知道在PerformFinalOeration()時就會呼叫
-   上面的問題在於你 呼叫程式碼時 不是依賴於類別的公開介面， 而是依賴於類別的私用實作， 每當你發現自己是透過查看類別內部的 實作 來得知如何使用這個類別時， 你就已經不是在針對介面寫程式了， 而是由經過界面直接針對內部的實作來寫程式， 破壞了封裝性， 一旦破壞了 封裝性 ，抽象能力也就遭殃了
+ 
+上面的問題在於你 呼叫程式碼時 不是依賴於類別的公開介面， 而是依賴於類別的私用實作， 每當你發現自己是透過查看類別內部的 實作 來得知如何使用這個類別時， 你就已經不是在針對介面寫程式了， 而是由經過界面直接針對內部的實作來寫程式， 破壞了封裝性， 一旦破壞了 封裝性 ，抽象能力也就遭殃了
    而當如果你不知道如何使用一個類別的公開介面時， 不是拉出類別的原始碼， 去看裡面的實作， 而是去聯絡作者， 告知他他不知道怎麼使用這個類別， 而你想得到的也不是他真的 怎麼做， 而是由他去修改類別介面， 修改完後再讓你看看你能不能知道如何使用。
    #### 留意過於緊密的耦合關係
    通常兩個類別越是losse coupling越好，以下是建議
@@ -193,11 +194,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDg2MzM3LDEyMTMwMDA5NzIsMjAxMD
-MzNjgsNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMjM3ODk4MSwt
-MTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTczMjExLC0xOT
-k1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUy
-NDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1NzcsLT
-k5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1
-MjczMF19
+eyJoaXN0b3J5IjpbLTg2NjMzNTg1NSwtNjE0ODYzMzcsMTIxMz
+AwMDk3MiwyMDEwMzM2OCw2ODAwMTM0NTksMTU1NjQ0NjMyNSwx
+NzMyMzc4OTgxLC0xMzg3NDEzMjAzLC0yMDgxNjI2MTEsLTExMj
+M1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0
+NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLT
+E4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3
+OTgxMl19
 -->
