@@ -8,7 +8,7 @@
 #### 讓介面能夠提供更多資訊
 當在寫程式時， 你指定一個字體大小的變數值為16， 你並不知道他的單位是什麼， 將這類的訊息分別根據單位在類別內定義就可解決這個問題
 #### 更容易提高效能
-#### 用程式的正確性顯而易見
+#### 讓程式的正確性顯而易見
 當要設定字體屬性時，使用font.attribute=0x20是有可能會出錯的，可能會物打成0x02。如果有一類別函是為font.setBold()，則可以清楚的知道屬性的設定正確性。
 #### 程式更具自我說明性
 如上例 就知道這個函式是用來將字體 設定為粗體。
@@ -193,11 +193,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMj
-M3ODk4MSwtMTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTcz
-MjExLC0xOTk1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LD
-IwMDEyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAy
-MDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MT
-IsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2MjQ5MSwyMDk4
-MDY2MDJdfQ==
+eyJoaXN0b3J5IjpbMjAxMDMzNjgsNjgwMDEzNDU5LDE1NTY0ND
+YzMjUsMTczMjM3ODk4MSwtMTM4NzQxMzIwMywtMjA4MTYyNjEx
+LC0xMTIzNTczMjExLC0xOTk1MjMwNjk4LDEzNDY0ODA3OTMsNT
+QyNzU4NDQ4LDIwMDEyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYy
+MDAyLC0xODAyMDQ1NzcsLTk5Nzk1MTkxOSw4MDA0OTM4MTgsLT
+E5ODA3Nzk4MTIsLTY2Mzc1MjczMCw3NzExNDkyMTksMTEyMzk2
+MjQ5MV19
 -->
