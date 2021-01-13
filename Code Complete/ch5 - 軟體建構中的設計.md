@@ -228,7 +228,7 @@
 * 這個原型必須要當作是可拋棄的，不能拿來當作產品程式碼
 ### 合作設計
 * 找人一起做設計
-* ㄖㄨ
+* 如果沒有沒有人，就把設計弄好後放著，等過段時間忘得差不多了再去看一次
 ### 要做多少設計才夠
 ![enter image description here](https://i.imgur.com/ekP1DqN.jpg)
 
@@ -243,10 +243,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU0NjYzMDksNDY0NzA0OTI5LDgzND
-ExNjU0OSw1MjI0ODQ0ODMsMzU1NDc4MDQ5LDc0OTM3Mzc4LC02
-ODYxMjk1MSwtMTYyNTE2MTkwNiwtMjk2MDgxNDgsOTIzMDY4Mj
-MsLTEyNzMyNTA4NzYsMTk0MjMzMzQ4LDgxMDY4MjIzMSwtMTc5
-NTQ5OTE1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMDYyNz
-EsMTg5NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2XX0=
+eyJoaXN0b3J5IjpbMTY3NjE3MjA3NCw0NjQ3MDQ5MjksODM0MT
+E2NTQ5LDUyMjQ4NDQ4MywzNTU0NzgwNDksNzQ5MzczNzgsLTY4
+NjEyOTUxLC0xNjI1MTYxOTA2LC0yOTYwODE0OCw5MjMwNjgyMy
+wtMTI3MzI1MDg3NiwxOTQyMzMzNDgsODEwNjgyMjMxLC0xNzk1
+NDk5MTUsLTMxNTMzNDcwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3MS
+wxODk3NDk3MTU0LDU3MTA2MjA4MiwtNTU4NjcxNTZdfQ==
 -->
