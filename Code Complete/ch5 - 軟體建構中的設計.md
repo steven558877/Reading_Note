@@ -159,7 +159,8 @@
 		* 可見性:
 			* 指的是模組間連接的清楚性，像是全域變數讓多個類別使用就是可見性低的方法
 		* 靈活性:
-			* 是多種耦合特性組合起來的性質，當你使用一個類別，無法透過介面得知如何使用，需要去看裏頭的實作，這就是不好的靈活性。
+			* 模組間容不容易更動
+			* 也可能是多種耦合特性組合起來的性質，當你使用一個類別，無法透過介面得知如何使用，需要去看裏頭的實作，這就是不好的靈活性。
 	* 總結來說，一個模組愈容易被別人使用，則他的耦合性就愈低，建構時按照「盡可能縮減相互連接」為目標。
 	* 耦合的種類:
 		* 簡單資料參數耦合: 兩個類別透過參數傳遞資料，並且都是簡單資料參數(primitive data type, e.g., int, float .etc)，這個是可以被接受的
@@ -240,10 +241,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NDc4MDQ5LDc0OTM3Mzc4LC02ODYxMj
-k1MSwtMTYyNTE2MTkwNiwtMjk2MDgxNDgsOTIzMDY4MjMsLTEy
-NzMyNTA4NzYsMTk0MjMzMzQ4LDgxMDY4MjIzMSwtMTc5NTQ5OT
-E1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMDYyNzEsMTg5
-NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OC
-wyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzM119
+eyJoaXN0b3J5IjpbNTIyNDg0NDgzLDM1NTQ3ODA0OSw3NDkzNz
+M3OCwtNjg2MTI5NTEsLTE2MjUxNjE5MDYsLTI5NjA4MTQ4LDky
+MzA2ODIzLC0xMjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMz
+EsLTE3OTU0OTkxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3
+MjA2MjcxLDE4OTc0OTcxNTQsNTcxMDYyMDgyLC01NTg2NzE1Ni
+w1NzkyMTY5NDgsMjAxODA4NDI0NywxNjE5MjE4MjE3XX0=
 -->
