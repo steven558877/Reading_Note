@@ -143,6 +143,7 @@
 			* 當你使用了寫死一個100個元素的陣列時透漏了需要隱藏起來的資訊，應該定義 MAX_XXX等等的常數去定義他。
 
 	* 預料不同程度的變化
+		* 
 		* 最可能發生變化的地方應要讓他好修改且影響最小
 		* 反之只有幾乎不可能發生的變化可以影響整體系統
 	#### 保持鬆散耦合
@@ -234,10 +235,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MzczNzgsLTY4NjEyOTUxLC0xNjI1MT
-YxOTA2LC0yOTYwODE0OCw5MjMwNjgyMywtMTI3MzI1MDg3Niwx
-OTQyMzMzNDgsODEwNjgyMjMxLC0xNzk1NDk5MTUsLTMxNTMzND
-cwOCwxMTk2MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3
-MTA2MjA4MiwtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyND
-csMTYxOTIxODIxNywxMzQwNjIzMDMzLDg1NzIwOTg5Ml19
+eyJoaXN0b3J5IjpbOTIzNTUwODkwLDc0OTM3Mzc4LC02ODYxMj
+k1MSwtMTYyNTE2MTkwNiwtMjk2MDgxNDgsOTIzMDY4MjMsLTEy
+NzMyNTA4NzYsMTk0MjMzMzQ4LDgxMDY4MjIzMSwtMTc5NTQ5OT
+E1LC0zMTUzMzQ3MDgsMTE5NjM0ODU0Niw5ODcyMDYyNzEsMTg5
+NzQ5NzE1NCw1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OC
+wyMDE4MDg0MjQ3LDE2MTkyMTgyMTcsMTM0MDYyMzAzM119
 -->
