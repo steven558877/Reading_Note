@@ -37,8 +37,8 @@
  #### 提供成對的服務
  大多數操作都有何其相應及相等或是相反的操作， 因此在建立類別的公用 子程式時， 要決定是否需要另外一個與之 相補的操作
  #### 把不相關的資訊移到其他類別中
- #### (???)盡可能讓介面可程式化， 而不是表達語義
- (???) 可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
+ ####盡可能讓介面可程式化， 而不是表達語義
+ 可程式化 指的是 界面中的資料類型和其他屬性 構成， 可被編譯器 檢查 錯誤， 而表達語意 指的 這個界面應該要怎麼被使用，例如 RoutineA 必須在 RoutineB 前被呼叫。 因為 表達語意的功能無法被編譯器檢查錯誤， 因此表達 語意 應該 用註解的方式， 讓介面不依賴這些說明
   #### 謹防在修改時破壞介面的抽象
   #### 不要添加與介面抽象不一致的公用成員
   #### 同時考慮抽象性和內聚性
@@ -193,11 +193,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzAwMDk3MiwyMDEwMzM2OCw2ODAwMT
-M0NTksMTU1NjQ0NjMyNSwxNzMyMzc4OTgxLC0xMzg3NDEzMjAz
-LC0yMDgxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMT
-M0NjQ4MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4
-OTM1LDIxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LD
-gwMDQ5MzgxOCwtMTk4MDc3OTgxMiwtNjYzNzUyNzMwLDc3MTE0
-OTIxOV19
+eyJoaXN0b3J5IjpbMjQ2OTg5MDgyLDEyMTMwMDA5NzIsMjAxMD
+MzNjgsNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMjM3ODk4MSwt
+MTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTczMjExLC0xOT
+k1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LDIwMDEyNjUy
+NDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAyMDQ1NzcsLT
+k5Nzk1MTkxOSw4MDA0OTM4MTgsLTE5ODA3Nzk4MTIsLTY2Mzc1
+MjczMF19
 -->
