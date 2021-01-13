@@ -88,7 +88,7 @@
    
    ### 繼承是一個is a關係
    繼承的概念是說某一個類別是另外一個類別的特殊化。 其目的在於透過一個基底類別來定義出兩個或多個衍生類別 並提供共有元素
-   從決定使用騎乘時你必須要做一下決策
+   從決定使用繼承時你必須要做一下決策
    * 對於每一個成員函數而言他應該對衍生類別可見嗎？ 他應該有預設的實作嗎？ 這個預設的實作能被複寫嗎？
    * 每一個資料成員而言他應該對衍生類別可見嗎
    下面來詳細解釋如何考慮這些事項
@@ -194,11 +194,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjQ4MTE0MiwtNjE0ODYzMzcsMTIxMz
-AwMDk3MiwyMDEwMzM2OCw2ODAwMTM0NTksMTU1NjQ0NjMyNSwx
-NzMyMzc4OTgxLC0xMzg3NDEzMjAzLC0yMDgxNjI2MTEsLTExMj
-M1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0
-NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLT
-E4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5MzgxOCwtMTk4MDc3
-OTgxMl19
+eyJoaXN0b3J5IjpbLTE4MDAzMjEyNTEsMjEzNjQ4MTE0MiwtNj
+E0ODYzMzcsMTIxMzAwMDk3MiwyMDEwMzM2OCw2ODAwMTM0NTks
+MTU1NjQ0NjMyNSwxNzMyMzc4OTgxLC0xMzg3NDEzMjAzLC0yMD
+gxNjI2MTEsLTExMjM1NzMyMTEsLTE5OTUyMzA2OTgsMTM0NjQ4
+MDc5Myw1NDI3NTg0NDgsMjAwMTI2NTI0MiwxNjQwMTA4OTM1LD
+IxMTE5NjIwMDIsLTE4MDIwNDU3NywtOTk3OTUxOTE5LDgwMDQ5
+MzgxOF19
 -->
