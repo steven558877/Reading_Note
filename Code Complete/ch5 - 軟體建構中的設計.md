@@ -185,8 +185,8 @@
 	* 高內聚力
 		* 類似於類別內的良好抽象
 	*  建構分層組織
-		* 由高層往低層做
-	* 恪守手類別契約
+		* 將要做的事分層級，由高層往低層做
+	* 恪守類別契約
 		* 把類別的介面當作是與使用他的人的一個契約，使使用者及類別都遵守承諾。
 	* 為測試而設計
 	* 有意識的為變數選擇綁定時間
@@ -241,10 +241,10 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MTE2NTQ5LDUyMjQ4NDQ4MywzNTU0Nz
-gwNDksNzQ5MzczNzgsLTY4NjEyOTUxLC0xNjI1MTYxOTA2LC0y
-OTYwODE0OCw5MjMwNjgyMywtMTI3MzI1MDg3NiwxOTQyMzMzND
-gsODEwNjgyMjMxLC0xNzk1NDk5MTUsLTMxNTMzNDcwOCwxMTk2
-MzQ4NTQ2LDk4NzIwNjI3MSwxODk3NDk3MTU0LDU3MTA2MjA4Mi
-wtNTU4NjcxNTYsNTc5MjE2OTQ4LDIwMTgwODQyNDddfQ==
+eyJoaXN0b3J5IjpbNDY0NzA0OTI5LDgzNDExNjU0OSw1MjI0OD
+Q0ODMsMzU1NDc4MDQ5LDc0OTM3Mzc4LC02ODYxMjk1MSwtMTYy
+NTE2MTkwNiwtMjk2MDgxNDgsOTIzMDY4MjMsLTEyNzMyNTA4Nz
+YsMTk0MjMzMzQ4LDgxMDY4MjIzMSwtMTc5NTQ5OTE1LC0zMTUz
+MzQ3MDgsMTE5NjM0ODU0Niw5ODcyMDYyNzEsMTg5NzQ5NzE1NC
+w1NzEwNjIwODIsLTU1ODY3MTU2LDU3OTIxNjk0OF19
 -->
