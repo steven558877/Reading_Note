@@ -149,7 +149,8 @@
 		* 找出潛在變化的好方法是:
 			1. 找出對使用者有用的最小子集
 			2. 從這個子集用極小步伐去擴充系統
-			3. 當作這些改變時，也要去注意"直ㄉ"
+			3. 當作這些改變時，也要去注意"質"的變化(像是 thread safe, 程式能本地化等)，這些改進區域就成為系統的潛在變化
+			4. 將這些區域用資訊隱藏的方式實作
 	#### 保持鬆散耦合
 	* 目標是建立小、直接、清晰的類別或子程式，讓他與其他元件保持靈活
 	* 盡量使你建立的模組不依賴其他的
@@ -239,7 +240,7 @@
 * 設計方法是一個雜亂、險惡和啟發性的過程，不要停留在第一種方法，而是尋求合作，探求簡潔性、在需要時作 prototype，迭代在迭代，直到設計成果滿意。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjIzOTAxMCw3NDkzNzM3OCwtNjg2MT
+eyJoaXN0b3J5IjpbMTU5MjUwODYwNCw3NDkzNzM3OCwtNjg2MT
 I5NTEsLTE2MjUxNjE5MDYsLTI5NjA4MTQ4LDkyMzA2ODIzLC0x
 MjczMjUwODc2LDE5NDIzMzM0OCw4MTA2ODIyMzEsLTE3OTU0OT
 kxNSwtMzE1MzM0NzA4LDExOTYzNDg1NDYsOTg3MjA2MjcxLDE4
