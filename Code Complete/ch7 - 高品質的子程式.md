@@ -47,10 +47,10 @@
 PrintDocument等等
 #### 準確使用反義詞
 get/set, add/del等等
-#### 為常用操作卻麗命名規則
+#### 為常用操作確立命名規則
 employee.id()
 qqq.getid()
-aaa()
+getid()
 ggg.id.get()
 這些都是取得id的方法，應要以統一的方式實作
 ##  子程式可以寫多長
@@ -83,11 +83,11 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTA1MjYyMywxODMzOTE0NDg1LC0xMj
-U5MTU1ODc1LC0yNDg3NjcyNywzMDc5NjkwNDUsLTE4OTcxNTU4
-MjYsLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3MDg2LC
-0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEy
-OTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwOD
-YxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIs
-LTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMTk5OTY5NDAsMTgzMzkxNDQ4NSwtMT
+I1OTE1NTg3NSwtMjQ4NzY3MjcsMzA3OTY5MDQ1LC0xODk3MTU1
+ODI2LC05NDgyOTc0NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4Ni
+wtMjA4MTQ2MDQ3MiwxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0x
+MjkyMzUxOTgzLC05Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MD
+g2MTIsLTQ4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQy
+LC0yMDg4NzQ2NjEyXX0=
 -->
