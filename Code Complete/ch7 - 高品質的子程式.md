@@ -32,7 +32,7 @@
   -  程式內聚力
   指的是 一組會依照固定順序執行程式放在同一個模組中 例如1個函式檢查檔案的權限然後開啟檔案， 解決方法是把他們的功能畫成不同的子程式然後個別呼叫
   - 邏輯內聚力
- 例如一個名為輸入全部資料的程式 包含了輸入客戶姓名以及員工出行資訊等等不太相關的程式時 就被稱為邏輯內聚力 這個問題的解法 應該要使用不同的子程式去完成這些任務
+ 例如一個名為輸入全部資料的程式，根據傳入的 flag 決定ㄧ 包含了輸入客戶姓名以及員工出行資訊等等不太相關的程式時 就被稱為邏輯內聚力 這個問題的解法 應該要使用不同的子程式去完成這些任務
  - 巧合的內聚力
  指的是一個子程式內有多個不相關的功能
 上述不好的內聚力應該要改寫成由更好的內聚力組成
@@ -82,11 +82,11 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU2MTY0MiwxODMzOTE0NDg1LC0xMj
-U5MTU1ODc1LC0yNDg3NjcyNywzMDc5NjkwNDUsLTE4OTcxNTU4
-MjYsLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3MDg2LC
-0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEy
-OTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwOD
-YxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIs
-LTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTk4MTE5Mjc4LDE4MzM5MTQ0ODUsLTEyNT
+kxNTU4NzUsLTI0ODc2NzI3LDMwNzk2OTA0NSwtMTg5NzE1NTgy
+NiwtOTQ4Mjk3NDY5LC0xNTIwNTMxMjMxLDE4OTc3OTcwODYsLT
+IwODE0NjA0NzIsMTkyODA5NDkwNSwtMTg5Njk2NDAyOSwtMTI5
+MjM1MTk4MywtOTc5NzQ3OTQ2LDQwMjIxMTkwLC0xMzMzOTA4Nj
+EyLC00ODk0ODIyNjUsLTYyMjMzNzcwMiwtMTkxMDE3MTc0Miwt
+MjA4ODc0NjYxMl19
 -->
