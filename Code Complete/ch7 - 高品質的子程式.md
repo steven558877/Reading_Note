@@ -54,7 +54,7 @@ getid()
 ggg.id.get()
 這些都是取得id的方法，應要以統一的方式實作
 ##  子程式可以寫多長
-長度及錯誤率其實不一定相關， 有看你子程式的內聚力、巢狀深度、變數的數量或是決策點的數量等等因素來決定比較好，也就是說根據複雜度來決定子程式的長度。 不過子程式盡量不要超過200行， 超過200行後就會影響可讀性
+長度及錯誤率其實不一定相關， 有看你子程式的內聚力、巢狀深度、變數的數量或是決策點的數量等等因素來決定比較好，也就是說根據複雜度來決定子程式的長度。 不過子程式盡量不要超過200行， 超過200行後就會影響可讀性，不過比起限制長度，還不如透過下面這些因素 -- 子程式的內聚力、巢狀深度
 ## 如何使用子程式參數
 ### 按照輸入修改輸出的順序來排列參數
 ### 如果幾個子程式都使用了類似的參數，那就讓他們這些參數排列順序保持一致
@@ -83,11 +83,11 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk5OTY5NDAsMTgzMzkxNDQ4NSwtMT
-I1OTE1NTg3NSwtMjQ4NzY3MjcsMzA3OTY5MDQ1LC0xODk3MTU1
-ODI2LC05NDgyOTc0NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4Ni
-wtMjA4MTQ2MDQ3MiwxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0x
-MjkyMzUxOTgzLC05Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MD
-g2MTIsLTQ4OTQ4MjI2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQy
-LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjA0Mjk0MTA1NiwxODMzOTE0NDg1LC0xMj
+U5MTU1ODc1LC0yNDg3NjcyNywzMDc5NjkwNDUsLTE4OTcxNTU4
+MjYsLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3MDg2LC
+0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEy
+OTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwOD
+YxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIs
+LTIwODg3NDY2MTJdfQ==
 -->
