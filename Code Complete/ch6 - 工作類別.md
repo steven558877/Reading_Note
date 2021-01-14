@@ -164,7 +164,7 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 盡量要下面這幾個數字減到最小
 
 -   實例化物件的種類數量
--   （？？？）在被實例化物件上直接呼叫的不同的子程式的數量
+-   在被實例化物件上直接呼叫的不同的子程式的數量
 -   呼叫由其他物件回傳之物件的子城市的數量
 ### 建構函式
 #### 如果可以盡可能在所有 建構函式 中初始化所有資料成員
@@ -198,7 +198,7 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA1NjYyNSwtNTE2ODk0MjUwLC0xOD
+eyJoaXN0b3J5IjpbLTk2MDA0OTU4NywtNTE2ODk0MjUwLC0xOD
 AwMzIxMjUxLDIxMzY0ODExNDIsLTYxNDg2MzM3LDEyMTMwMDA5
 NzIsMjAxMDMzNjgsNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMj
 M3ODk4MSwtMTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTcz
