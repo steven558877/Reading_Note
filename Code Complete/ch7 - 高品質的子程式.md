@@ -26,7 +26,7 @@
   - 通訊內聚力
   指的是在一個子程式內對相同的資料做不同處理， 解決的方法是將它們拆成不同的子程式
   - 暫時的內聚力
-  指的是因為一些因素需要一起執行才放在一起的子程式，像是startup()，他會去執行一堆只有這時候才會聚集在一起的子程式，此時應該要讓他呼叫其他子程式去完成任務而非自己實作。
+  指的是因為一些因素需要一起執行才放在一起的子程式，像是startup()，他會去執行一堆只有這時候才會聚集在一起的子程式，此時應該要讓他呼叫其他子程式去完成任務而非自己執行。
   除了這上面的內聚力以外其他的內聚力都是不可取的 他會導致程式碼混亂並且難以修改
   下面指的是不好的內聚力
   -  程式內聚力
@@ -82,11 +82,11 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzkxNDQ4NSwtMTI1OTE1NTg3NSwtMj
-Q4NzY3MjcsMzA3OTY5MDQ1LC0xODk3MTU1ODI2LC05NDgyOTc0
-NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4NiwtMjA4MTQ2MDQ3Mi
-wxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOTgzLC05
-Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4OTQ4Mj
-I2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEy
-XX0=
+eyJoaXN0b3J5IjpbLTE4MzU2MTY0MiwxODMzOTE0NDg1LC0xMj
+U5MTU1ODc1LC0yNDg3NjcyNywzMDc5NjkwNDUsLTE4OTcxNTU4
+MjYsLTk0ODI5NzQ2OSwtMTUyMDUzMTIzMSwxODk3Nzk3MDg2LC
+0yMDgxNDYwNDcyLDE5MjgwOTQ5MDUsLTE4OTY5NjQwMjksLTEy
+OTIzNTE5ODMsLTk3OTc0Nzk0Niw0MDIyMTE5MCwtMTMzMzkwOD
+YxMiwtNDg5NDgyMjY1LC02MjIzMzc3MDIsLTE5MTAxNzE3NDIs
+LTIwODg3NDY2MTJdfQ==
 -->
