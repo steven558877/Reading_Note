@@ -54,6 +54,7 @@
 	* 用例外可以確保他無法被忽略。
 * 只有真正例外的情況下才拋出例外
 	* 只用來處理不但罕見且甚至永遠不該發生的事
+	* 當程式碼中無法處理錯誤時才拋出例外
 	* 用例外時需要做取捨，因為例外破壞了程式設計的「封裝性」，因為子程式需要去了解例外的意義。同時程式的複雜度也會變高，與第五章「軟體建構中的設計」中的管理複雜度是背道而馳的，因此需要謹慎使用。
 * 不能用例外來推卸責任
 	* 如果錯誤能局部處理則要處理，不要把它當作未捕捉的錯誤拋出例外。
@@ -123,11 +124,11 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MzI3NTY3LC0xMTUwNTMzMTA1LC0xNz
-g4MTgzNTQxLC01MDI4ODM0NjEsLTE4MTM4NTY3MDksLTI1Mzc3
-NzA3NCwtMjA3NjM5MTMxMywtNzU3NjY5MjI1LDE5NjYyMDA4NT
-AsODQzNzQwOTIxLC0xMjQ1ODY1MDM4LDQxNjYwNjY5LDE2OTYz
-NTI5LC03NDc1NjY0MjYsLTk3MjA3MTg3NCwtMTI3MjI4MzgzMS
-wtOTAyNjU3MTIxLDE0MDIzNDEzMTMsLTE0NDAyMTA5MzAsLTU5
-MzQ2NjQ3XX0=
+eyJoaXN0b3J5IjpbMTg4MzIxMTAwMSwzNjgzMjc1NjcsLTExNT
+A1MzMxMDUsLTE3ODgxODM1NDEsLTUwMjg4MzQ2MSwtMTgxMzg1
+NjcwOSwtMjUzNzc3MDc0LC0yMDc2MzkxMzEzLC03NTc2NjkyMj
+UsMTk2NjIwMDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMzgsNDE2
+NjA2NjksMTY5NjM1MjksLTc0NzU2NjQyNiwtOTcyMDcxODc0LC
+0xMjcyMjgzODMxLC05MDI2NTcxMjEsMTQwMjM0MTMxMywtMTQ0
+MDIxMDkzMF19
 -->
