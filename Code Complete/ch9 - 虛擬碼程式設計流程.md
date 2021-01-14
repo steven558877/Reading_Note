@@ -21,6 +21,7 @@
 				└--------------------------------->完成
 ```	
 ## 如何寫好pseudocode
+* 用類似英文的句型描述行為
 * 避免使用目標程式語言的語法，虛擬碼可以讓你在一個目標語言略高的層次進行設計。
 * 不要管目標語言，以虛擬碼描述解決方法的原意
 * 虛擬碼要在足夠低的層次上撰寫，以便由他來近乎自動地產生程式碼。如果不夠低，會有些問題細節被忽略。
@@ -76,7 +77,7 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzYxNTc3NywtMTk4NjQyMDg4Myw2Mj
-g5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC0xMTE5OTA4
-MTksNjAzMDQ3NDU1XX0=
+eyJoaXN0b3J5IjpbLTE3NjY0Mjc4NjgsLTY3MzYxNTc3NywtMT
+k4NjQyMDg4Myw2Mjg5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIy
+NjQwLC0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
 -->
