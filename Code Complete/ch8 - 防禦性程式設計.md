@@ -62,6 +62,7 @@
 	* 因為C++的解構函式只有在物件完全建構時才能被呼叫，因此如果建構函式拋出例外會無法解構，造成資源洩漏。
 * 在恰當的層次拋出例外
 	* 當拋出的例外與原本的子程式不在同一個抽象層，會破壞層次的封裝性，暴露一些自身的實作細節。
+	* 應該要拋出與子程式相同抽象的例外
 * 在例外訊息中加入關於導致例外發生的全部資訊
 	* 例如一個陣列因為index讀取錯誤拋出例外，拋出時應要把陣列的上下界及錯誤的index都傳遞出去。
 * 避免使用空的catch述句
@@ -124,7 +125,7 @@
 ### 對防禦性程式碼採取防禦的姿態
 是說防禦性程式碼確實有它的用處，但會使得程式變得擁腫且緩慢，應該要適當的選擇使用的場合，並且決定優先順序。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzIxMTAwMSwzNjgzMjc1NjcsLTExNT
+eyJoaXN0b3J5IjpbMTgzNzU0ODE1NiwzNjgzMjc1NjcsLTExNT
 A1MzMxMDUsLTE3ODgxODM1NDEsLTUwMjg4MzQ2MSwtMTgxMzg1
 NjcwOSwtMjUzNzc3MDc0LC0yMDc2MzkxMzEzLC03NTc2NjkyMj
 UsMTk2NjIwMDg1MCw4NDM3NDA5MjEsLTEyNDU4NjUwMzgsNDE2
