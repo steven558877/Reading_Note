@@ -139,16 +139,17 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 
 前面提出的規則能讓您遠離繼承有關的麻煩， 而繼承往往和你的程式設計師的首要技術與使命背道而馳，下面總結何時使用繼承和包含
 
--   如果多個類別共享資料而非行為， 而應該是去建立這個類別可以包含的公用物件
--   如果多個類別共享行為而非資料， 應該是讓他們從共同的基底類別繼承來， 並在基底類別定義 公用的子程式
+-   如果多個類別共享資料而非行為， 而應該是去建立這個類別可以包含的共用物件
+-   如果多個類別共享行為而非資料， 應該是讓他們從共同的基底類別繼承來， 並在基底類別定義 共用的子程式
 -   如果多個類別既共享資料也共享行為，應該要讓他們從一個共同的基底類別繼承而來並在基底類別定義共用的資料和子程式
--   到你想由基底類別控制你的介面時， 就是用繼承； 當你想自己控制你的界面時就是用包含
+-   當你想由基底類別控制你的介面時， 就是用繼承； 當你想自己控制你的界面時就是用包含
 
 ### 成員函式和資料成員
 
 #### 讓類別中的子程式數量盡可能的少
 
 #### 用隱含的方式禁止你不需要的成員函式與運算子
+利用 private 禁止修改
 
 將你不想要使用的東西定義為private，禁止呼叫方程式碼去存取
 
@@ -197,11 +198,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MTc5MDQ5LC01MTY4OTQyNTAsLTE4MD
-AzMjEyNTEsMjEzNjQ4MTE0MiwtNjE0ODYzMzcsMTIxMzAwMDk3
-MiwyMDEwMzM2OCw2ODAwMTM0NTksMTU1NjQ0NjMyNSwxNzMyMz
-c4OTgxLC0xMzg3NDEzMjAzLC0yMDgxNjI2MTEsLTExMjM1NzMy
-MTEsLTE5OTUyMzA2OTgsMTM0NjQ4MDc5Myw1NDI3NTg0NDgsMj
-AwMTI2NTI0MiwxNjQwMTA4OTM1LDIxMTE5NjIwMDIsLTE4MDIw
-NDU3N119
+eyJoaXN0b3J5IjpbLTExMzA1NjYyNSwtNTE2ODk0MjUwLC0xOD
+AwMzIxMjUxLDIxMzY0ODExNDIsLTYxNDg2MzM3LDEyMTMwMDA5
+NzIsMjAxMDMzNjgsNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMj
+M3ODk4MSwtMTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTcz
+MjExLC0xOTk1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LD
+IwMDEyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAy
+MDQ1NzddfQ==
 -->
