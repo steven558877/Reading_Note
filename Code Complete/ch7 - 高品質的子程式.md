@@ -12,6 +12,9 @@
 #### 簡化複雜的布林判斷
 #### 改善效能
 ####  子程式不一定要很短
+#### 隱藏實作細節
+#### 隔離複雜度
+#### 達到特定重構的目的
 ### 似乎過於簡單而沒必要寫成子程式的操作
 通常會糾結在為一些簡單 的判斷 將他寫成字程式 這個問題的最佳解法通常都是真的把他寫成子程式 尤其是那些經常會使用的簡單計算， 並且對提高程式的可讀性有很大的效果
 ## 在子程式上的設計
@@ -79,7 +82,7 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzczNTU1OSwtMTI1OTE1NTg3NSwtMj
+eyJoaXN0b3J5IjpbMTgzMzkxNDQ4NSwtMTI1OTE1NTg3NSwtMj
 Q4NzY3MjcsMzA3OTY5MDQ1LC0xODk3MTU1ODI2LC05NDgyOTc0
 NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4NiwtMjA4MTQ2MDQ3Mi
 wxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOTgzLC05
