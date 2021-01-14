@@ -26,6 +26,7 @@
 * 不要管目標語言，以虛擬碼描述解決方法的原意
 * 虛擬碼要在足夠低的層次上撰寫，以便由他來近乎自動地產生程式碼。如果不夠低，會有些問題細節被忽略。
 * 必須要不斷精煉，直到看起來很容易能寫出程式碼為止
+* 好的 pseudocode 是可以當作產品程式碼的註解的
 ## 透過PPP建立子程式
 ### 設計子程式
 * 檢查先決條件，檢查該子程式是否以定義好要做的工作並且是否與整體設計匹配
@@ -77,7 +78,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY0Mjc4NjgsLTY3MzYxNTc3NywtMT
-k4NjQyMDg4Myw2Mjg5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIy
-NjQwLC0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
+eyJoaXN0b3J5IjpbMTMxNzE4NDc2MiwtMTc2NjQyNzg2OCwtNj
+czNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkzNjI3MSwtMTYyMjc1
+NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOSw2MDMwNDc0NTVdfQ
+==
 -->
