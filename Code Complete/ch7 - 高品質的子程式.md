@@ -7,7 +7,7 @@
 #### 幫助子類別的設計
 對一個簡短而工整的子程式需要進行複寫時會比覆寫冗長而邋遢的子程式更容易並且犯錯的機率更小
 #### 隱藏 順序
-### 隱藏指標操作
+#### 隱藏指標操作
 #### 提高可移植性
 #### 簡化複雜的布林判斷
 #### 改善效能
@@ -79,10 +79,11 @@ ggg.id.get()
 inline暴露了實作的細節給使用inline的函式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkxNTU4NzUsLTI0ODc2NzI3LDMwNz
-k2OTA0NSwtMTg5NzE1NTgyNiwtOTQ4Mjk3NDY5LC0xNTIwNTMx
-MjMxLDE4OTc3OTcwODYsLTIwODE0NjA0NzIsMTkyODA5NDkwNS
-wtMTg5Njk2NDAyOSwtMTI5MjM1MTk4MywtOTc5NzQ3OTQ2LDQw
-MjIxMTkwLC0xMzMzOTA4NjEyLC00ODk0ODIyNjUsLTYyMjMzNz
-cwMiwtMTkxMDE3MTc0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTMxMzkwMTU5MiwtMTI1OTE1NTg3NSwtMj
+Q4NzY3MjcsMzA3OTY5MDQ1LC0xODk3MTU1ODI2LC05NDgyOTc0
+NjksLTE1MjA1MzEyMzEsMTg5Nzc5NzA4NiwtMjA4MTQ2MDQ3Mi
+wxOTI4MDk0OTA1LC0xODk2OTY0MDI5LC0xMjkyMzUxOTgzLC05
+Nzk3NDc5NDYsNDAyMjExOTAsLTEzMzM5MDg2MTIsLTQ4OTQ4Mj
+I2NSwtNjIyMzM3NzAyLC0xOTEwMTcxNzQyLC0yMDg4NzQ2NjEy
+XX0=
 -->
