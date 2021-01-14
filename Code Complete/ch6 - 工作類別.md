@@ -132,7 +132,8 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 
 在使用多種繼承權應考慮其他方案並謹慎的評估他可能會對系統的複雜性和可理解性產生的影響
 他的用途是產生一個混合體
-ㄌㄨㄣ
+混合體可以是 可顯示、持久ㄏㄨ
+混合體的所繼承的類別應保持獨立，避免菱形繼承的問題
 
 #### 為什麼會有這麼多關於繼承的規則
 
@@ -196,11 +197,11 @@ liskov總結為 衍生類別必須能透過基底類別的介面而被使用， 
 ### 避免用動詞命名的類別
 只有行為而沒有資料的類別往往不是一個真正的類別
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDgzNDMxMywtNTE2ODk0MjUwLC0xOD
-AwMzIxMjUxLDIxMzY0ODExNDIsLTYxNDg2MzM3LDEyMTMwMDA5
-NzIsMjAxMDMzNjgsNjgwMDEzNDU5LDE1NTY0NDYzMjUsMTczMj
-M3ODk4MSwtMTM4NzQxMzIwMywtMjA4MTYyNjExLC0xMTIzNTcz
-MjExLC0xOTk1MjMwNjk4LDEzNDY0ODA3OTMsNTQyNzU4NDQ4LD
-IwMDEyNjUyNDIsMTY0MDEwODkzNSwyMTExOTYyMDAyLC0xODAy
-MDQ1NzddfQ==
+eyJoaXN0b3J5IjpbLTEzNzM5MTc0MjIsLTUxNjg5NDI1MCwtMT
+gwMDMyMTI1MSwyMTM2NDgxMTQyLC02MTQ4NjMzNywxMjEzMDAw
+OTcyLDIwMTAzMzY4LDY4MDAxMzQ1OSwxNTU2NDQ2MzI1LDE3Mz
+IzNzg5ODEsLTEzODc0MTMyMDMsLTIwODE2MjYxMSwtMTEyMzU3
+MzIxMSwtMTk5NTIzMDY5OCwxMzQ2NDgwNzkzLDU0Mjc1ODQ0OC
+wyMDAxMjY1MjQyLDE2NDAxMDg5MzUsMjExMTk2MjAwMiwtMTgw
+MjA0NTc3XX0=
 -->
