@@ -37,9 +37,11 @@
 		* 這個子程式要隱藏的資訊
 		* 子程式的輸入
 		* 子程式的輸出
-		* 
+		* 滿足子程式的前置條件(檔案是否開啟等等)
+		* 滿足子程式的後置條件
 * 為子程式命名
 * 決定如何測試你的子程式
+	* 想想怎麼
 * 使用standard library
 * 考慮錯誤處理
 * 考慮效率問題
@@ -84,8 +86,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzQxMzIyMCwxMzE3MTg0NzYyLC0xNz
-Y2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0MjA4ODMsNjI4OTM2
-MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LD
-YwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbLTEzNzU2NzM1NzMsMTMxNzE4NDc2MiwtMT
+c2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkz
+NjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOS
+w2MDMwNDc0NTVdfQ==
 -->
