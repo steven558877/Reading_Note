@@ -91,7 +91,10 @@
 		* 是否有合適的變數名稱、沒使用到的物件
 		* 檢查邏輯，是否有off-by-one的問題、
 	* 檢查布局
-		* 有用正確的空白字釐清子程式
+		* 有用正確的空白字釐清子程式、運算式及參數清單的邏輯結構
+	* 檢查子程式的文件
+		* 確保子程式與轉換為註解的虛擬碼仍然匹配
+		* 
 	* 刪除不需要的註解
 ## PPP的替代方案
 * TDD
@@ -100,8 +103,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNTAxNjk5LC04NTAwNzA2MTgsMTMxNz
-E4NDc2MiwtMTc2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIw
-ODgzLDYyODkzNjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLT
-ExMTk5MDgxOSw2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbMjA4MzAyNDIxNCwtODUwMDcwNjE4LDEzMT
+cxODQ3NjIsLTE3NjY0Mjc4NjgsLTY3MzYxNTc3NywtMTk4NjQy
+MDg4Myw2Mjg5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC
+0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
 -->
