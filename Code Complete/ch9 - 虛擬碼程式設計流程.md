@@ -63,7 +63,7 @@
 	* 反覆的修改虛擬碼描述的子程式，找到幾乎能直接從虛擬碼轉換成程式碼的版本，如果層次太高就分解他，持續精煉，直到你覺得不寫程式碼是在浪費時間為止。
 ### 編寫子程式的程式碼
 * 寫宣告(子程式的描述)
-* 將頭尾兩句描述轉成虛擬碼，再將虛擬碼轉會為高層次的註解
+* 將頭尾兩句描述轉成虛擬碼，再將虛擬碼轉換為註解
 * 為每條註解寫程式
 * 檢查程式是否需要分解
 	* 如果程式太大，則重構成另外一個子程式，並且也使用ppp設計
@@ -91,8 +91,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE0MDE4NDMsMTMxNzE4NDc2MiwtMT
-c2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkz
-NjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOS
-w2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbLTg1MDA3MDYxOCwxMzE3MTg0NzYyLC0xNz
+Y2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0MjA4ODMsNjI4OTM2
+MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LD
+YwMzA0NzQ1NV19
 -->
