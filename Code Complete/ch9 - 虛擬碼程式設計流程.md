@@ -70,6 +70,7 @@
 	* 如果沒有要拆，可以再為那些比較大型的虛擬碼底下的程式碼寫虛擬碼，寫完再轉換為程式碼
 * 檢查程式碼
 	* 如果不知道為什麼需要這段程式碼的話就想辦法去理解，做實驗或是跟別人討論等等
+	* 確實理解每行程式碼的功能，
 * 測試程式碼
 	* 可以使用用測試資料來呼叫子程式的一套測試控管子程式或是一些提供你的子程式呼叫的木樁
 * 消除程式中的錯誤
@@ -91,7 +92,7 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzMxMDI0OSwtODUwMDcwNjE4LDEzMT
+eyJoaXN0b3J5IjpbLTkxOTc0MTI5MSwtODUwMDcwNjE4LDEzMT
 cxODQ3NjIsLTE3NjY0Mjc4NjgsLTY3MzYxNTc3NywtMTk4NjQy
 MDg4Myw2Mjg5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC
 0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
