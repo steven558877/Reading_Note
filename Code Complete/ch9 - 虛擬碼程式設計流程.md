@@ -41,9 +41,11 @@
 		* 滿足子程式的後置條件
 * 為子程式命名
 * 決定如何測試你的子程式
-	* 想想怎麼
+	* 想想要怎麼去測試，有助於寫出可測試的程式碼
 * 使用standard library
 * 考慮錯誤處理
+	* 預想可能出錯的環節
+	* 出錯的處理策略
 * 考慮效率問題
 	* 不是說每個程式都要有很高的效率，是說你要為了未來能夠將程式碼提高效率而設計，像是要有良好的抽象及封裝，未來可以換成其他效率更高的演算法。
 	* 通常要改善效率應該先著重在高層次的設計，除非你能證明子程式無法滿足效率標準，不然去改善只是浪費力氣。
@@ -86,8 +88,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU2NzM1NzMsMTMxNzE4NDc2MiwtMT
-c2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkz
-NjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOS
-w2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbMTgwNDU0MDUzNCwxMzE3MTg0NzYyLC0xNz
+Y2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0MjA4ODMsNjI4OTM2
+MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LD
+YwMzA0NzQ1NV19
 -->
