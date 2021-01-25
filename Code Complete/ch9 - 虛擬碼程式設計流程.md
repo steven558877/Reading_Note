@@ -94,7 +94,7 @@
 		* 有用正確的空白字釐清子程式、運算式及參數清單的邏輯結構
 	* 檢查子程式的文件
 		* 確保子程式與轉換為註解的虛擬碼仍然匹配
-		* 
+		* 檢查演算法的描述、並非顯而易見的依賴性、難以理解的程式碼行為的解釋
 	* 刪除不需要的註解
 ## PPP的替代方案
 * TDD
@@ -103,7 +103,7 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzAyNDIxNCwtODUwMDcwNjE4LDEzMT
+eyJoaXN0b3J5IjpbMTU1MDU2MDgxNCwtODUwMDcwNjE4LDEzMT
 cxODQ3NjIsLTE3NjY0Mjc4NjgsLTY3MzYxNTc3NywtMTk4NjQy
 MDg4Myw2Mjg5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC
 0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
