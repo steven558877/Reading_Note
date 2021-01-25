@@ -67,7 +67,7 @@
 * 為每條註解寫程式
 * 檢查程式是否需要分解
 	* 如果程式太大，則重構成另外一個子程式，並且也使用ppp設計
-	* 如果沒有要拆，可以在為那些有點數量的程式編寫虛擬碼。
+	* 如果沒有要拆，可以再為那些比較大ㄒㄧ虛擬碼後的程式碼寫虛擬碼，寫完再轉換為程式碼
 * 檢查程式碼
 	* 如果不知道為什麼需要這段程式碼的話就想辦法去理解，做實驗或是跟別人討論等等
 * 測試程式碼
@@ -91,8 +91,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDA3MDYxOCwxMzE3MTg0NzYyLC0xNz
-Y2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0MjA4ODMsNjI4OTM2
-MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LD
-YwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbLTE5MTc2NTc2MjcsLTg1MDA3MDYxOCwxMz
+E3MTg0NzYyLC0xNzY2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0
+MjA4ODMsNjI4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MC
+wtMTExOTkwODE5LDYwMzA0NzQ1NV19
 -->
