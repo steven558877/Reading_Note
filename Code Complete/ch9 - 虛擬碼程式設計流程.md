@@ -52,12 +52,13 @@
 * 研究演算法及資料類型
 * 編寫虛擬碼
 	* 做完上述步驟就可以開始寫虛擬碼了
-	* 先用句子寫出程式碼的描述，寫描述可以闡明你對城市ㄇ
-	* 
+	* 先用句子寫出程式碼的描述，寫描述可以闡明你對子程式的理解
+	* 寫完後就可以用高層次去編寫虛擬碼
 * 考慮資料
 	* 如果資料的操作是該子程式的重點，則值得在考慮子程式的邏輯前先搞清楚資料，把資料定義好。
 * 檢查虛擬碼
 	* 想想你如何向別人解釋虛擬碼
+	* 確認透過虛擬碼可以很容易地知道城市在ㄗㄨ
 * 在虛擬碼中試驗想法，並且留下最好的結果(迭代)
 	* 反覆的修改虛擬碼描述的子程式，找到幾乎能直接從虛擬碼轉換成程式碼的版本，如果層次太高就分解他，持續精煉，直到你覺得不寫程式碼是在浪費時間為止。
 ### 編寫子程式的程式碼
@@ -90,8 +91,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc3MTM5MTQsMTMxNzE4NDc2MiwtMT
-c2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkz
-NjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOS
-w2MDMwNDc0NTVdfQ==
+eyJoaXN0b3J5IjpbLTM2MTAyMDMwNCwxMzE3MTg0NzYyLC0xNz
+Y2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0MjA4ODMsNjI4OTM2
+MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LD
+YwMzA0NzQ1NV19
 -->
