@@ -32,6 +32,12 @@
 * 檢查先決條件，檢查該子程式是否以定義好要做的工作並且是否與整體設計匹配
 	* 也要檢查進入及離開子程式時的需求是否達成(資料位於合法範圍、檔案已打開/關閉、緩衝區填滿/清空)
 * 定義子程式要解決的問題
+	* 且描述的足夠詳細
+	* 包含:	
+		* 這個子程式要隱藏的資訊
+		* 子程式的輸入
+		* 子程式的輸出
+		* 
 * 為子程式命名
 * 決定如何測試你的子程式
 * 使用standard library
@@ -78,8 +84,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzE4NDc2MiwtMTc2NjQyNzg2OCwtNj
-czNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkzNjI3MSwtMTYyMjc1
-NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOSw2MDMwNDc0NTVdfQ
-==
+eyJoaXN0b3J5IjpbMTc1MzQxMzIyMCwxMzE3MTg0NzYyLC0xNz
+Y2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0MjA4ODMsNjI4OTM2
+MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MCwtMTExOTkwODE5LD
+YwMzA0NzQ1NV19
 -->
