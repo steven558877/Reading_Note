@@ -82,13 +82,16 @@
 	* 如果程式中漏洞百出，就重寫吧，重寫出一個找不出漏洞的程式會比修補來得好
 * 收尾
 	* 檢查子程式的介面
+		* 檢查所以輸入輸出都被使用
 	* 檢查品質
-		* 一個子程式只做一件是
+		* 一個子程式只做一件事
 		* 子程式間低耦合
 		* 具有防禦性程式設計
 	* 檢查變數
 		* 是否有合適的變數名稱、沒使用到的物件
 		* 檢查邏輯，是否有off-by-one的問題、
+	* 檢查布局
+		* 有用正確的空白字釐清子程式
 	* 刪除不需要的註解
 ## PPP的替代方案
 * TDD
@@ -97,8 +100,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYzMTE4ODYsLTg1MDA3MDYxOCwxMz
-E3MTg0NzYyLC0xNzY2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0
-MjA4ODMsNjI4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MC
-wtMTExOTkwODE5LDYwMzA0NzQ1NV19
+eyJoaXN0b3J5IjpbNjUzNTAxNjk5LC04NTAwNzA2MTgsMTMxNz
+E4NDc2MiwtMTc2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIw
+ODgzLDYyODkzNjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLT
+ExMTk5MDgxOSw2MDMwNDc0NTVdfQ==
 -->
