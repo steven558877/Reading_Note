@@ -51,7 +51,9 @@
 	* 通常要改善效率應該先著重在高層次的設計，除非你能證明子程式無法滿足效率標準，不然去改善只是浪費力氣。
 * 研究演算法及資料類型
 * 編寫虛擬碼
-做完上述步驟就可以開始寫虛擬碼了
+	* 做完上述步驟就可以開始寫虛擬碼了
+	* 先用句子寫出程式碼的描述，寫描述可以闡明你對城市ㄇ
+	* 
 * 考慮資料
 	* 如果資料的操作是該子程式的重點，則值得在考慮子程式的邏輯前先搞清楚資料，把資料定義好。
 * 檢查虛擬碼
@@ -88,8 +90,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzQxMjgyLDEzMTcxODQ3NjIsLTE3Nj
-Y0Mjc4NjgsLTY3MzYxNTc3NywtMTk4NjQyMDg4Myw2Mjg5MzYy
-NzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC0xMTE5OTA4MTksNj
-AzMDQ3NDU1XX0=
+eyJoaXN0b3J5IjpbLTE1OTc3MTM5MTQsMTMxNzE4NDc2MiwtMT
+c2NjQyNzg2OCwtNjczNjE1Nzc3LC0xOTg2NDIwODgzLDYyODkz
+NjI3MSwtMTYyMjc1NDg2Niw4ODE3MjI2NDAsLTExMTk5MDgxOS
+w2MDMwNDc0NTVdfQ==
 -->
