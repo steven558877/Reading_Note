@@ -71,7 +71,8 @@
 * 檢查程式碼
 	* 如果不知道為什麼需要這段程式碼的話就想辦法去理解，做實驗或是跟別人討論等等
 	* 確實理解每行程式碼的功能，只因為看起來可行就使用，遲早會發生問題
-* 
+	* 編譯子程式:
+		* 書中提到，不要常常編譯你的子程式，等到適當的時間才編譯能夠避免東拼西湊->編譯->修改這種程式寫法
 * 測試程式碼
 	* 可以使用用測試資料來呼叫子程式的一套測試控管子程式或是一些提供你的子程式呼叫的木樁
 * 消除程式中的錯誤
@@ -93,8 +94,8 @@
 	* 程式具有前置條件、後置條件
 	* 用斷言來驗證上述兩者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTg2MDA5MiwtODUwMDcwNjE4LDEzMT
-cxODQ3NjIsLTE3NjY0Mjc4NjgsLTY3MzYxNTc3NywtMTk4NjQy
-MDg4Myw2Mjg5MzYyNzEsLTE2MjI3NTQ4NjYsODgxNzIyNjQwLC
-0xMTE5OTA4MTksNjAzMDQ3NDU1XX0=
+eyJoaXN0b3J5IjpbLTIxMTQyOTQzOTgsLTg1MDA3MDYxOCwxMz
+E3MTg0NzYyLC0xNzY2NDI3ODY4LC02NzM2MTU3NzcsLTE5ODY0
+MjA4ODMsNjI4OTM2MjcxLC0xNjIyNzU0ODY2LDg4MTcyMjY0MC
+wtMTExOTkwODE5LDYwMzA0NzQ1NV19
 -->
