@@ -12,8 +12,9 @@ Effictive C++
 More Effictive C++
 Primer C++
 The Pragmatic Programmer 20週年紀念版 (The Pragmatic Programmer, 20th Anniversary Edition)
+The art of unix programing
 
 雜談的能力
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjg1NTc1LC0xMTQ1NDQ5ODQ4XX0=
+eyJoaXN0b3J5IjpbMTcwMDQ4Mjc3MCwtMTE0NTQ0OTg0OF19
 -->
